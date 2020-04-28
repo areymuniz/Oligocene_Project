@@ -1,0 +1,1017 @@
+﻿Log file open, 04/27/20 21:20:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.077433
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.28-01.20.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.28-01.20.57:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:776][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-01.20.57:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-01.20.57:780][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-01.20.57:780][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-01.20.57:780][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.28-01.20.57:782][  0]LogHAL: Display: Platform has ~ 16 GB [17022164992 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.28-01.20.57:782][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-01.20.57:783][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.28-01.20.57:784][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-01.20.57:784][  0]LogInit: Computer: LAPTOP-78N76RH6
+[2020.04.28-01.20.57:784][  0]LogInit: User: tianz
+[2020.04.28-01.20.57:784][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.28-01.20.57:784][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.28-01.20.57:784][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.28-01.20.57:784][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.28-01.20.57:784][  0]LogMemory: Process Physical Memory: 105.59 MB used, 105.59 MB peak
+[2020.04.28-01.20.57:785][  0]LogMemory: Process Virtual Memory: 101.43 MB used, 101.43 MB peak
+[2020.04.28-01.20.57:785][  0]LogMemory: Physical Memory: 5591.80 MB used,  10641.80 MB free, 16233.60 MB total
+[2020.04.28-01.20.57:785][  0]LogMemory: Virtual Memory: 5159.29 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.04.28-01.20.57:787][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.28-01.20.57:810][  0]LogInit: Using OS detected language (en-US).
+[2020.04.28-01.20.57:810][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.28-01.20.57:812][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.28-01.20.57:993][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.28-01.20.58:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.28-01.20.58:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.28-01.20.58:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-01.20.58:233][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.28-01.20.58:233][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.28-01.20.58:233][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.28-01.20.58:348][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.04.28-01.20.58:348][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.28-01.20.58:377][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.28-01.20.58:377][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.28-01.20.58:379][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.28-01.20.58:379][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.28-01.20.58:379][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.28-01.20.58:427][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.28-01.20.58:427][  0]LogD3D11RHI:     GPU DeviceId: 0x1f50 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.28-01.20.58:427][  0]LogWindows: EnumDisplayDevices:
+[2020.04.28-01.20.58:427][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.28-01.20.58:428][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.28-01.20.58:428][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.28-01.20.58:428][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.28-01.20.58:428][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.28-01.20.58:429][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.28-01.20.58:429][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.28-01.20.58:429][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.28-01.20.58:429][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.04.28-01.20.58:429][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.04.28-01.20.58:429][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.04.28-01.20.58:429][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.28-01.20.58:468][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.28-01.20.58:468][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.28-01.20.58:483][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.28-01.20.58:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.28-01.20.58:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.28-01.20.58:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.28-01.20.58:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.28-01.20.58:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.28-01.20.58:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.28-01.20.58:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.28-01.20.58:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.28-01.20.58:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.28-01.20.58:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.28-01.20.58:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.28-01.20.58:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.28-01.20.58:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.28-01.20.58:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.28-01.20.58:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.28-01.20.58:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.28-01.20.58:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.28-01.20.58:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.28-01.20.58:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.28-01.20.58:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.28-01.20.58:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.28-01.20.58:904][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.28-01.20.58:907][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.28-01.20.58:931][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/3220/).
+[2020.04.28-01.20.58:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tianz/AppData/Local/Temp/UnrealShaderWorkingDir/7B91D97C46868A583C9967ADB9E4CC3C/'.
+[2020.04.28-01.20.58:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.28-01.20.58:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.28-01.20.58:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.28-01.20.59:525][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: Loaded boot cache 0.07s 100MB C:/Users/tianz/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tianz/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-01.20.59:592][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.28-01.20.59:601][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.28-01.20.59:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-01.20.59:601][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.28-01.20.59:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tianz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.28-01.20.59:602][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.28-01.20.59:602][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.28-01.20.59:634][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.28-01.20.59:636][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.28-01.20.59:637][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.28-01.20.59:682][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.04.28-01.20.59:918][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-01.21.00:052][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.28-01.21.00:052][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.28-01.21.00:052][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.28-01.21.00:052][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.28-01.21.00:052][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.28-01.21.00:062][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.04.28-01.21.00:935][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034442 seconds
+[2020.04.28-01.21.00:943][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.28-01.21.00:943][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.28-01.21.00:943][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.28-01.21.01:280][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.28-01.21.01:283][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.28-01.21.01:326][  0]SourceControl: Source control is disabled
+[2020.04.28-01.21.01:326][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:326][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-01.21.01:326][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:326][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:327][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-01.21.01:328][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:328][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-01.21.01:329][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:329][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-01.21.01:329][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:329][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:330][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-01.21.01:331][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:331][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-01.21.01:331][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:331][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-01.21.01:332][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:332][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-01.21.01:332][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:332][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:333][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-01.21.01:334][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:334][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-01.21.01:334][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:334][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-01.21.01:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:335][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-01.21.01:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:335][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-01.21.01:337][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:337][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-01.21.01:337][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.01:337][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-01.21.01:344][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.28-01.21.01:344][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.28-01.21.01:415][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.28-01.21.01:424][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-01.21.01:425][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-01.21.01:504][  0]LogOcInput: OculusInput pre-init called
+[2020.04.28-01.21.01:512][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.28-01.21.01:512][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.28-01.21.01:569][  0]LogEngine: Initializing Engine...
+[2020.04.28-01.21.01:570][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-01.21.01:571][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.28-01.21.01:888][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.28-01.21.01:896][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.21.01:916][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.21.01:916][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.21.01:917][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.21.01:917][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.21.01:931][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.21.02:002][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.28-01.21.02:013][  0]LogInit: FAudioDevice initialized.
+[2020.04.28-01.21.02:013][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.28-01.21.02:094][  0]LogDerivedDataCache: Saved boot cache 0.08s 100MB C:/Users/tianz/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-01.21.02:101][  0]LogInit: Texture streaming: Enabled
+[2020.04.28-01.21.02:114][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.28-01.21.02:114][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.28-01.21.02:119][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.28-01.21.02:166][  0]LogInit: Transaction tracking system initialized
+[2020.04.28-01.21.02:174][  0]BlueprintLog: New page: Editor Load
+[2020.04.28-01.21.02:203][  0]LocalizationService: Localization service is disabled
+[2020.04.28-01.21.02:286][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.28-01.21.02:287][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.28-01.21.02:514][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.28-01.21.02:514][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.28-01.21.02:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Content/' took 0.02s
+[2020.04.28-01.21.03:098][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:098][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-01.21.03:098][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:098][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:099][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-01.21.03:100][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:100][  0]LogWindows: Warning: URL: C:\Users\tianz\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-01.21.03:100][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-01.21.03:100][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-01.21.03:100][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-01.21.03:100][  0]LightingResults: New page: Lighting Build
+[2020.04.28-01.21.03:101][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.21.03:101][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.21.03:101][  0]MapCheck: New page: Map Check
+[2020.04.28-01.21.03:101][  0]LightingResults: New page: Lighting Build
+[2020.04.28-01.21.03:125][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.28-01.21.05:946][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.04.28-01.21.06:192][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-01.21.06:308][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.28-01.21.06:309][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-01.21.06:310][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.412ms to complete.
+[2020.04.28-01.21.06:310][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 3.210
+[2020.04.28-01.21.06:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.21.06:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.21.06:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.21.06:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.21.06:543][  0]LogCollectionManager: Loaded 0 collections in 0.001749 seconds
+[2020.04.28-01.21.06:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.04.28-01.21.06:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Content/Developers/tianz/Collections/' took 0.00s
+[2020.04.28-01.21.06:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tianz/Documents/Unreal Projects/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.04.28-01.21.06:617][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.04.28-01.21.06:633][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.28-01.21.06:920][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-01.21.06:933][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.28-01.21.07:071][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.28-01.21.07:077][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.28-01.21.07:083][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.28-01.21.07:273][  0]LogRenderer: Reallocating scene render targets to support 1208x668 Format 26 NumSamples 1 (Frame:1).
+[2020.04.28-01.21.07:701][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-01.21.07:701][  0]LogLoad: (Engine Initialization) Total time: 11.32 seconds
+[2020.04.28-01.21.07:701][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.28-01.21.07:787][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.28-01.21.07:811][  0]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-01.21.07:847][  1]LogAssetRegistry: Asset discovery search completed in 8.1656 seconds
+[2020.04.28-01.21.07:851][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.04.28-01.48.33:481][498]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b68c88b0-ef3f-4d9f-83b9-9a7e2f80cc4d}.
+[2020.04.28-01.48.33:507][498]LogTemp: Resetting audio stream to device id 
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.48.33:562][498]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.54.37:732][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IcePlane)
+[2020.04.28-01.54.42:417][674]Cmd: DELETE
+[2020.04.28-01.54.42:417][674]Cmd: ACTOR DELETE
+[2020.04.28-01.54.42:468][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.28-01.54.42:496][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.28-01.54.42:501][674]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.04.28-01.54.58:729][362]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.04.28-01.55.09:311][792]Cmd: TRANSACTION UNDO
+[2020.04.28-01.55.09:311][792]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-01.55.09:486][792]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-01.55.33:993][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.04.28-01.55.47:883][229]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-01.55.47:883][229]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-01.55.49:436][298]Cmd: TRANSACTION UNDO
+[2020.04.28-01.55.49:436][298]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-01.55.49:507][298]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-01.55.49:509][298]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.00.40:664][435]Cmd: TRANSACTION UNDO
+[2020.04.28-02.00.40:664][435]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.04.28-02.00.40:754][435]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2020.04.28-02.00.40:756][435]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2020.04.28-02.01.18:583][346]Cmd: TRANSACTION UNDO
+[2020.04.28-02.01.18:584][346]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.01.18:668][346]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2020.04.28-02.01.18:671][346]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.01.18:672][346]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.01.18:674][346]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 128X128)
+[2020.04.28-02.03.20:660][107]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.03.20:671][107]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2020.04.28-02.03.21:864][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.03.21:864][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.03.55:842][299]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.03.55:855][299]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2020.04.28-02.03.57:550][360]Cmd: TRANSACTION UNDO
+[2020.04.28-02.03.57:550][360]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.03.57:653][360]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.03.57:655][360]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.03.57:657][360]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 128X128)
+[2020.04.28-02.03.57:659][360]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2020.04.28-02.14.16:587][105]Cmd: TRANSACTION UNDO
+[2020.04.28-02.14.16:587][105]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.14.16:656][105]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.14.16:660][105]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.14.38:080][857]Cmd: TRANSACTION UNDO
+[2020.04.28-02.14.38:080][857]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.14.38:149][857]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2020.04.28-02.14.38:152][857]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2020.04.28-02.14.38:454][867]Cmd: TRANSACTION UNDO
+[2020.04.28-02.14.38:454][867]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.14.38:494][867]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.14.38:496][867]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.15.08:775][ 94]Cmd: TRANSACTION UNDO
+[2020.04.28-02.15.08:776][ 94]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.04.28-02.15.08:859][ 94]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.15.08:861][ 94]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.15.08:966][ 95]Cmd: TRANSACTION UNDO
+[2020.04.28-02.15.08:966][ 95]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.04.28-02.15.09:012][ 95]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.15.09:014][ 95]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.18.00:528][494]Cmd: TRANSACTION UNDO
+[2020.04.28-02.18.00:528][494]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.18.00:592][494]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.18.00:595][494]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.34:894][684]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.34:894][684]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.34:956][684]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.34:957][684]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.35:400][697]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.35:401][697]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.35:444][697]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.35:446][697]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.35:831][713]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.35:831][713]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.35:880][713]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.36:156][725]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.36:156][725]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.36:221][725]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.36:223][725]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.36:564][737]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.36:565][737]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.36:639][737]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.36:641][737]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.36:991][751]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.36:991][751]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.37:058][751]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.37:060][751]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.37:441][766]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.37:441][766]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.37:504][766]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.37:506][766]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.37:874][779]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.37:874][779]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.37:941][779]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.37:943][779]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.38:352][795]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.38:352][795]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.38:422][795]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.38:423][795]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.38:827][810]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.38:827][810]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.38:901][810]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.38:903][810]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.39:228][823]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.39:228][823]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.39:293][823]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.39:295][823]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.21.39:587][835]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.39:587][835]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.39:635][835]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.39:944][847]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.39:944][847]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.40:008][847]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.40:289][858]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.40:289][858]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.40:333][858]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.41:914][920]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.41:914][920]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.41:963][920]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.42:323][934]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.42:323][934]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.42:374][934]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.42:640][944]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.42:640][944]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.21.42:685][944]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.21.46:871][127]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.46:871][127]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.49:170][212]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.49:170][212]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.49:252][214]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.49:252][214]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.49:665][230]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.49:665][230]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.50:046][242]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.50:046][242]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.50:500][259]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.50:500][259]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.51:104][281]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.51:104][281]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.51:567][297]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.51:567][297]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.52:095][316]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.52:095][316]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.52:438][327]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.52:438][327]LogEditorTransaction: Redo Landscape Editing: Smooth
+[2020.04.28-02.21.52:788][338]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.52:788][338]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2020.04.28-02.21.53:042][346]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.53:042][346]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2020.04.28-02.21.53:283][353]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.53:283][353]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2020.04.28-02.21.53:542][360]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.53:542][360]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2020.04.28-02.21.53:818][368]Cmd: TRANSACTION REDO
+[2020.04.28-02.21.53:818][368]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2020.04.28-02.21.55:876][446]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.55:876][446]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.56:279][460]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.56:279][460]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.21.56:561][469]Cmd: TRANSACTION UNDO
+[2020.04.28-02.21.56:561][469]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.22.32:561][722]Cmd: TRANSACTION UNDO
+[2020.04.28-02.22.32:561][722]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.22.32:657][722]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.22.32:659][722]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.22.45:541][974]Cmd: TRANSACTION UNDO
+[2020.04.28-02.22.45:542][974]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.22.45:613][974]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.22.45:615][974]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.27:753][190]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.27:753][190]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.27:821][190]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.27:823][190]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.29:413][238]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.29:413][238]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.29:488][238]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.29:490][238]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.30:052][255]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.30:052][255]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.30:108][255]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.30:527][269]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.30:527][269]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.30:579][269]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.30:910][280]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.30:910][280]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.30:986][280]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.30:988][280]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.31:424][293]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.31:424][293]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.31:497][293]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.31:499][293]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.31:901][306]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.31:901][306]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.23.31:972][306]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.23.31:974][306]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.23.32:609][325]Cmd: TRANSACTION UNDO
+[2020.04.28-02.23.32:609][325]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.28-02.27.49:240][262]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (rough_aquarium_base_dome2)
+[2020.04.28-02.29.01:296][ 76]Cmd: TRANSACTION UNDO
+[2020.04.28-02.29.01:296][ 76]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.29.01:342][ 76]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.29.01:344][ 76]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.29.48:252][441]Cmd: TRANSACTION UNDO
+[2020.04.28-02.29.48:252][441]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.29.48:297][441]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.29.48:300][441]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.29.50:098][532]Cmd: TRANSACTION UNDO
+[2020.04.28-02.29.50:098][532]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.29.51:854][627]Cmd: TRANSACTION UNDO
+[2020.04.28-02.29.51:854][627]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.29.51:915][627]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.29.51:917][627]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.30.10:468][712]Cmd: TRANSACTION UNDO
+[2020.04.28-02.30.10:468][712]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.04.28-02.32.53:978][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.04.28-02.32.56:744][931]LogSlate: Window 'Save Content' being destroyed
+[2020.04.28-02.32.56:815][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.04.28-02.32.56:853][931]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 128X128)
+[2020.04.28-02.32.56:854][931]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2020.04.28-02.32.56:855][931]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-02.32.56:856][931]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2020.04.28-02.32.56:857][931]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 128X128)
+[2020.04.28-02.32.56:858][931]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 128X128)
+[2020.04.28-02.32.56:859][931]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 128X128)
+[2020.04.28-02.32.56:860][931]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-02.32.56:862][931]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2020.04.28-02.32.56:863][931]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2020.04.28-02.32.56:865][931]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2020.04.28-02.32.57:879][931]LogSavePackage: Moving '../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/Saved/Oligocene_Playable1FECCFC14D61B70245B319B1E8863F58.tmp' to '../../../../../../Users/tianz/Documents/Unreal Projects/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.04.28-02.32.57:899][931]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.113
+[2020.04.28-02.32.57:925][931]AssetCheck: New page: Asset Save: Oligocene_Playable
+[2020.04.28-02.32.57:925][931]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.04.28-02.40.52:829][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.28-02.41.50:201][ 18]LogEditorViewport: Clicking Background
+[2020.04.28-02.41.50:270][ 19]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2020.04.28-02.42.09:922][817]LogParticles: Error: Bad values in FParticleSystemSceneProxy::GetObjectPositionAndScale
+[2020.04.28-02.42.09:922][817]LogParticles: Error: SystemPositionForMacroUVs: {4898.000488, -5524.999023, 1030.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ObjectPostProjectionPositionWithW: {-4098821120.000000, 4654418944.000000, 10.000000, 5226129408.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: RightPostProjectionPosition: {-4098821120.000000, 4654418944.000000, 10.000000, 5226129408.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: UpPostProjectionPosition: {-4098821120.000000, 4654418944.000000, 10.000000, 5226129408.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ObjectNDCPosition: {-0.784294, 0.890605}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: RightNDCPosX: -0.784294
+[2020.04.28-02.42.09:922][817]LogParticles: Error: UpNDCPosY: 0.890605
+[2020.04.28-02.42.09:922][817]LogParticles: Error: MacroUVPosition: {4898.000488, -5524.999023, 1030.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: MacroUVRadius: 200.000000
+[2020.04.28-02.42.09:922][817]LogParticles: Error: DX: 0.000000
+[2020.04.28-02.42.09:922][817]LogParticles: Error: DY: 0.000000
+[2020.04.28-02.42.09:922][817]LogParticles: Error: View0: {0.561312, -0.827605, 0.000000, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: View1: {-0.500397, -0.339388, 0.796504, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: View2: {-0.659190, -0.447087, -0.604633, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: View3: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ViewProj0: {0.561782, -0.827286, 0.000431, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ViewProj1: {-0.914807, -0.620456, 1.456924, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ViewProj2: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:922][817]LogParticles: Error: ViewProj3: {-0.659190, -0.447087, -0.604633, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: Bad values in FParticleSystemSceneProxy::GetObjectPositionAndScale
+[2020.04.28-02.42.09:946][818]LogParticles: Error: SystemPositionForMacroUVs: {4502.000000, -5395.000000, 610.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ObjectPostProjectionPositionWithW: {-5902002688.000000, 7320297984.000000, 10.000000, 7559259648.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: RightPostProjectionPosition: {-5902002688.000000, 7320297984.000000, 10.000000, 7559259648.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: UpPostProjectionPosition: {-5902002688.000000, 7320297984.000000, 10.000000, 7559259648.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ObjectNDCPosition: {-0.780765, 0.968388}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: RightNDCPosX: -0.780765
+[2020.04.28-02.42.09:946][818]LogParticles: Error: UpNDCPosY: 0.968388
+[2020.04.28-02.42.09:946][818]LogParticles: Error: MacroUVPosition: {4502.000000, -5395.000000, 610.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: MacroUVRadius: 200.000000
+[2020.04.28-02.42.09:946][818]LogParticles: Error: DX: 0.000000
+[2020.04.28-02.42.09:946][818]LogParticles: Error: DY: 0.000000
+[2020.04.28-02.42.09:946][818]LogParticles: Error: View0: {0.540924, -0.841071, 0.000000, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: View1: {-0.510875, -0.328563, 0.794389, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: View2: {-0.668137, -0.429704, -0.607410, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: View3: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ViewProj0: {0.540870, -0.841106, -0.000049, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ViewProj1: {-0.934839, -0.601230, 1.452262, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ViewProj2: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ViewProj3: {-0.668137, -0.429704, -0.607410, 1.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: Bad values in FParticleSystemSceneProxy::GetObjectPositionAndScale
+[2020.04.28-02.42.09:946][818]LogParticles: Error: SystemPositionForMacroUVs: {4898.000488, -5524.999023, 1030.000000}
+[2020.04.28-02.42.09:946][818]LogParticles: Error: ObjectPostProjectionPositionWithW: {-5902002688.000000, 7320298496.000000, 10.000000, 7559259136.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: RightPostProjectionPosition: {-5902002176.000000, 7320298496.000000, 10.000000, 7559259136.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: UpPostProjectionPosition: {-5902002688.000000, 7320298496.000000, 10.000000, 7559259136.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: ObjectNDCPosition: {-0.780765, 0.968388}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: RightNDCPosX: -0.780765
+[2020.04.28-02.42.09:947][818]LogParticles: Error: UpNDCPosY: 0.968388
+[2020.04.28-02.42.09:947][818]LogParticles: Error: MacroUVPosition: {4898.000488, -5524.999023, 1030.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: MacroUVRadius: 200.000000
+[2020.04.28-02.42.09:947][818]LogParticles: Error: DX: 0.000000
+[2020.04.28-02.42.09:947][818]LogParticles: Error: DY: 0.000000
+[2020.04.28-02.42.09:947][818]LogParticles: Error: View0: {0.540924, -0.841071, 0.000000, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: View1: {-0.510875, -0.328563, 0.794389, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: View2: {-0.668137, -0.429704, -0.607410, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: View3: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: ViewProj0: {0.540870, -0.841106, -0.000049, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: ViewProj1: {-0.934839, -0.601230, 1.452262, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: ViewProj2: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.04.28-02.42.09:947][818]LogParticles: Error: ViewProj3: {-0.668137, -0.429704, -0.607410, 1.000000}
+[2020.04.28-02.42.11:359][869]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.580 s
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: 
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMath.cpp] [Line: 105]
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: FMath::FMod(X=-112006692864.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: Stack: 
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b779513 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b06a255 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23beb2e0 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23b26f9f UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23b035d9 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23b041aa UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb2369d71c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23b1b808 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb23af962c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b039ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b03a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb4e485391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb4e48e254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b4b32ef UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffb3b4b2f94 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffbc8a57bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: [Callstack] 0x00007ffbc9a4ce51 ntdll.dll!UnknownFunction []
+[2020.04.28-02.42.11:360][869]LogOutputDevice: Error: 
+[2020.04.28-02.42.11:360][869]LogStats:                SubmitErrorReport -  0.000 s
