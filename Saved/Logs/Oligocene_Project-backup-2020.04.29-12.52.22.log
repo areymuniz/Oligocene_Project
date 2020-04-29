@@ -1,0 +1,958 @@
+﻿Log file open, 04/28/20 16:02:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075440
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=armuniz -epicuserid=7ecf574bb71f40febd4bd8b5a17df23c -epiclocale=en
+LogInit: Base Directory: D:/Program_Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.28-20.03.00:577][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.28-20.03.00:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:578][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:584][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-20.03.00:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-20.03.00:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-20.03.00:585][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-20.03.00:585][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.28-20.03.00:589][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.28-20.03.00:589][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.28-20.03.00:589][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.28-20.03.00:589][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-20.03.00:590][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.28-20.03.00:591][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.04.28-20.03.00:591][  0]LogInit: Computer: DESKTOP-A5808GU
+[2020.04.28-20.03.00:591][  0]LogInit: User: Antonio
+[2020.04.28-20.03.00:591][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.28-20.03.00:591][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.28-20.03.00:592][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.04.28-20.03.00:592][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.28-20.03.00:592][  0]LogMemory: Process Physical Memory: 109.39 MB used, 109.39 MB peak
+[2020.04.28-20.03.00:592][  0]LogMemory: Process Virtual Memory: 105.45 MB used, 105.45 MB peak
+[2020.04.28-20.03.00:592][  0]LogMemory: Physical Memory: 10654.51 MB used,  5523.77 MB free, 16178.28 MB total
+[2020.04.28-20.03.00:592][  0]LogMemory: Virtual Memory: 5200.64 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2020.04.28-20.03.00:596][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.28-20.03.00:634][  0]LogInit: Using OS detected language (en-US).
+[2020.04.28-20.03.00:634][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.28-20.03.00:635][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.28-20.03.00:800][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.28-20.03.00:839][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.28-20.03.00:839][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.28-20.03.01:074][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.28-20.03.01:074][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.28-20.03.01:074][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.28-20.03.01:074][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.28-20.03.01:153][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.04.28-20.03.01:153][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.28-20.03.01:170][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.28-20.03.01:170][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.28-20.03.01:173][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.28-20.03.01:173][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.28-20.03.01:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.28-20.03.01:215][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.28-20.03.01:216][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.28-20.03.01:216][  0]LogWindows: EnumDisplayDevices:
+[2020.04.28-20.03.01:216][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.28-20.03.01:216][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.28-20.03.01:217][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.28-20.03.01:217][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.04.28-20.03.01:217][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.28-20.03.01:217][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.04.28-20.03.01:217][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.04.28-20.03.01:217][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.04.28-20.03.01:217][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.28-20.03.01:269][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.28-20.03.01:269][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.28-20.03.01:301][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.28-20.03.01:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.28-20.03.01:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.28-20.03.01:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.28-20.03.01:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.28-20.03.01:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.28-20.03.01:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.28-20.03.01:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.28-20.03.01:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.28-20.03.01:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.28-20.03.01:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.28-20.03.01:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.28-20.03.01:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.28-20.03.01:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.28-20.03.01:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.28-20.03.01:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.28-20.03.01:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.28-20.03.01:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.28-20.03.01:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.28-20.03.01:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.28-20.03.01:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.28-20.03.01:885][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.28-20.03.01:906][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/21084/).
+[2020.04.28-20.03.01:906][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Antonio/AppData/Local/Temp/UnrealShaderWorkingDir/9E6A99934A835EDA53788EA8C3410A97/'.
+[2020.04.28-20.03.01:907][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.28-20.03.01:907][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.28-20.03.01:907][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.28-20.03.02:584][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: Loaded boot cache 0.07s 103MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Antonio/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-20.03.02:656][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.28-20.03.02:667][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.28-20.03.02:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-20.03.02:667][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.28-20.03.02:669][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Antonio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.28-20.03.02:669][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.28-20.03.02:669][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.28-20.03.02:756][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.28-20.03.02:759][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.28-20.03.02:760][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.28-20.03.02:815][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.04.28-20.03.03:128][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-20.03.03:297][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.28-20.03.03:297][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.28-20.03.03:297][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.28-20.03.03:297][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.28-20.03.03:297][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.28-20.03.03:312][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.04.28-20.03.04:706][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.071018 seconds
+[2020.04.28-20.03.04:716][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.28-20.03.04:716][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.28-20.03.04:716][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.28-20.03.05:154][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.28-20.03.05:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.28-20.03.05:220][  0]SourceControl: Source control is disabled
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:221][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-20.03.05:222][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:222][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-20.03.05:222][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:222][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:223][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-20.03.05:224][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:224][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:225][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-20.03.05:226][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:226][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-20.03.05:226][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:226][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.05:227][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-20.03.05:318][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.28-20.03.05:329][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-20.03.05:329][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-20.03.05:414][  0]LogOcInput: OculusInput pre-init called
+[2020.04.28-20.03.06:121][  0]LogEngine: Initializing Engine...
+[2020.04.28-20.03.06:198][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.28-20.03.06:199][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.28-20.03.06:560][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.28-20.03.06:568][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-20.03.06:585][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-20.03.06:585][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-20.03.06:585][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-20.03.06:617][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-20.03.06:635][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.04.28-20.03.06:641][  0]LogInit: FAudioDevice initialized.
+[2020.04.28-20.03.06:641][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.28-20.03.07:244][  0]LogDerivedDataCache: Saved boot cache 0.60s 103MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-20.03.07:252][  0]LogInit: Texture streaming: Enabled
+[2020.04.28-20.03.07:262][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.28-20.03.07:262][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.28-20.03.07:269][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.28-20.03.07:334][  0]LogInit: Transaction tracking system initialized
+[2020.04.28-20.03.07:346][  0]BlueprintLog: New page: Editor Load
+[2020.04.28-20.03.07:374][  0]LocalizationService: Localization service is disabled
+[2020.04.28-20.03.07:809][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.28-20.03.07:809][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.28-20.03.07:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Content/' took 0.02s
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:710][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:711][  0]LogWindows: Warning: URL: C:\Users\Antonio\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.28-20.03.08:712][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.28-20.03.08:712][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.28-20.03.08:712][  0]Cmd: MAP LOAD FILE="C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-20.03.08:713][  0]LightingResults: New page: Lighting Build
+[2020.04.28-20.03.08:714][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.03.08:714][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.03.08:715][  0]MapCheck: New page: Map Check
+[2020.04.28-20.03.08:715][  0]LightingResults: New page: Lighting Build
+[2020.04.28-20.03.08:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_66 (AutoDXT, 128X128)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_67 (AutoDXT, 64X64)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2020.04.28-20.03.24:568][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_66 (DXT1, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_67 (DXT1, 64X64)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1139 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1140 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1141 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1142 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1143 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1144 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1145 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1146 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1147 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1148 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1149 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1150 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1151 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1152 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1153 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1155 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1154 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1156 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1157 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1158 (BGRA8, 256X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1159 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1160 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1161 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1162 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1163 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1164 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1165 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1166 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1167 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1168 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1169 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1170 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1171 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1173 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1172 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1175 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1176 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1178 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1177 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1174 (BGRA8, 1024X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1179 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1180 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1181 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1182 (BGRA8, 128X128)
+[2020.04.28-20.03.24:569][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1184 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1183 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1185 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1186 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1187 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1188 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1189 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1190 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1191 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1192 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1193 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1194 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1195 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1196 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1197 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1198 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1199 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1200 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1201 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1202 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1203 (BGRA8, 256X64)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1205 (BGRA8, 64X32)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1204 (BGRA8, 128X64)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 128X128)
+[2020.04.28-20.03.24:570][  0]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 128X128)
+[2020.04.28-20.03.26:610][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.04.28-20.03.27:519][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-20.03.27:683][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.28-20.03.27:685][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-20.03.27:686][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2020.04.28-20.03.27:686][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 18.973
+[2020.04.28-20.03.29:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.03.29:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.03.29:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.03.29:340][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.03.29:416][  0]LogCollectionManager: Loaded 0 collections in 0.000738 seconds
+[2020.04.28-20.03.29:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.04.28-20.03.29:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Content/Developers/Antonio/Collections/' took 0.00s
+[2020.04.28-20.03.29:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.04.28-20.03.29:522][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3015 classes and 717 folders.
+[2020.04.28-20.03.29:635][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-20.03.31:459][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.28-20.03.31:527][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.28-20.03.35:851][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.28-20.03.35:879][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.28-20.03.36:166][  0]LogSlate: Took 0.085013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.28-20.03.37:310][  0]LogRenderer: Reallocating scene render targets to support 888x428 Format 26 NumSamples 1 (Frame:1).
+[2020.04.28-20.03.39:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-20.03.39:123][  0]LogLoad: (Engine Initialization) Total time: 40.59 seconds
+[2020.04.28-20.03.39:123][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.28-20.03.39:693][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.28-20.03.39:980][  0]LogSlate: Took 0.025769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-20.03.40:028][  1]LogAssetRegistry: Asset discovery search completed in 37.2149 seconds
+[2020.04.28-20.03.40:032][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.04.28-20.03.58:159][931]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.04.28-20.06.42:526][266]Cmd: EDIT COPY
+[2020.04.28-20.06.43:689][308]Cmd: EDIT PASTE
+[2020.04.28-20.08.33:199][721]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.04.28-20.08.34:063][771]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.04.28-20.08.39:211][ 77]Cmd: EDIT COPY
+[2020.04.28-20.08.40:249][137]Cmd: EDIT PASTE
+[2020.04.28-20.09.43:717][818]Cmd: EDIT COPY
+[2020.04.28-20.09.44:568][869]Cmd: EDIT PASTE
+[2020.04.28-20.10.36:428][846]Cmd: EDIT COPY
+[2020.04.28-20.10.37:262][896]Cmd: EDIT PASTE
+[2020.04.28-20.11.46:524][862]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume4)
+[2020.04.28-20.12.13:057][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.04.28-20.12.17:997][356]LogSlate: Window 'Save Content' being destroyed
+[2020.04.28-20.12.18:152][356]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-20.12.18:235][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.28-20.12.19:939][356]LogSavePackage: Moving 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Saved/Oligocene_Playable33B849494FE20CF7B2FE778A734EA774.tmp' to 'C:/Users/Antonio/Documents/Unreal Projects/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.04.28-20.12.20:032][356]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.862
+[2020.04.28-20.12.20:054][356]AssetCheck: New page: Asset Save: Oligocene_Playable
+[2020.04.28-20.12.20:054][356]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.04.28-20.12.31:282][914]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Animations/Marlin/Marlin_SwimFwd.Marlin_SwimFwd
+[2020.04.28-20.12.31:414][914]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.28-20.12.32:158][914]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-20.12.32:187][914]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.04.28-20.12.32:747][914]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-20.12.33:818][914]LogSlate: Took 0.017752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.28-20.12.33:927][915]LogRenderer: Reallocating scene render targets to support 888x500 Format 26 NumSamples 1 (Frame:1).
+[2020.04.28-20.12.36:692][ 42]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Marlin/Marlin_SwimFwd_Anim.Marlin_SwimFwd_Anim
+[2020.04.28-20.12.36:772][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-20.12.36:817][ 42]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-20.12.37:088][ 42]LogRenderer: Reallocating scene render targets to support 920x500 Format 26 NumSamples 1 (Frame:1).
+[2020.04.28-20.12.37:107][ 42]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.28-20.12.40:877][194]LogSlate: Window 'Marlin_SwimFwd_Anim' being destroyed
+[2020.04.28-20.12.40:883][194]LogSlate: Window 'Marlin_SwimFwd_Anim' being destroyed
+[2020.04.28-20.12.41:112][194]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.12.41:112][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.12.41:838][194]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.12.41:838][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.12.41:873][194]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.12.41:873][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.12.41:888][194]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.12.41:888][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
