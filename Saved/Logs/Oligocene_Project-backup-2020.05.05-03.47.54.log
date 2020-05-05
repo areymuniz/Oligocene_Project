@@ -1,0 +1,1595 @@
+﻿Log file open, 05/04/20 23:16:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.605970
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin FMODStudio
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 9 3950X 16-Core Processor            , GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.05-03.16.41:709][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.05-03.16.41:709][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.05.05-03.16.41:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:715][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.05-03.16.41:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:716][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.05-03.16.41:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.05-03.16.41:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.05-03.16.41:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.05-03.16.41:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:741][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.05-03.16.41:741][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.05-03.16.41:741][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.05-03.16.41:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.05-03.16.41:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.05-03.16.41:741][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.05-03.16.41:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.05-03.16.41:764][  0]LogHAL: Display: Platform has ~ 32 GB [34265063424 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.05-03.16.41:764][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.05-03.16.41:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.05-03.16.41:765][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.05-03.16.41:766][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.05-03.16.41:774][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.05-03.16.41:774][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.05-03.16.41:774][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.05-03.16.41:786][  0]LogInit: Computer: DESKTOP-PGS16VV
+[2020.05.05-03.16.41:786][  0]LogInit: User: user
+[2020.05.05-03.16.41:786][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.05.05-03.16.41:786][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.05-03.16.41:786][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.05.05-03.16.41:786][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.05-03.16.41:786][  0]LogMemory: Process Physical Memory: 112.62 MB used, 112.62 MB peak
+[2020.05.05-03.16.41:786][  0]LogMemory: Process Virtual Memory: 105.80 MB used, 105.80 MB peak
+[2020.05.05-03.16.41:786][  0]LogMemory: Physical Memory: 9205.69 MB used,  23472.02 MB free, 32677.71 MB total
+[2020.05.05-03.16.41:786][  0]LogMemory: Virtual Memory: 5251.36 MB used,  134212480.00 MB free, 134217728.00 MB total
+[2020.05.05-03.16.41:790][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.05-03.16.42:728][  0]LogInit: Using OS detected language (en-US).
+[2020.05.05-03.16.42:728][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.05-03.16.42:754][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.05-03.16.43:329][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.05-03.16.43:781][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.05-03.16.43:781][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.05-03.16.47:496][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.05.05-03.16.47:496][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.05-03.16.47:496][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.05-03.16.47:496][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.05-03.16.47:660][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.05.05-03.16.47:660][  0]LogD3D11RHI:       8010/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.05-03.16.47:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.05-03.16.47:663][  0]LogD3D11RHI:       0/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.05-03.16.47:663][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.05-03.16.47:703][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.05-03.16.47:704][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.05-03.16.47:704][  0]LogWindows: EnumDisplayDevices:
+[2020.05.05-03.16.47:704][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.05.05-03.16.47:705][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.05.05-03.16.47:705][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.05.05-03.16.47:705][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.05.05-03.16.47:706][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.05-03.16.47:706][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.05.05-03.16.47:706][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.05-03.16.47:706][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.05-03.16.47:706][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.05.05-03.16.47:784][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.05-03.16.47:784][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.05-03.16.48:093][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.05-03.16.50:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.05-03.16.50:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.05-03.16.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.05-03.16.50:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.05-03.16.50:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.05-03.16.50:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.05-03.16.50:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.05-03.16.50:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.05-03.16.50:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.05-03.16.50:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.05-03.16.51:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.05-03.16.51:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.05-03.16.51:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.05-03.16.51:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.05-03.16.51:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.05-03.16.51:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.05-03.16.51:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.05-03.16.51:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.05-03.16.51:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.05-03.16.51:826][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.05-03.16.52:366][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.05-03.16.53:324][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/Git/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/28504/).
+[2020.05.05-03.16.53:324][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/274D9D084C7D342934E0118F57CE99F5/'.
+[2020.05.05-03.16.53:351][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.05-03.16.53:351][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.05-03.16.53:355][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.05-03.16.53:355][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.05-03.16.57:983][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: Loaded boot cache 1.01s 100MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Git/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Git/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.05-03.16.58:995][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.05-03.16.59:108][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.05-03.16.59:108][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.05-03.16.59:108][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.05-03.16.59:109][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.05-03.16.59:109][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.05-03.16.59:109][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.05-03.17.02:106][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.05-03.17.02:199][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.05-03.17.02:316][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.05-03.17.04:358][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.05.05-03.17.08:164][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.05-03.17.12:461][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.05-03.17.12:461][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.05-03.17.12:461][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.05-03.17.12:461][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.05-03.17.12:461][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.05-03.17.14:136][  0]LogMeshUtilities: Finished distance field build in 0.2s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2020.05.05-03.17.14:136][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.05.05-03.17.57:697][  0]LogMeshUtilities: Finished distance field build in 0.2s - 64x64x20 distance field, 2048 triangles, Range [-0.0, 1.0], PlanarReflectionPlane
+[2020.05.05-03.17.57:697][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2020.05.05-03.17.57:697][  0]LogMeshUtilities: Finished distance field build in 0.2s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2020.05.05-03.17.57:697][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.17.57:697][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2020.05.05-03.17.57:697][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.431581 seconds
+[2020.05.05-03.17.57:723][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.05-03.17.57:723][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.05-03.17.57:723][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.05-03.18.02:157][  0]LogPython: Using Python 2.7.14
+[2020.05.05-03.18.03:835][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.05-03.18.03:875][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.05-03.18.04:380][  0]LogFMOD: FFMODStudioModule startup
+[2020.05.05-03.18.04:380][  0]LogFMOD:  Lib path = 'D:/Git/Oligocene_Project/Plugins/FMODStudio/Binaries'
+[2020.05.05-03.18.04:380][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading D:/Git/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2020.05.05-03.18.04:489][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading D:/Git/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.05-03.18.04:570][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.05-03.18.04:580][  0]LogFMOD: Loading strings bank: D:/Git/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.05-03.18.04:582][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbi
+[2020.05.05-03.18.04:591][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2020.05.05-03.18.04:591][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/SFXTESTCOMP
+[2020.05.05-03.18.04:591][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Aquarium
+[2020.05.05-03.18.04:592][  0]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.05-03.18.04:592][  0]LogFMOD: Skipping asset: bus:/
+[2020.05.05-03.18.04:592][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Tunnel
+[2020.05.05-03.18.04:592][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Reverb
+[2020.05.05-03.18.04:592][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGSpline
+[2020.05.05-03.18.04:600][  0]LogFMOD: Default sample rate = 48000
+[2020.05.05-03.18.04:600][  0]LogFMOD: System sample rate = 48000
+[2020.05.05-03.18.04:600][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.05-03.18.04:680][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.05-03.18.04:680][  0]LogFMOD: Trying to load plugin file at location: D:/Git/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.05-03.18.04:742][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.05-03.18.04:745][  0]LogFMOD: Default sample rate = 48000
+[2020.05.05-03.18.04:745][  0]LogFMOD: System sample rate = 48000
+[2020.05.05-03.18.04:745][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.05-03.18.04:778][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.05-03.18.04:778][  0]LogFMOD: Trying to load plugin file at location: D:/Git/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.05-03.18.04:778][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.05-03.18.05:303][  0]SourceControl: Source control is disabled
+[2020.05.05-03.18.05:307][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-03.18.05:307][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.05-03.18.05:416][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-03.18.05:416][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.05-03.18.05:445][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-03.18.05:445][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.05-03.18.05:470][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-03.18.05:470][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.05-03.18.05:545][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.05-03.18.05:545][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.05-03.18.07:325][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.05-03.18.07:449][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.05-03.18.07:449][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.05-03.18.08:114][  0]LogOcInput: OculusInput pre-init called
+[2020.05.05-03.18.08:187][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.05-03.18.08:187][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.05-03.18.08:269][  0]LogFMOD: FFMODStudioEditorModule startup
+[2020.05.05-03.18.10:378][  0]LogEngine: Initializing Engine...
+[2020.05.05-03.18.10:628][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.05-03.18.10:630][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.05-03.18.12:077][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.05-03.18.13:036][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-03.18.13:457][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-03.18.13:474][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-03.18.13:512][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-03.18.13:512][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-03.18.13:608][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-03.18.13:652][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.05-03.18.13:687][  0]LogInit: FAudioDevice initialized.
+[2020.05.05-03.18.13:737][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.05-03.18.14:684][  0]LogDerivedDataCache: Saved boot cache 0.95s 129MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.05-03.18.14:707][  0]LogInit: Texture streaming: Enabled
+[2020.05.05-03.18.15:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.05-03.18.15:042][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.05-03.18.15:044][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.05-03.18.15:743][  0]LogInit: Transaction tracking system initialized
+[2020.05.05-03.18.16:701][  0]BlueprintLog: New page: Editor Load
+[2020.05.05-03.18.17:429][  0]LocalizationService: Localization service is disabled
+[2020.05.05-03.18.18:540][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.05-03.18.18:541][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.05-03.18.20:751][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.05-03.18.20:751][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.05-03.18.21:267][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Oligocene_Project/Content/' took 0.06s
+[2020.05.05-03.18.25:099][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.05-03.18.25:099][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.05-03.18.25:127][  0]Cmd: MAP LOAD FILE="D:/Git/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.05-03.18.25:134][  0]LightingResults: New page: Lighting Build
+[2020.05.05-03.18.25:233][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-03.18.25:255][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-03.18.25:264][  0]MapCheck: New page: Map Check
+[2020.05.05-03.18.25:264][  0]LightingResults: New page: Lighting Build
+[2020.05.05-03.18.25:476][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: CausticsRender_005 (AutoDXT, 512X512)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Water_H_2 (AutoDXT, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Water_H_3 (AutoDXT, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Foam_N_3 (BC5, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Water_N_3 (BC5, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Foam_N_2 (BC5, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Water_N_2 (BC5, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Foam_D_2 (AutoDXT, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: T_Foam_D_3 (AutoDXT, 2048X2048)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:611][  0]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 1024X1024)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2020.05.05-03.18.39:612][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 1024X1024)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 64X64)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X64)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 8X8)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2020.05.05-03.18.39:613][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2020.05.05-03.18.39:613][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube9...
+[2020.05.05-03.18.42:885][  0]LogStaticMesh: Built static mesh [3.25s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube9.aquarium_5_2_20_pCube9
+[2020.05.05-03.18.47:463][  0]LogMeshUtilities: Finished distance field build in 0.3s - 36x64x37 distance field, 108 triangles, Range [-0.1, 0.5], aquarium_5_2_20_pCube9
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2020.05.05-03.18.47:463][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube6...
+[2020.05.05-03.18.47:465][  0]LogStaticMesh: Built static mesh [0.59s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube6.aquarium_5_2_20_pCube6
+[2020.05.05-03.18.47:751][  0]LogMeshUtilities: Finished distance field build in 0.2s - 47x64x15 distance field, 136 triangles, Range [-0.1, 0.4], aquarium_5_2_20_pCube6
+[2020.05.05-03.18.47:751][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube4...
+[2020.05.05-03.18.47:752][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube4.aquarium_5_2_20_pCube4
+[2020.05.05-03.18.47:772][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube39...
+[2020.05.05-03.18.47:772][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube39.aquarium_5_2_20_pCube39
+[2020.05.05-03.18.48:935][  0]LogMeshUtilities: Finished distance field build in 0.8s - 64x64x64 distance field, 40 triangles, Range [-0.1, 1.0], aquarium_5_2_20_pCube4
+[2020.05.05-03.18.48:935][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube38...
+[2020.05.05-03.18.48:939][  0]LogStaticMesh: Built static mesh [1.10s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube38.aquarium_5_2_20_pCube38
+[2020.05.05-03.18.49:180][  0]LogMeshUtilities: Finished distance field build in 0.1s - 25x21x64 distance field, 226 triangles, Range [-0.1, 0.7], aquarium_5_2_20_pCube38
+[2020.05.05-03.18.49:180][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube37...
+[2020.05.05-03.18.49:181][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube37.aquarium_5_2_20_pCube37
+[2020.05.05-03.18.49:439][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pCube37 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.18.49:439][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 8 triangles, Range [-0.3, 0.6], aquarium_5_2_20_pCube37
+[2020.05.05-03.18.49:439][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube36...
+[2020.05.05-03.18.49:440][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube36.aquarium_5_2_20_pCube36
+[2020.05.05-03.18.49:606][  0]LogMeshUtilities: Finished distance field build in 0.0s - 21x14x16 distance field, 56 triangles, Range [-0.2, 0.5], aquarium_5_2_20_pCube36
+[2020.05.05-03.18.49:606][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube35...
+[2020.05.05-03.18.49:606][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube35.aquarium_5_2_20_pCube35
+[2020.05.05-03.18.50:120][  0]LogMeshUtilities: Finished distance field build in 0.0s - 10x12x8 distance field, 12 triangles, Range [-0.1, 0.4], aquarium_5_2_20_pCube35
+[2020.05.05-03.18.50:120][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube34...
+[2020.05.05-03.18.50:121][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube34.aquarium_5_2_20_pCube34
+[2020.05.05-03.18.50:318][  0]LogMeshUtilities: Finished distance field build in 0.0s - 10x12x8 distance field, 12 triangles, Range [-0.1, 0.4], aquarium_5_2_20_pCube34
+[2020.05.05-03.18.50:318][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube33...
+[2020.05.05-03.18.50:319][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube33.aquarium_5_2_20_pCube33
+[2020.05.05-03.18.50:385][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x20 distance field, 68 triangles, Range [-0.2, 0.6], aquarium_5_2_20_pCube33
+[2020.05.05-03.18.50:386][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube31...
+[2020.05.05-03.18.50:387][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube31.aquarium_5_2_20_pCube31
+[2020.05.05-03.18.50:527][  0]LogMeshUtilities: Finished distance field build in 0.1s - 64x17x16 distance field, 96 triangles, Range [-0.0, 0.6], aquarium_5_2_20_pCube31
+[2020.05.05-03.18.50:527][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube3...
+[2020.05.05-03.18.50:527][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube3.aquarium_5_2_20_pCube3
+[2020.05.05-03.18.50:733][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube29...
+[2020.05.05-03.18.50:734][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube29.aquarium_5_2_20_pCube29
+[2020.05.05-03.18.50:753][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube28...
+[2020.05.05-03.18.50:754][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube28.aquarium_5_2_20_pCube28
+[2020.05.05-03.18.50:826][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube25...
+[2020.05.05-03.18.50:832][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube25.aquarium_5_2_20_pCube25
+[2020.05.05-03.18.51:138][  0]LogMeshUtilities: Finished distance field build in 0.5s - 39x64x64 distance field, 40 triangles, Range [-0.1, 0.6], aquarium_5_2_20_pCube3
+[2020.05.05-03.18.51:138][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube24...
+[2020.05.05-03.18.51:139][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube24.aquarium_5_2_20_pCube24
+[2020.05.05-03.18.51:289][  0]LogMeshUtilities: Finished distance field build in 0.1s - 25x21x64 distance field, 226 triangles, Range [-0.0, 0.7], aquarium_5_2_20_pCube25
+[2020.05.05-03.18.51:289][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube19...
+[2020.05.05-03.18.51:290][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube19.aquarium_5_2_20_pCube19
+[2020.05.05-03.18.51:315][  0]LogMeshUtilities: Finished distance field build in 0.0s - 11x8x8 distance field, 28 triangles, Range [-0.2, 0.6], aquarium_5_2_20_pCube24
+[2020.05.05-03.18.51:315][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube18...
+[2020.05.05-03.18.51:316][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube18.aquarium_5_2_20_pCube18
+[2020.05.05-03.18.51:369][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube12...
+[2020.05.05-03.18.51:370][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube12.aquarium_5_2_20_pCube12
+[2020.05.05-03.18.51:425][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.05-03.18.51:824][  0]LogMeshUtilities: Finished distance field build in 0.1s - 64x34x27 distance field, 20 triangles, Range [-0.0, 1.0], aquarium_5_2_20_pCube18
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 24
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 23
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 22
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 21
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 17
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 16
+[2020.05.05-03.18.51:824][  0]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.05.05-03.18.51:825][  0]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.05.05-03.18.51:825][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube11...
+[2020.05.05-03.18.51:825][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube11.aquarium_5_2_20_pCube11
+[2020.05.05-03.18.52:138][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pCube11 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.18.52:138][  0]LogMeshUtilities: Finished distance field build in 0.0s - 20x8x8 distance field, 10 triangles, Range [-0.1, 0.4], aquarium_5_2_20_pCube11
+[2020.05.05-03.18.52:138][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCube1...
+[2020.05.05-03.18.52:139][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/aquarium_5_2_20_pCube1.aquarium_5_2_20_pCube1
+[2020.05.05-03.18.52:156][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_outer_shell...
+[2020.05.05-03.18.52:169][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_outer_shell.aquarium_5_2_20_outer_shell
+[2020.05.05-03.18.52:775][  0]LogMaterial: Display: Missing cached shader map for material lambert13, compiling. 
+[2020.05.05-03.18.52:892][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_group9...
+[2020.05.05-03.18.52:896][  0]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/Meshes/aquarium_5_2_20_group9.aquarium_5_2_20_group9
+[2020.05.05-03.18.53:041][  0]LogMeshUtilities: Finished distance field build in 0.8s - 64x64x64 distance field, 40 triangles, Range [-0.2, 1.0], aquarium_5_2_20_pCube1
+[2020.05.05-03.18.53:041][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_Floor02...
+[2020.05.05-03.18.53:042][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/aquarium_5_2_20_Floor02.aquarium_5_2_20_Floor02
+[2020.05.05-03.18.53:073][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_Door_Cube_01...
+[2020.05.05-03.18.53:074][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_Door_Cube_01.aquarium_5_2_20_Door_Cube_01
+[2020.05.05-03.18.53:102][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_20...
+[2020.05.05-03.18.53:103][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_20.aquarium_5_2_20_dometop_20
+[2020.05.05-03.18.53:218][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_19...
+[2020.05.05-03.18.53:219][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_19.aquarium_5_2_20_dometop_19
+[2020.05.05-03.18.53:235][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_18...
+[2020.05.05-03.18.53:235][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_18.aquarium_5_2_20_dometop_18
+[2020.05.05-03.18.53:494][  0]LogMeshUtilities: Finished distance field build in 0.3s - 64x32x64 distance field, 144 triangles, Range [-0.0, 0.7], aquarium_5_2_20_group9
+[2020.05.05-03.18.53:494][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_17...
+[2020.05.05-03.18.53:495][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_17.aquarium_5_2_20_dometop_17
+[2020.05.05-03.18.53:542][  0]LogMeshUtilities: Finished distance field build in 0.2s - 55x48x23 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_18
+[2020.05.05-03.18.53:542][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_16...
+[2020.05.05-03.18.53:542][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_16.aquarium_5_2_20_dometop_16
+[2020.05.05-03.18.53:681][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_15...
+[2020.05.05-03.18.53:681][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_15.aquarium_5_2_20_dometop_15
+[2020.05.05-03.18.53:753][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_14...
+[2020.05.05-03.18.53:754][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_14.aquarium_5_2_20_dometop_14
+[2020.05.05-03.18.54:040][  0]LogMeshUtilities: Finished distance field build in 0.2s - 64x64x24 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_16
+[2020.05.05-03.18.54:041][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_13...
+[2020.05.05-03.18.54:041][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_13.aquarium_5_2_20_dometop_13
+[2020.05.05-03.18.54:237][  0]LogMeshUtilities: Finished distance field build in 0.2s - 48x55x23 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_14
+[2020.05.05-03.18.54:237][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_12...
+[2020.05.05-03.18.54:238][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_12.aquarium_5_2_20_dometop_12
+[2020.05.05-03.18.54:287][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_11...
+[2020.05.05-03.18.54:288][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_11.aquarium_5_2_20_dometop_11
+[2020.05.05-03.18.54:379][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_10...
+[2020.05.05-03.18.54:379][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_10.aquarium_5_2_20_dometop_10
+[2020.05.05-03.18.54:380][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_09...
+[2020.05.05-03.18.54:381][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_09.aquarium_5_2_20_dometop_09
+[2020.05.05-03.18.54:562][  0]LogMeshUtilities: Finished distance field build in 0.2s - 59x63x24 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_12
+[2020.05.05-03.18.54:562][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_08...
+[2020.05.05-03.18.54:563][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_08.aquarium_5_2_20_dometop_08
+[2020.05.05-03.18.54:600][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_07...
+[2020.05.05-03.18.54:601][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_07.aquarium_5_2_20_dometop_07
+[2020.05.05-03.18.54:634][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder1...
+[2020.05.05-03.18.54:636][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder1.aquarium_5_2_20_pCylinder1
+[2020.05.05-03.18.54:672][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_06...
+[2020.05.05-03.18.54:673][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_06.aquarium_5_2_20_dometop_06
+[2020.05.05-03.18.54:692][  0]LogMaterial: Display: Missing cached shader map for material Default_Material, compiling. 
+[2020.05.05-03.18.54:716][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_05...
+[2020.05.05-03.18.54:717][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_05.aquarium_5_2_20_dometop_05
+[2020.05.05-03.18.54:752][  0]LogMeshUtilities: Finished distance field build in 0.2s - 55x48x23 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_08
+[2020.05.05-03.18.54:752][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_04...
+[2020.05.05-03.18.54:753][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_04.aquarium_5_2_20_dometop_04
+[2020.05.05-03.18.54:780][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder10...
+[2020.05.05-03.18.54:783][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder10.aquarium_5_2_20_pCylinder10
+[2020.05.05-03.18.54:846][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_03...
+[2020.05.05-03.18.54:846][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_03.aquarium_5_2_20_dometop_03
+[2020.05.05-03.18.54:892][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_02...
+[2020.05.05-03.18.54:893][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_02.aquarium_5_2_20_dometop_02
+[2020.05.05-03.18.54:961][  0]LogMeshUtilities: Finished distance field build in 0.2s - 48x55x23 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_04
+[2020.05.05-03.18.54:961][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dometop_01...
+[2020.05.05-03.18.54:961][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_dometop_01.aquarium_5_2_20_dometop_01
+[2020.05.05-03.18.54:992][  0]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.05.05-03.18.55:053][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_dome_walls02_metal_bottom...
+[2020.05.05-03.18.55:059][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_dome_walls02_metal_bottom.aquarium_5_2_20_dome_walls02_metal_bottom
+[2020.05.05-03.18.55:088][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_deck_3...
+[2020.05.05-03.18.55:094][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_deck_3.aquarium_5_2_20_deck_3
+[2020.05.05-03.18.55:153][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_deck_2...
+[2020.05.05-03.18.55:160][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_deck_2.aquarium_5_2_20_deck_2
+[2020.05.05-03.18.55:217][  0]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.05.05-03.18.55:233][  0]LogMeshUtilities: Finished distance field build in 0.3s - 64x64x24 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_dometop_01
+[2020.05.05-03.18.55:233][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_deck_1...
+[2020.05.05-03.18.55:239][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_deck_1.aquarium_5_2_20_deck_1
+[2020.05.05-03.18.55:527][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_Bottom_Platform01...
+[2020.05.05-03.18.55:532][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_Bottom_Platform01.aquarium_5_2_20_Bottom_Platform01
+[2020.05.05-03.18.55:552][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_base_door_ref3...
+[2020.05.05-03.18.55:564][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref3.aquarium_5_2_20_base_door_ref3
+[2020.05.05-03.18.55:602][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_base_door_ref2...
+[2020.05.05-03.18.55:610][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref2.aquarium_5_2_20_base_door_ref2
+[2020.05.05-03.18.55:682][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.05.05-03.18.55:730][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_base_door_ref1...
+[2020.05.05-03.18.55:739][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref1.aquarium_5_2_20_base_door_ref1
+[2020.05.05-03.18.55:867][  0]LogMeshUtilities: Finished distance field build in 0.5s - 64x64x35 distance field, 424 triangles, Range [-0.0, 1.0], aquarium_5_2_20_deck_1
+[2020.05.05-03.18.55:867][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.05-03.18.56:260][  0]LogSkeletalMesh: Building Skeletal Mesh Tuna_Model...
+[2020.05.05-03.18.56:405][  0]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.05.05-03.18.56:491][  0]LogSkeletalMesh: Section 0: 2290 vertices, 38 active bones
+[2020.05.05-03.18.56:491][  0]LogSkeletalMesh: Section 0: Material=0, 3744 triangles
+[2020.05.05-03.18.56:509][  0]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Characters/Tuna/Tuna_Model.Tuna_Model
+[2020.05.05-03.18.56:578][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.05-03.18.56:606][  0]LogSkeletalMesh: Building Skeletal Mesh Cownoseray_Model...
+[2020.05.05-03.18.56:718][  0]LogSkeletalMesh: Section 0: 2855 vertices, 18 active bones
+[2020.05.05-03.18.56:718][  0]LogSkeletalMesh: Section 0: Material=0, 4904 triangles
+[2020.05.05-03.18.56:746][  0]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Characters/Ray/Cownoseray_Model.Cownoseray_Model
+[2020.05.05-03.18.56:750][  0]LogMaterial: Display: Missing cached shader map for material pasted__lambert2, compiling. 
+[2020.05.05-03.18.56:843][  0]LogSkeletalMesh: Building Skeletal Mesh Marlin_Model...
+[2020.05.05-03.18.56:934][  0]LogSkeletalMesh: Section 0: 2666 vertices, 51 active bones
+[2020.05.05-03.18.56:934][  0]LogSkeletalMesh: Section 0: Material=0, 4112 triangles
+[2020.05.05-03.18.56:941][  0]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/Characters/Marlin/Marlin_Model.Marlin_Model
+[2020.05.05-03.18.57:108][  0]LogMaterial: Display: Missing cached shader map for material PP_WaveyScreen, compiling. 
+[2020.05.05-03.18.57:158][  0]LogMaterial: Display: Missing cached shader map for material PP_WaveyScreen, compiling. 
+[2020.05.05-03.18.57:302][  0]LogMaterial: Display: Missing cached shader map for material M_SkyTimeOfDay, compiling. 
+[2020.05.05-03.18.57:386][  0]LogMaterial: Display: Missing cached shader map for material M_caustics, compiling. 
+[2020.05.05-03.18.57:630][  0]LogMaterial: Display: Missing cached shader map for material M_Ocean_NewShading_Master, compiling. 
+[2020.05.05-03.18.57:789][  0]LogMaterial: Display: Missing cached shader map for material M_Ocean_NewShading_Master, compiling. 
+[2020.05.05-03.18.57:866][  0]LogMaterial: Display: Missing cached shader map for material M_IceBase, compiling. 
+[2020.05.05-03.18.57:965][  0]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.05.05-03.18.58:066][  0]LogMaterial: Display: Missing cached shader map for material M_Base_4C_Scr, compiling. 
+[2020.05.05-03.18.58:598][  0]LogMaterial: Display: Missing cached shader map for material M_Decal_Base, compiling. 
+[2020.05.05-03.19.00:899][  0]LogMaterial: Display: Missing cached shader map for material M_Base_2C, compiling. 
+[2020.05.05-03.19.00:978][  0]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.05.05-03.19.01:711][  0]LogMeshUtilities: Finished distance field build in 0.1s - 47x11x60 distance field, 582 triangles, Range [-0.1, 1.0], SM_WallEdge_A
+[2020.05.05-03.19.01:711][  0]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.05.05-03.19.02:099][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Trim, compiling. 
+[2020.05.05-03.19.02:152][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x17x64 distance field, 5116 triangles, Range [-0.1, 0.5], SM_WallBuffer_B
+[2020.05.05-03.19.02:153][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:172][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:192][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:212][  0]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 834
+[2020.05.05-03.19.02:213][  0]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 824
+[2020.05.05-03.19.02:213][  0]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 814
+[2020.05.05-03.19.02:213][  0]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 804
+[2020.05.05-03.19.02:213][  0]LogShaderCompilers: Display: Worker (29/29): shaders left to compile 794
+[2020.05.05-03.19.02:213][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:234][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:256][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:283][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Pipes, compiling. 
+[2020.05.05-03.19.02:304][  0]LogMaterial: Display: Missing cached shader map for material M_Reg_Glass, compiling. 
+[2020.05.05-03.19.02:334][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.02:460][  0]LogMaterial: Display: Missing cached shader map for material M_Decal_Base, compiling. 
+[2020.05.05-03.19.04:736][  0]LogMaterial: Display: Missing cached shader map for material M_Base_DecalNorm, compiling. 
+[2020.05.05-03.19.04:761][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_SimpleSnow, compiling. 
+[2020.05.05-03.19.04:804][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Landscape_Master, compiling. 
+[2020.05.05-03.19.04:882][  0]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1185
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 1175
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1165
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.5s - 13x54x61 distance field, 2888 triangles, Range [-0.1, 0.6], SM_Wall_A
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 1155
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1145
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 1135
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 1125
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 1115
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 1105
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.1s - 24x12x8 distance field, 6080 triangles, Range [-0.1, 0.4], SM_Pipe_Ceiling_B
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Discarded distance field for SM_Light_Square as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1006 triangles, Range [-0.2, 0.4], SM_Light_Square
+[2020.05.05-03.19.10:060][  0]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 1095
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.4s - 48x54x9 distance field, 984 triangles, Range [-0.1, 0.5], SM_FloorPanel_A_2
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.1s - 48x12x9 distance field, 256 triangles, Range [-0.0, 0.5], SM_CeilingBrace_A
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.6s - 48x57x12 distance field, 660 triangles, Range [-0.1, 0.5], SM_Ceiling_B_2
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.0s - 40x8x8 distance field, 640 triangles, Range [-0.0, 0.4], SM_Wall_Pipe_DoorSmall
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x64 distance field, 384 triangles, Range [-0.0, 1.0], SM_Wall_Pipe_C
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.0s - 53x8x8 distance field, 704 triangles, Range [0.0, 1.0], SM_Wall_Pipe_A
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.2s - 14x14x64 distance field, 12 triangles, Range [-0.0, 1.0], SM_Wall_Div_Slim
+[2020.05.05-03.19.10:060][  0]LogMeshUtilities: Finished distance field build in 0.3s - 14x46x26 distance field, 1267 triangles, Range [-0.2, 0.6], SM_Wall_Det_DoorBig_E
+[2020.05.05-03.19.10:060][  0]LogMaterial: Display: Missing cached shader map for material M_Lights, compiling. 
+[2020.05.05-03.19.11:563][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Trim, compiling. 
+[2020.05.05-03.19.11:810][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1145
+[2020.05.05-03.19.14:203][  0]LogMeshUtilities: Finished distance field build in 3.1s - 55x57x64 distance field, 6815 triangles, Range [-0.2, 1.0], SM_Wall_Corner_B
+[2020.05.05-03.19.14:203][  0]LogMeshUtilities: Finished distance field build in 0.7s - 64x52x15 distance field, 4138 triangles, Range [-0.0, 1.0], SM_Floor_Center_A2
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 1135
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1125
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 1115
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1105
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 1095
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1085
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1075
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1065
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1055
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1045
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 1035
+[2020.05.05-03.19.14:203][  0]LogMeshUtilities: Finished distance field build in 0.8s - 64x64x17 distance field, 15496 triangles, Range [-0.0, 1.0], SM_Ceiling_Window_A
+[2020.05.05-03.19.14:203][  0]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1025
+[2020.05.05-03.19.14:203][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.14:523][  0]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 1039
+[2020.05.05-03.19.14:523][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.15:016][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_20...
+[2020.05.05-03.19.15:020][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_20.aquarium_5_2_20_wall_2_20
+[2020.05.05-03.19.15:073][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_19...
+[2020.05.05-03.19.15:076][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_19.aquarium_5_2_20_wall_2_19
+[2020.05.05-03.19.15:112][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_18...
+[2020.05.05-03.19.15:115][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_18.aquarium_5_2_20_wall_2_18
+[2020.05.05-03.19.15:128][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_17...
+[2020.05.05-03.19.15:131][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_17.aquarium_5_2_20_wall_2_17
+[2020.05.05-03.19.15:132][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_16...
+[2020.05.05-03.19.15:135][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_16.aquarium_5_2_20_wall_2_16
+[2020.05.05-03.19.15:179][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_15...
+[2020.05.05-03.19.15:183][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_15.aquarium_5_2_20_wall_2_15
+[2020.05.05-03.19.15:210][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_14...
+[2020.05.05-03.19.15:214][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_14.aquarium_5_2_20_wall_2_14
+[2020.05.05-03.19.15:237][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_13...
+[2020.05.05-03.19.15:241][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_13.aquarium_5_2_20_wall_2_13
+[2020.05.05-03.19.15:268][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_12...
+[2020.05.05-03.19.15:271][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_12.aquarium_5_2_20_wall_2_12
+[2020.05.05-03.19.15:280][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_11...
+[2020.05.05-03.19.15:283][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_11.aquarium_5_2_20_wall_2_11
+[2020.05.05-03.19.15:296][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_10...
+[2020.05.05-03.19.15:299][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_10.aquarium_5_2_20_wall_2_10
+[2020.05.05-03.19.15:305][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_09...
+[2020.05.05-03.19.15:308][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_09.aquarium_5_2_20_wall_2_09
+[2020.05.05-03.19.15:344][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_08...
+[2020.05.05-03.19.15:347][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_08.aquarium_5_2_20_wall_2_08
+[2020.05.05-03.19.15:410][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_07...
+[2020.05.05-03.19.15:414][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_07.aquarium_5_2_20_wall_2_07
+[2020.05.05-03.19.15:424][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_06...
+[2020.05.05-03.19.15:428][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_06.aquarium_5_2_20_wall_2_06
+[2020.05.05-03.19.15:454][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_05...
+[2020.05.05-03.19.15:458][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_05.aquarium_5_2_20_wall_2_05
+[2020.05.05-03.19.15:496][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_04...
+[2020.05.05-03.19.15:499][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_04.aquarium_5_2_20_wall_2_04
+[2020.05.05-03.19.15:514][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_03...
+[2020.05.05-03.19.15:517][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_03.aquarium_5_2_20_wall_2_03
+[2020.05.05-03.19.15:549][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_02...
+[2020.05.05-03.19.15:553][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_02.aquarium_5_2_20_wall_2_02
+[2020.05.05-03.19.15:554][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_wall_2_01...
+[2020.05.05-03.19.15:557][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_wall_2_01.aquarium_5_2_20_wall_2_01
+[2020.05.05-03.19.15:570][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_Top_Airlock...
+[2020.05.05-03.19.15:600][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_Top_Airlock.aquarium_5_2_20_Top_Airlock
+[2020.05.05-03.19.15:640][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_stairs_Mockup02...
+[2020.05.05-03.19.15:903][  0]LogStaticMesh: Built static mesh [0.26s] /Game/Geometry/Meshes/aquarium_5_2_20_stairs_Mockup02.aquarium_5_2_20_stairs_Mockup02
+[2020.05.05-03.19.15:948][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_staircase...
+[2020.05.05-03.19.15:949][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_staircase.aquarium_5_2_20_staircase
+[2020.05.05-03.19.15:972][  0]LogMaterial: Display: Missing cached shader map for material light_sdr2, compiling. 
+[2020.05.05-03.19.16:003][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_vent_light...
+[2020.05.05-03.19.16:010][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_vent_light.aquarium_5_2_20_sm_vent_light
+[2020.05.05-03.19.16:041][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_vent_cylinder_msh...
+[2020.05.05-03.19.16:047][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_vent_cylinder_msh.aquarium_5_2_20_sm_vent_cylinder_msh
+[2020.05.05-03.19.16:089][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_tubing_msh...
+[2020.05.05-03.19.16:091][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_tubing_msh.aquarium_5_2_20_sm_tubing_msh
+[2020.05.05-03.19.16:107][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_top_machine_msh...
+[2020.05.05-03.19.16:121][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_top_machine_msh.aquarium_5_2_20_sm_top_machine_msh
+[2020.05.05-03.19.16:147][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_top_light_decor_msh...
+[2020.05.05-03.19.16:155][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_top_light_decor_msh.aquarium_5_2_20_sm_top_light_decor_msh
+[2020.05.05-03.19.16:163][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_supports...
+[2020.05.05-03.19.16:170][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_supports.aquarium_5_2_20_sm_supports
+[2020.05.05-03.19.16:192][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_railing_attach...
+[2020.05.05-03.19.16:199][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_railing_attach.aquarium_5_2_20_sm_railing_attach
+[2020.05.05-03.19.16:219][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_rail_msh...
+[2020.05.05-03.19.16:229][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_rail_msh.aquarium_5_2_20_sm_rail_msh
+[2020.05.05-03.19.16:264][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_rail...
+[2020.05.05-03.19.16:275][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_rail.aquarium_5_2_20_sm_rail
+[2020.05.05-03.19.16:296][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_pipes_msh...
+[2020.05.05-03.19.16:305][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_pipes_msh.aquarium_5_2_20_sm_pipes_msh
+[2020.05.05-03.19.17:045][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_pipe_plane...
+[2020.05.05-03.19.17:047][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_pipe_plane.aquarium_5_2_20_sm_pipe_plane
+[2020.05.05-03.19.17:087][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_pipe_msh...
+[2020.05.05-03.19.17:099][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_pipe_msh.aquarium_5_2_20_sm_pipe_msh
+[2020.05.05-03.19.17:148][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_pipe_low...
+[2020.05.05-03.19.17:179][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_pipe_low.aquarium_5_2_20_sm_pipe_low
+[2020.05.05-03.19.17:218][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_pipe_high...
+[2020.05.05-03.19.17:251][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_pipe_high.aquarium_5_2_20_sm_pipe_high
+[2020.05.05-03.19.17:472][  0]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1077
+[2020.05.05-03.19.17:472][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_panel_ring_overlay_msh...
+[2020.05.05-03.19.17:481][  0]LogMeshUtilities: Finished distance field build in 3.3s - 64x64x59 distance field, 3800 triangles, Range [-0.1, 0.6], SM_Ceiling_OuterRing_C
+[2020.05.05-03.19.17:481][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_panel_ring_overlay_msh.aquarium_5_2_20_sm_panel_ring_overlay_msh
+[2020.05.05-03.19.17:711][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_panel_msh...
+[2020.05.05-03.19.17:724][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_panel_msh.aquarium_5_2_20_sm_panel_msh
+[2020.05.05-03.19.18:094][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_panel_indent_msh...
+[2020.05.05-03.19.18:101][  0]LogStaticMesh: Built static mesh [0.25s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_panel_indent_msh.aquarium_5_2_20_sm_panel_indent_msh
+[2020.05.05-03.19.18:177][  0]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1067
+[2020.05.05-03.19.18:177][  0]LogMaterial: Display: Missing cached shader map for material lambert12, compiling. 
+[2020.05.05-03.19.18:200][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_ow_poly_vent...
+[2020.05.05-03.19.18:205][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_ow_poly_vent.aquarium_5_2_20_sm_ow_poly_vent
+[2020.05.05-03.19.18:246][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_outer_container_msh...
+[2020.05.05-03.19.18:270][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_outer_container_msh.aquarium_5_2_20_sm_outer_container_msh
+[2020.05.05-03.19.18:294][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_light_ring_msh...
+[2020.05.05-03.19.18:306][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_light_ring_msh.aquarium_5_2_20_sm_light_ring_msh
+[2020.05.05-03.19.18:383][  0]LogMaterial: Display: Missing cached shader map for material light_pillar_sdr1, compiling. 
+[2020.05.05-03.19.18:410][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_light_pillar_msh...
+[2020.05.05-03.19.18:416][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_light_pillar_msh.aquarium_5_2_20_sm_light_pillar_msh
+[2020.05.05-03.19.18:436][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_light_msh...
+[2020.05.05-03.19.18:443][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_light_msh.aquarium_5_2_20_sm_light_msh
+[2020.05.05-03.19.18:457][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_light_emitter_msh...
+[2020.05.05-03.19.18:473][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_light_emitter_msh.aquarium_5_2_20_sm_light_emitter_msh
+[2020.05.05-03.19.18:535][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_inside_tube_msh...
+[2020.05.05-03.19.18:539][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_inside_tube_msh.aquarium_5_2_20_sm_inside_tube_msh
+[2020.05.05-03.19.18:705][  0]LogMaterial: Display: Missing cached shader map for material light_sdr1, compiling. 
+[2020.05.05-03.19.18:728][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_inset_lighting...
+[2020.05.05-03.19.18:731][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_inset_lighting.aquarium_5_2_20_sm_inset_lighting
+[2020.05.05-03.19.18:761][  0]LogMaterial: Display: Missing cached shader map for material lambert3_ncl1_1, compiling. 
+[2020.05.05-03.19.18:785][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_inner_tubing_msh...
+[2020.05.05-03.19.18:786][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_inner_tubing_msh.aquarium_5_2_20_sm_inner_tubing_msh
+[2020.05.05-03.19.18:787][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_hold_msh...
+[2020.05.05-03.19.18:792][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_hold_msh.aquarium_5_2_20_sm_hold_msh
+[2020.05.05-03.19.18:835][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_ground_panel_msh...
+[2020.05.05-03.19.18:868][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_ground_panel_msh.aquarium_5_2_20_sm_ground_panel_msh
+[2020.05.05-03.19.18:912][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_emit_big_msh...
+[2020.05.05-03.19.18:921][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_emit_big_msh.aquarium_5_2_20_sm_emit_big_msh
+[2020.05.05-03.19.19:010][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_door_msh4...
+[2020.05.05-03.19.19:016][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_door_msh4.aquarium_5_2_20_sm_door_msh4
+[2020.05.05-03.19.19:028][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_door_msh3...
+[2020.05.05-03.19.19:034][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_door_msh3.aquarium_5_2_20_sm_door_msh3
+[2020.05.05-03.19.19:042][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_door_msh2...
+[2020.05.05-03.19.19:047][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_door_msh2.aquarium_5_2_20_sm_door_msh2
+[2020.05.05-03.19.19:140][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_door_msh1...
+[2020.05.05-03.19.19:146][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_door_msh1.aquarium_5_2_20_sm_door_msh1
+[2020.05.05-03.19.19:221][  0]LogMeshUtilities: Finished distance field build in 1.4s - 64x64x32 distance field, 320 triangles, Range [-0.0, 1.0], aquarium_5_2_20_sm_panel_msh
+[2020.05.05-03.19.19:221][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_celing_attachment_msh...
+[2020.05.05-03.19.19:230][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_celing_attachment_msh.aquarium_5_2_20_sm_celing_attachment_msh
+[2020.05.05-03.19.19:272][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_card_msh...
+[2020.05.05-03.19.19:274][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_card_msh.aquarium_5_2_20_sm_card_msh
+[2020.05.05-03.19.19:558][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_sm_door_msh1 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.19:558][  0]LogMeshUtilities: Finished distance field build in 0.1s - 24x27x8 distance field, 313 triangles, Range [-0.1, 1.0], aquarium_5_2_20_sm_door_msh1
+[2020.05.05-03.19.19:558][  0]LogMaterial: Display: Missing cached shader map for material lambert11, compiling. 
+[2020.05.05-03.19.19:583][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_cap_msh...
+[2020.05.05-03.19.19:599][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_cap_msh.aquarium_5_2_20_sm_cap_msh
+[2020.05.05-03.19.19:628][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_bottom_vent_msh...
+[2020.05.05-03.19.19:671][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_bottom_vent_msh.aquarium_5_2_20_sm_bottom_vent_msh
+[2020.05.05-03.19.19:676][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_bottom_table_msh...
+[2020.05.05-03.19.19:711][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_bottom_table_msh.aquarium_5_2_20_sm_bottom_table_msh
+[2020.05.05-03.19.19:846][  0]LogMeshUtilities: Finished distance field build in 0.4s - 53x53x8 distance field, 22 triangles, Range [-0.1, 1.0], aquarium_5_2_20_sm_card_msh
+[2020.05.05-03.19.19:846][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2020.05.05-03.19.19:889][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_bottom_piece_msh...
+[2020.05.05-03.19.19:905][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_bottom_piece_msh.aquarium_5_2_20_sm_bottom_piece_msh
+[2020.05.05-03.19.19:939][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface4, compiling. 
+[2020.05.05-03.19.19:983][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_sm_beam_emitter_msh...
+[2020.05.05-03.19.20:046][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/aquarium_5_2_20_sm_beam_emitter_msh.aquarium_5_2_20_sm_beam_emitter_msh
+[2020.05.05-03.19.20:093][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pTorus3...
+[2020.05.05-03.19.20:114][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pTorus3.aquarium_5_2_20_pTorus3
+[2020.05.05-03.19.20:138][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pSphere1...
+[2020.05.05-03.19.20:150][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pSphere1.aquarium_5_2_20_pSphere1
+[2020.05.05-03.19.20:152][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe8...
+[2020.05.05-03.19.20:156][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe8.aquarium_5_2_20_pPipe8
+[2020.05.05-03.19.20:194][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe7...
+[2020.05.05-03.19.20:199][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe7.aquarium_5_2_20_pPipe7
+[2020.05.05-03.19.20:221][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe15...
+[2020.05.05-03.19.20:226][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe15.aquarium_5_2_20_pPipe15
+[2020.05.05-03.19.20:269][  0]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 1225
+[2020.05.05-03.19.20:269][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe14...
+[2020.05.05-03.19.20:278][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe14.aquarium_5_2_20_pPipe14
+[2020.05.05-03.19.20:280][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe13...
+[2020.05.05-03.19.20:288][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe13.aquarium_5_2_20_pPipe13
+[2020.05.05-03.19.20:396][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pPipe10...
+[2020.05.05-03.19.20:432][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/aquarium_5_2_20_pPipe10.aquarium_5_2_20_pPipe10
+[2020.05.05-03.19.20:470][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface4...
+[2020.05.05-03.19.20:471][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface4.aquarium_5_2_20_polySurface4
+[2020.05.05-03.19.20:492][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface3...
+[2020.05.05-03.19.20:496][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface3.aquarium_5_2_20_polySurface3
+[2020.05.05-03.19.20:509][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface29...
+[2020.05.05-03.19.20:519][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface29.aquarium_5_2_20_polySurface29
+[2020.05.05-03.19.20:530][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface28...
+[2020.05.05-03.19.20:535][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface28.aquarium_5_2_20_polySurface28
+[2020.05.05-03.19.20:631][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface21...
+[2020.05.05-03.19.20:641][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface21.aquarium_5_2_20_polySurface21
+[2020.05.05-03.19.20:647][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface17...
+[2020.05.05-03.19.20:650][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface17.aquarium_5_2_20_polySurface17
+[2020.05.05-03.19.20:660][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface16...
+[2020.05.05-03.19.20:673][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface16.aquarium_5_2_20_polySurface16
+[2020.05.05-03.19.20:705][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface15...
+[2020.05.05-03.19.20:714][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface15.aquarium_5_2_20_polySurface15
+[2020.05.05-03.19.20:749][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface12...
+[2020.05.05-03.19.20:754][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface12.aquarium_5_2_20_polySurface12
+[2020.05.05-03.19.20:785][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface11...
+[2020.05.05-03.19.20:790][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface11.aquarium_5_2_20_polySurface11
+[2020.05.05-03.19.21:558][  0]LogMeshUtilities: Finished distance field build in 1.1s - 64x64x18 distance field, 694 triangles, Range [-0.1, 0.8], aquarium_5_2_20_sm_bottom_piece_msh
+[2020.05.05-03.19.21:558][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface10...
+[2020.05.05-03.19.21:559][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface10.aquarium_5_2_20_polySurface10
+[2020.05.05-03.19.21:609][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_polySurface1...
+[2020.05.05-03.19.21:614][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_polySurface1.aquarium_5_2_20_polySurface1
+[2020.05.05-03.19.21:677][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_30...
+[2020.05.05-03.19.21:682][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_30.aquarium_5_2_20_pipe_30
+[2020.05.05-03.19.21:957][  0]LogMeshUtilities: Finished distance field build in 0.3s - 30x14x60 distance field, 226 triangles, Range [-0.1, 0.5], aquarium_5_2_20_polySurface11
+[2020.05.05-03.19.21:958][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_29...
+[2020.05.05-03.19.21:963][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_29.aquarium_5_2_20_pipe_29
+[2020.05.05-03.19.22:573][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 188 triangles, Range [-0.2, 0.3], aquarium_5_2_20_pipe_29
+[2020.05.05-03.19.22:573][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_28...
+[2020.05.05-03.19.22:581][  0]LogStaticMesh: Built static mesh [0.26s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_28.aquarium_5_2_20_pipe_28
+[2020.05.05-03.19.22:859][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x29x8 distance field, 188 triangles, Range [-0.0, 0.4], aquarium_5_2_20_pipe_28
+[2020.05.05-03.19.22:859][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_27...
+[2020.05.05-03.19.22:865][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_27.aquarium_5_2_20_pipe_27
+[2020.05.05-03.19.23:036][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 188 triangles, Range [-0.2, 0.3], aquarium_5_2_20_pipe_27
+[2020.05.05-03.19.23:036][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_26...
+[2020.05.05-03.19.23:042][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_26.aquarium_5_2_20_pipe_26
+[2020.05.05-03.19.23:300][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x8 distance field, 188 triangles, Range [-0.2, 0.3], aquarium_5_2_20_pipe_26
+[2020.05.05-03.19.23:300][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_25...
+[2020.05.05-03.19.23:310][  0]LogStaticMesh: Built static mesh [0.16s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_25.aquarium_5_2_20_pipe_25
+[2020.05.05-03.19.23:364][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 412 triangles, Range [-0.2, 1.0], aquarium_5_2_20_pipe_25
+[2020.05.05-03.19.23:364][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_24...
+[2020.05.05-03.19.23:370][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_24.aquarium_5_2_20_pipe_24
+[2020.05.05-03.19.23:379][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_23...
+[2020.05.05-03.19.23:388][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_23.aquarium_5_2_20_pipe_23
+[2020.05.05-03.19.23:430][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pipe_23 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.23:430][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 380 triangles, Range [-0.3, 0.8], aquarium_5_2_20_pipe_23
+[2020.05.05-03.19.23:430][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_22...
+[2020.05.05-03.19.23:437][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_22.aquarium_5_2_20_pipe_22
+[2020.05.05-03.19.23:448][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_21...
+[2020.05.05-03.19.23:457][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_21.aquarium_5_2_20_pipe_21
+[2020.05.05-03.19.23:484][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_20...
+[2020.05.05-03.19.23:497][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_20.aquarium_5_2_20_pipe_20
+[2020.05.05-03.19.23:498][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_19...
+[2020.05.05-03.19.23:506][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_19.aquarium_5_2_20_pipe_19
+[2020.05.05-03.19.23:556][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pipe_21 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.23:556][  0]LogMeshUtilities: Finished distance field build in 0.0s - 12x15x12 distance field, 412 triangles, Range [-0.2, 1.0], aquarium_5_2_20_pipe_21
+[2020.05.05-03.19.23:556][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_18...
+[2020.05.05-03.19.23:561][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_18.aquarium_5_2_20_pipe_18
+[2020.05.05-03.19.23:585][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_17...
+[2020.05.05-03.19.23:591][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_17.aquarium_5_2_20_pipe_17
+[2020.05.05-03.19.23:605][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_16...
+[2020.05.05-03.19.23:615][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pipe_18 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.23:615][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 188 triangles, Range [-0.2, 0.4], aquarium_5_2_20_pipe_18
+[2020.05.05-03.19.23:615][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_16.aquarium_5_2_20_pipe_16
+[2020.05.05-03.19.23:633][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_15...
+[2020.05.05-03.19.23:639][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_15.aquarium_5_2_20_pipe_15
+[2020.05.05-03.19.23:691][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_14...
+[2020.05.05-03.19.23:698][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_14.aquarium_5_2_20_pipe_14
+[2020.05.05-03.19.23:758][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pipe_15 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.23:758][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 188 triangles, Range [-0.3, 0.3], aquarium_5_2_20_pipe_15
+[2020.05.05-03.19.23:758][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_13...
+[2020.05.05-03.19.23:763][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_13.aquarium_5_2_20_pipe_13
+[2020.05.05-03.19.23:848][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x29x8 distance field, 188 triangles, Range [-0.1, 0.4], aquarium_5_2_20_pipe_14
+[2020.05.05-03.19.23:848][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_12...
+[2020.05.05-03.19.23:858][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_12.aquarium_5_2_20_pipe_12
+[2020.05.05-03.19.23:880][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_11...
+[2020.05.05-03.19.23:886][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_11.aquarium_5_2_20_pipe_11
+[2020.05.05-03.19.23:896][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pipe_10...
+[2020.05.05-03.19.23:902][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pipe_10.aquarium_5_2_20_pipe_10
+[2020.05.05-03.19.23:922][  0]LogMeshUtilities: Discarded distance field for aquarium_5_2_20_pipe_12 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.23:922][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 412 triangles, Range [-0.4, 1.0], aquarium_5_2_20_pipe_12
+[2020.05.05-03.19.23:922][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder4_1...
+[2020.05.05-03.19.23:929][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder4_1.aquarium_5_2_20_pCylinder4_1
+[2020.05.05-03.19.23:951][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder4...
+[2020.05.05-03.19.23:955][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder4.aquarium_5_2_20_pCylinder4
+[2020.05.05-03.19.24:000][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder3...
+[2020.05.05-03.19.24:006][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder3.aquarium_5_2_20_pCylinder3
+[2020.05.05-03.19.24:015][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder2...
+[2020.05.05-03.19.24:020][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder2.aquarium_5_2_20_pCylinder2
+[2020.05.05-03.19.24:036][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder1_1...
+[2020.05.05-03.19.24:041][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder1_1.aquarium_5_2_20_pCylinder1_1
+[2020.05.05-03.19.24:042][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder15...
+[2020.05.05-03.19.24:046][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder15.aquarium_5_2_20_pCylinder15
+[2020.05.05-03.19.24:076][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder14...
+[2020.05.05-03.19.24:079][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder14.aquarium_5_2_20_pCylinder14
+[2020.05.05-03.19.24:091][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder13_1...
+[2020.05.05-03.19.24:095][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder13_1.aquarium_5_2_20_pCylinder13_1
+[2020.05.05-03.19.24:102][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder13...
+[2020.05.05-03.19.24:106][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder13.aquarium_5_2_20_pCylinder13
+[2020.05.05-03.19.24:107][  0]LogStaticMesh: Building static mesh aquarium_5_2_20_pCylinder12...
+[2020.05.05-03.19.24:112][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/aquarium_5_2_20_pCylinder12.aquarium_5_2_20_pCylinder12
+[2020.05.05-03.19.24:156][  0]LogMeshUtilities: Finished distance field build in 0.2s - 17x26x17 distance field, 76 triangles, Range [-0.1, 0.6], aquarium_5_2_20_pCylinder4
+[2020.05.05-03.19.24:156][  0]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1215
+[2020.05.05-03.19.24:156][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Landscape_Master, compiling. 
+[2020.05.05-03.19.25:341][  0]LogMeshUtilities: Discarded distance field for SM_GDC_Landscape_Peakmesh_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.05-03.19.25:342][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 5642 triangles, Range [-0.3, 0.7], SM_GDC_Landscape_Peakmesh_01
+[2020.05.05-03.19.25:342][  0]LogMaterial: Display: Missing cached shader map for material M_SolidLight_Parent, compiling. 
+[2020.05.05-03.19.27:108][  0]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 1277
+[2020.05.05-03.19.27:108][  0]LogMeshUtilities: Finished distance field build in 1.0s - 64x64x64 distance field, 7944 triangles, Range [1.0, 1.0], SM_Cave_Rock_Large_01a
+[2020.05.05-03.19.27:108][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 6516 triangles, Range [-0.0, 0.3], SM_Laptop_Closed
+[2020.05.05-03.19.27:108][  0]LogMaterial: Display: Missing cached shader map for material M_Screen_Parent, compiling. 
+[2020.05.05-03.19.27:469][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 6516 triangles, Range [-0.0, 1.0], SM_Laptop
+[2020.05.05-03.19.27:470][  0]LogMaterial: Display: Missing cached shader map for material M_Glass_Base, compiling. 
+[2020.05.05-03.19.27:767][  0]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.05.05-03.19.27:946][  0]LogMaterial: Display: Missing cached shader map for material M_Lights_Base, compiling. 
+[2020.05.05-03.19.28:095][  0]LogMeshUtilities: Finished distance field build in 0.7s - 53x15x61 distance field, 3668 triangles, Range [-0.1, 0.6], SM_GlassDoorway
+[2020.05.05-03.19.28:095][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Wires, compiling. 
+[2020.05.05-03.19.28:718][  0]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1410
+[2020.05.05-03.19.28:718][  0]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2020.05.05-03.19.29:282][  0]LogMeshUtilities: Finished distance field build in 0.6s - 52x64x19 distance field, 4182 triangles, Range [-0.0, 1.0], SM_Hall_Wires_B
+[2020.05.05-03.19.29:282][  0]LogMeshUtilities: Finished distance field build in 0.1s - 60x15x8 distance field, 214 triangles, Range [-0.1, 1.0], SM_Hall_Doorway_Panel
+[2020.05.05-03.19.29:282][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Wires_B, compiling. 
+[2020.05.05-03.19.29:345][  0]LogMaterial: Display: Missing cached shader map for material M_EnergyEmissive, compiling. 
+[2020.05.05-03.19.30:650][  0]LogMeshUtilities: Finished distance field build in 0.5s - 64x16x50 distance field, 11488 triangles, Range [-0.0, 1.0], SM_Hall_DoorPipes
+[2020.05.05-03.19.30:650][  0]LogMeshUtilities: Finished distance field build in 0.1s - 18x16x13 distance field, 1504 triangles, Range [-0.1, 0.9], SM_Crate_A3
+[2020.05.05-03.19.30:650][  0]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2020.05.05-03.19.32:052][  0]LogMeshUtilities: Finished distance field build in 0.3s - 61x16x20 distance field, 906 triangles, Range [-0.1, 0.6], SM_Ceiling_A_Buffer
+[2020.05.05-03.19.32:052][  0]LogMeshUtilities: Finished distance field build in 0.5s - 40x13x64 distance field, 1850 triangles, Range [-0.1, 1.0], SM_Win_Divider_A
+[2020.05.05-03.19.32:148][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Landscape_Master, compiling. 
+[2020.05.05-03.19.32:210][  0]LogMaterial: Display: Missing cached shader map for material M_Cave_Landscape_Master, compiling. 
+[2020.05.05-03.19.32:265][  0]LogMeshUtilities: Finished distance field build in 0.6s - 51x14x63 distance field, 258 triangles, Range [-0.1, 0.7], SM_Wall_B_3
+[2020.05.05-03.19.32:394][  0]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2020.05.05-03.19.32:521][  0]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2020.05.05-03.19.32:563][  0]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2020.05.05-03.19.32:589][  0]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.05-03.19.32:688][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.05-03.19.38:371][  0]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1707
+[2020.05.05-03.19.38:992][  0]LogShaderCompilers: Display: Worker (29/29): shaders left to compile 1697
+[2020.05.05-03.19.38:993][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.05-03.19.39:328][  0]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.05.05-03.19.39:345][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.05-03.19.39:411][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.651ms to complete.
+[2020.05.05-03.19.39:412][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 74.286
+[2020.05.05-03.19.40:139][  0]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1687
+[2020.05.05-03.19.40:139][  0]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1677
+[2020.05.05-03.19.40:224][  0]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 1667
+[2020.05.05-03.19.40:733][  0]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 1657
+[2020.05.05-03.19.40:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-03.19.40:750][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-03.19.40:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-03.19.40:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-03.19.41:010][  0]LogCollectionManager: Loaded 0 collections in 0.005027 seconds
+[2020.05.05-03.19.41:459][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.05.05-03.19.41:460][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Oligocene_Project/Content/Developers/user/Collections/' took 0.08s
+[2020.05.05-03.19.41:460][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.05.05-03.19.41:460][  0]LogContentBrowser: Native class hierarchy populated in 0.0230 seconds. Added 3054 classes and 734 folders.
+[2020.05.05-03.19.41:532][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.05.05-03.19.43:610][  0]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1647
+[2020.05.05-03.19.43:610][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2020.05.05-03.19.43:978][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 2 classes and 3 folders.
+[2020.05.05-03.19.44:489][  0]LogSlate: Took 0.012106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.05-03.19.44:525][  0]LogSlate: Took 0.032794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.05-03.19.44:573][  0]LogSlate: Took 0.026866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.05-03.19.44:849][  0]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1637
+[2020.05.05-03.19.44:849][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2020.05.05-03.19.45:112][  0]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1650
+[2020.05.05-03.19.45:112][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 26 NumSamples 1 (Frame:1).
+[2020.05.05-03.19.45:208][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.45:208][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.05-03.19.47:952][  0]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 1640
+[2020.05.05-03.19.47:952][  0]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 1630
+[2020.05.05-03.19.47:952][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.743 s
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: 
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: Stack: 
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8ea2f9016 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9cfb21a UE4Editor-Core.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d98abc95 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9e4527b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9e0a04e UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9e427e3 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9e257f8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9d949a5 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9d93dab UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d992d71c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9dab808 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8d9d73417 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8dc6a8ead UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e12e82d6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e116da67 UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e115fd4f UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845cd9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9844b4c UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9842c56 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:952][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e98428f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e98428f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8e9845574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:953][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8eabb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.05-03.19.47:954][  0]LogOutputDevice: Error: 
+[2020.05.05-03.19.47:963][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.05-03.19.57:453][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.05-03.19.57:453][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.05-03.19.57:453][  0]LogStats:                    SendNewReport -  9.490 s
+[2020.05.05-03.19.57:453][  0]LogStats:             FDebug::EnsureFailed - 12.245 s
+[2020.05.05-03.19.57:454][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.57:454][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1620
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 1610
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 1600
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 1590
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (29/29): shaders left to compile 1580
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 1570
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1560
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 1550
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 1540
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1530
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 1520
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 1510
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 1500
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 1490
+[2020.05.05-03.19.58:782][  0]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 1480
+[2020.05.05-03.19.58:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.05.05-03.19.58:916][  0]LogLoad: (Engine Initialization) Total time: 231.38 seconds
+[2020.05.05-03.19.58:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.05-03.19.59:478][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Win_Frame_A58)
+[2020.05.05-03.19.59:882][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.59:882][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.59:882][  0]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.05-03.19.59:901][  0]LogSlate: Took 0.000699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.05-03.20.00:308][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.05-03.20.00:689][  0]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1470
+[2020.05.05-03.20.00:689][  0]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1460
+[2020.05.05-03.20.00:689][  0]LogTemp: Resetting audio stream to device id 
