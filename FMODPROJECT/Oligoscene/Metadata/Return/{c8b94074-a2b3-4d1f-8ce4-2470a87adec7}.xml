@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}">
+		<property name="overridingInputFormat">
+			<value>2</value>
+		</property>
+		<property name="name">
+			<value>VerbRoomMed</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{3f34c233-80b9-4cd8-863d-81ace2379a72}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{67cebefe-b5c2-4fa7-a5b4-c2b01bf3195f}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{914c36ce-d49d-4a33-ba25-893e708b2030}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{3f34c233-80b9-4cd8-863d-81ace2379a72}">
+		<relationship name="effects">
+			<destination>{167dbfb9-c69a-44ef-833f-5015d42de31f}</destination>
+			<destination>{db813390-2625-45a4-b04c-1a2ab93e3b5d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{67cebefe-b5c2-4fa7-a5b4-c2b01bf3195f}" />
+	<object class="SFXReverbEffect" id="{167dbfb9-c69a-44ef-833f-5015d42de31f}" />
+	<object class="MixerBusFader" id="{db813390-2625-45a4-b04c-1a2ab93e3b5d}" />
+</objects>

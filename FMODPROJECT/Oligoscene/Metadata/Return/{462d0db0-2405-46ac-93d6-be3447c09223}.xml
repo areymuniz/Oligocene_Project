@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{462d0db0-2405-46ac-93d6-be3447c09223}">
+		<property name="name">
+			<value>VerbRoomBubble</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{0ad19973-759d-4380-833b-b0299086c447}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{92ff650d-31b3-4411-a8a4-b73da054c60a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{914c36ce-d49d-4a33-ba25-893e708b2030}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{0ad19973-759d-4380-833b-b0299086c447}">
+		<relationship name="effects">
+			<destination>{a5b83893-f81a-4303-988d-6a097e69cc51}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{92ff650d-31b3-4411-a8a4-b73da054c60a}" />
+	<object class="MixerBusFader" id="{a5b83893-f81a-4303-988d-6a097e69cc51}" />
+</objects>

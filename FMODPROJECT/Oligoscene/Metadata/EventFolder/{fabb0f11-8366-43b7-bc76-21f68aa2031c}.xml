@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{fabb0f11-8366-43b7-bc76-21f68aa2031c}">
+		<property name="name">
+			<value>TriggeredAnimations</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d296058b-4f37-436c-bc9e-f7f505f847eb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Bank" id="{63785554-d2b9-4901-973c-d0b023216127}">
+		<property name="note">
+			<value>Loads when entering the aquarium</value>
+		</property>
+		<property name="name">
+			<value>Aquarium</value>
+		</property>
+		<relationship name="folder">
+			<destination>{af76b6a5-402a-4de2-a871-8dc826002a78}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerGroup" id="{ac13e633-a6b2-408c-9421-c44d2d399d67}">
+		<property name="note">
+			<value>Reverb and delay returns
+</value>
+		</property>
+		<property name="name">
+			<value>Verbs</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{69a83682-0a65-464b-86b7-02aea304818c}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{b59d2183-5a0c-4af4-9e09-bf9600d7090b}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{914c36ce-d49d-4a33-ba25-893e708b2030}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{69a83682-0a65-464b-86b7-02aea304818c}">
+		<relationship name="effects">
+			<destination>{a9985f04-7a33-4b1e-ac99-7b5411ff3106}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{b59d2183-5a0c-4af4-9e09-bf9600d7090b}" />
+	<object class="MixerBusFader" id="{a9985f04-7a33-4b1e-ac99-7b5411ff3106}" />
+</objects>

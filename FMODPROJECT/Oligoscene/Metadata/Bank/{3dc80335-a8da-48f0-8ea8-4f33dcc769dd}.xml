@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Bank" id="{3dc80335-a8da-48f0-8ea8-4f33dcc769dd}">
+		<property name="note">
+			<value>Loads on start</value>
+		</property>
+		<property name="name">
+			<value>ResearchLab</value>
+		</property>
+		<relationship name="folder">
+			<destination>{af76b6a5-402a-4de2-a871-8dc826002a78}</destination>
+		</relationship>
+	</object>
+</objects>

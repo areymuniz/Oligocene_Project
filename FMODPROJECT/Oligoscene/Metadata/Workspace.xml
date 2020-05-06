@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Workspace" id="{5ac9cf77-8285-4d2d-b26e-af0467f24419}">
+		<property name="builtBanksOutputDirectory">
+			<value>/Volumes/SG Mac/Git Repos/Oligocene/Content/FMODAUDIO/Desktop</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{0148bc0e-3b18-4d37-b5e8-bd797dd1b916}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{0146f7da-fd14-46cd-8e18-bb8ae590ce44}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{a7aa4680-ad9b-4f60-b7f1-10d9cef9dd29}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{b285087f-98f0-4e7a-b1e4-31219597dbde}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{af76b6a5-402a-4de2-a871-8dc826002a78}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{92ab88a2-69b9-40c8-b289-db7443a2e91a}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{f1ab397b-21eb-48fa-a016-8663da331841}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{cad41330-125b-4da6-b36b-d11f9e27ad0f}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{a2cbbb84-b716-4e34-a5a1-3f85a9d24b87}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Bank" id="{1504ad05-4549-4e0b-9fcd-0baa85622817}">
+		<property name="note">
+			<value>Loads on start. Contains UI.</value>
+		</property>
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<property name="isMasterBank">
+			<value>true</value>
+		</property>
+		<relationship name="folder">
+			<destination>{af76b6a5-402a-4de2-a871-8dc826002a78}</destination>
+		</relationship>
+	</object>
+</objects>
