@@ -855,10 +855,10 @@
 	</object>
 	<object class="TransitionRegion" id="{9f3ad1f5-cb90-4288-a407-171237424127}">
 		<property name="position">
-			<value>25.945945945945947</value>
+			<value>0</value>
 		</property>
 		<property name="length">
-			<value>90.810810810810807</value>
+			<value>116.75675675675674</value>
 		</property>
 		<property name="quantizationInterval">
 			<value>5</value>
