@@ -1,0 +1,1051 @@
+﻿Log file open, 05/07/20 23:35:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 21.874955
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin FMODStudio
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 780
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.08-03.35.27:107][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.08-03.35.27:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:108][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-03.35.27:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-03.35.27:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.08-03.35.27:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.08-03.35.27:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-03.35.27:152][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.08-03.35.27:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.08-03.35.27:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.08-03.35.27:154][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-03.35.27:154][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.08-03.35.27:185][  0]LogHAL: Display: Platform has ~ 8 GB [8548028416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.08-03.35.27:185][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.08-03.35.27:185][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-03.35.27:185][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-03.35.27:186][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.08-03.35.27:187][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-03.35.27:188][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-03.35.27:189][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.08-03.35.27:189][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.08-03.35.27:189][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.08-03.35.27:189][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.08-03.35.27:196][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.08-03.35.27:196][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.08-03.35.27:196][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.08-03.35.27:234][  0]LogInit: Computer: MARZ
+[2020.05.08-03.35.27:234][  0]LogInit: User: user
+[2020.05.08-03.35.27:234][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.08-03.35.27:234][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.08-03.35.27:234][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.05.08-03.35.27:234][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.08-03.35.27:234][  0]LogMemory: Process Physical Memory: 105.25 MB used, 105.26 MB peak
+[2020.05.08-03.35.27:234][  0]LogMemory: Process Virtual Memory: 99.95 MB used, 99.95 MB peak
+[2020.05.08-03.35.27:234][  0]LogMemory: Physical Memory: 3637.87 MB used,  4514.17 MB free, 8152.04 MB total
+[2020.05.08-03.35.27:234][  0]LogMemory: Virtual Memory: 5121.49 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.05.08-03.35.27:243][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.08-03.35.27:815][  0]LogInit: Using OS detected language (en-US).
+[2020.05.08-03.35.27:815][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.08-03.35.27:817][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.08-03.35.28:429][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.08-03.35.28:813][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.08-03.35.28:813][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.08-03.35.29:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-03.35.29:916][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.08-03.35.29:916][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.08-03.35.29:916][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.08-03.35.30:016][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2020.05.08-03.35.30:016][  0]LogD3D11RHI:       3029/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.08-03.35.30:018][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.08-03.35.30:018][  0]LogD3D11RHI:       0/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.08-03.35.30:018][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.08-03.35.30:025][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.08-03.35.30:025][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.08-03.35.30:025][  0]LogWindows: EnumDisplayDevices:
+[2020.05.08-03.35.30:025][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2020.05.08-03.35.30:026][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:1)
+[2020.05.08-03.35.30:026][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2020.05.08-03.35.30:026][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2020.05.08-03.35.30:026][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.08-03.35.30:026][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2020.05.08-03.35.30:026][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.05.08-03.35.30:026][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.05.08-03.35.30:026][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.05.08-03.35.30:089][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.05.08-03.35.30:090][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.08-03.35.30:327][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.08-03.35.31:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.08-03.35.31:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.08-03.35.31:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.08-03.35.31:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.08-03.35.31:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.08-03.35.31:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.08-03.35.31:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.08-03.35.31:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.08-03.35.31:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.08-03.35.31:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.08-03.35.31:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.08-03.35.31:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.08-03.35.31:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.08-03.35.31:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.08-03.35.31:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.08-03.35.31:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.08-03.35.31:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.08-03.35.31:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.08-03.35.31:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.08-03.35.31:783][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.08-03.35.32:289][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/user/Documents/GitHub/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/4688/).
+[2020.05.08-03.35.32:289][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/DE9EE76D484C8FF29F8EFA8365932F4D/'.
+[2020.05.08-03.35.32:307][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.08-03.35.32:307][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.08-03.35.32:307][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.08-03.35.32:307][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.08-03.35.34:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: Loaded boot cache 0.25s 87MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/Documents/GitHub/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/Documents/GitHub/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-03.35.34:754][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.08-03.35.34:818][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.08-03.35.34:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-03.35.34:818][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.08-03.35.34:820][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.08-03.35.34:821][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.08-03.35.34:821][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.08-03.35.34:868][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.08-03.35.34:941][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.08-03.35.34:973][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.08-03.35.35:952][  0]LogAssetRegistry: FAssetRegistry took 0.0064 seconds to start up
+[2020.05.08-03.35.43:094][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-03.35.48:822][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.08-03.35.48:822][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.08-03.35.48:822][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.08-03.35.48:822][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.08-03.35.48:823][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.08-03.35.49:692][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.05.08-03.36.46:218][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.070394 seconds
+[2020.05.08-03.36.46:272][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.08-03.36.46:273][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.08-03.36.46:273][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.08-03.36.51:250][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.08-03.36.51:346][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.08-03.36.52:370][  0]LogFMOD: FFMODStudioModule startup
+[2020.05.08-03.36.52:370][  0]LogFMOD:  Lib path = 'C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries'
+[2020.05.08-03.36.52:370][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2020.05.08-03.36.52:378][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.08-03.36.52:415][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.36.52:426][  0]LogFMOD: Loading strings bank: C:/Users/user/Documents/GitHub/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.08-03.36.52:428][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbi
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/SFXTESTCOMP
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Aquarium
+[2020.05.08-03.36.52:438][  0]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.08-03.36.52:438][  0]LogFMOD: Skipping asset: bus:/
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Tunnel
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Reverb
+[2020.05.08-03.36.52:438][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGSpline
+[2020.05.08-03.36.52:448][  0]LogFMOD: Default sample rate = 48000
+[2020.05.08-03.36.52:448][  0]LogFMOD: System sample rate = 48000
+[2020.05.08-03.36.52:448][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.08-03.36.52:498][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.08-03.36.52:498][  0]LogFMOD: Trying to load plugin file at location: C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.08-03.36.52:504][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.08-03.36.52:508][  0]LogFMOD: Default sample rate = 48000
+[2020.05.08-03.36.52:508][  0]LogFMOD: System sample rate = 48000
+[2020.05.08-03.36.52:508][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.08-03.36.52:517][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.08-03.36.52:517][  0]LogFMOD: Trying to load plugin file at location: C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.08-03.36.52:517][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.08-03.36.53:728][  0]SourceControl: Source control is disabled
+[2020.05.08-03.36.53:749][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.08-03.36.53:749][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.08-03.36.53:800][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.08-03.36.53:800][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.08-03.36.53:832][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.08-03.36.53:832][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.08-03.36.53:849][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.08-03.36.53:849][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.08-03.36.53:877][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.08-03.36.53:878][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.08-03.36.54:820][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.08-03.36.54:891][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.08-03.36.54:891][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.08-03.36.55:349][  0]LogOcInput: OculusInput pre-init called
+[2020.05.08-03.36.55:382][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.08-03.36.55:382][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.08-03.36.55:432][  0]LogFMOD: FFMODStudioEditorModule startup
+[2020.05.08-03.36.56:230][  0]LogEngine: Initializing Engine...
+[2020.05.08-03.36.56:239][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-03.36.56:274][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.018 s
+[2020.05.08-03.36.57:056][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.08-03.36.57:395][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-03.36.57:471][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-03.36.57:471][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-03.36.57:472][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-03.36.57:472][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Name: L24q-20 (NVIDIA High Definition Audio)
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-03.36.57:570][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-03.36.57:584][  0]LogAudioMixer: Display: Using Audio Device L24q-20 (NVIDIA High Definition Audio)
+[2020.05.08-03.36.57:596][  0]LogInit: FAudioDevice initialized.
+[2020.05.08-03.36.57:597][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.08-03.36.57:826][  0]LogDerivedDataCache: Saved boot cache 0.23s 87MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.08-03.36.57:841][  0]LogInit: Texture streaming: Enabled
+[2020.05.08-03.36.57:975][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.08-03.36.57:985][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E037EE48-4117-76CB-201E-35B9F34FBA49}
+[2020.05.08-03.36.57:985][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.08-03.36.57:995][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.08-03.36.58:472][  0]LogInit: Transaction tracking system initialized
+[2020.05.08-03.36.58:707][  0]BlueprintLog: New page: Editor Load
+[2020.05.08-03.37.00:206][  0]LocalizationService: Localization service is disabled
+[2020.05.08-03.37.01:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.08-03.37.01:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.08-03.37.05:162][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/' took 0.05s
+[2020.05.08-03.37.05:162][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.08-03.37.05:162][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.08-03.37.12:913][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.08-03.37.12:913][  0]LogWindows: Warning: URL: D:/Program_Files/Git/bin/git.exe version
+[2020.05.08-03.37.12:919][  0]Cmd: MAP LOAD FILE="C:/Users/user/Documents/GitHub/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.08-03.37.12:925][  0]LightingResults: New page: Lighting Build
+[2020.05.08-03.37.12:999][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-03.37.13:014][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-03.37.13:023][  0]MapCheck: New page: Map Check
+[2020.05.08-03.37.13:023][  0]LightingResults: New page: Lighting Build
+[2020.05.08-03.37.13:232][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.05.08-03.37.14:700][  0]LogLinker: Warning: Asset 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-03.37.14:702][  0]LogLinker: Warning: Asset 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-03.37.14:703][  0]LogLinker: Warning: Asset 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.08-03.37.24:055][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.08-03.37.24:666][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.08-03.37.24:885][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.08-03.37.24:886][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.08-03.37.24:905][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.995ms to complete.
+[2020.05.08-03.37.24:911][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 11.992
+[2020.05.08-03.37.26:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.37.26:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.37.26:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.37.26:464][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.37.26:548][  0]LogCollectionManager: Loaded 0 collections in 0.002041 seconds
+[2020.05.08-03.37.26:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.05.08-03.37.26:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/Developers/user/Collections/' took 0.00s
+[2020.05.08-03.37.26:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.05.08-03.37.26:648][  0]LogContentBrowser: Native class hierarchy populated in 0.0205 seconds. Added 3031 classes and 724 folders.
+[2020.05.08-03.37.26:720][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.08-03.37.27:945][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.08-03.37.27:993][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.05.08-03.37.28:487][  0]LogSlate: Took 0.028803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.08-03.37.28:511][  0]LogSlate: Took 0.008495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.08-03.37.28:548][  0]LogSlate: Took 0.011720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.08-03.37.29:081][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 26 NumSamples 1 (Frame:1).
+[2020.05.08-03.37.29:163][  0]LogStaticMesh: Allocated 512x512x192 distance field atlas = 96.0Mb, with 319 objects containing 46.0Mb backing data
+[2020.05.08-03.37.29:475][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-03.37.29:475][  0]LogLoad: (Engine Initialization) Total time: 160.31 seconds
+[2020.05.08-03.37.29:475][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.08-03.37.29:679][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.08-03.37.29:825][  1]LogFMOD: File has changed: C:/Users/user/Documents/GitHub/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.08-03.37.29:933][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.08-03.37.29:936][  1]LogFMOD: Loading strings bank: C:/Users/user/Documents/GitHub/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.08-03.37.29:938][  1]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.08-03.37.29:938][  1]LogFMOD: Skipping asset: bus:/
+[2020.05.08-03.37.29:946][  1]LogFMOD: Default sample rate = 48000
+[2020.05.08-03.37.29:946][  1]LogFMOD: System sample rate = 48000
+[2020.05.08-03.37.29:946][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.08-03.37.29:984][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.08-03.37.29:984][  1]LogFMOD: Trying to load plugin file at location: C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.08-03.37.29:984][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.08-03.37.30:134][  1]LogFMOD: Default sample rate = 48000
+[2020.05.08-03.37.30:134][  1]LogFMOD: System sample rate = 48000
+[2020.05.08-03.37.30:134][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.08-03.37.30:164][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.08-03.37.30:164][  1]LogFMOD: Trying to load plugin file at location: C:/Users/user/Documents/GitHub/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.08-03.37.30:164][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.08-03.37.30:504][  1]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.08-03.37.30:577][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.32:181][  1]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.594 s
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: 
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: Stack: 
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe30a9016 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe2aab21a UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd676bc95 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6d0527b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6cca04e UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6d027e3 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6ce57f8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6c549a5 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6c53dab UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd67ed71c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6b9c27e UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6bb0ef8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffd6bba35c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe2959ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe295a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe2135391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe213e254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe2dd32ef UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:181][  1]LogOutputDevice: Error: [Callstack] 0x00007fffe2dd2f94 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-03.37.32:182][  1]LogOutputDevice: Error: [Callstack] 0x00007ff82ece7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.08-03.37.32:182][  1]LogOutputDevice: Error: [Callstack] 0x00007ff82f02ce51 ntdll.dll!UnknownFunction []
+[2020.05.08-03.37.32:182][  1]LogOutputDevice: Error: 
+[2020.05.08-03.37.32:182][  1]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.08-03.37.39:830][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.08-03.37.39:830][  1]LogStats:                    SendNewReport -  7.650 s
+[2020.05.08-03.37.39:830][  1]LogStats:             FDebug::EnsureFailed -  9.245 s
+[2020.05.08-03.37.39:830][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:830][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:876][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:876][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:876][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:876][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:900][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:900][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:900][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:909][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:909][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:909][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:909][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:976][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:976][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:982][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:982][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:982][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:982][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.39:982][  1]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.05.08-03.37.42:094][ 25]LogAssetRegistry: Asset discovery search completed in 126.1438 seconds
+[2020.05.08-03.37.42:098][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.05.08-03.38.00:005][592]LogAIModule: Creating AISystem for world ass
+[2020.05.08-03.38.00:022][592]LogObjectTools: Deleting 1 worlds: /Game/ass.ass
+[2020.05.08-03.38.00:022][592]LogObjectTools: Currently 2 active worlds: /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable, /Engine/Transient.World_0
+[2020.05.08-03.38.00:049][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.05.08-03.38.02:174][592]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.08-03.38.02:313][592]LogSlate: Took 0.016290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.08-03.38.02:421][592]LogWorld: UWorld::CleanupWorld for ass, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-03.38.02:421][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-03.38.02:823][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.38.02:901][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.38.02:927][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.39.01:368][901]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.05.08-03.39.01:945][901]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.05.08-03.39.01:945][901]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.05.08-03.39.01:945][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.05.08-03.39.01:945][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.05.08-03.39.14:246][901]LogMeshUtilities: Finished distance field build in 12.3s - 64x64x64 distance field, 128 triangles, Range [-0.0, 0.5], TemplateFloor
+[2020.05.08-03.39.51:563][901]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.08-03.41.12:343][901]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.08-03.42.31:991][901]LogUObjectGlobals: Force Deleting 193 Package(s):
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref1.aquarium_5_2_20_base_door_ref1
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref2.aquarium_5_2_20_base_door_ref2
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_base_door_ref3.aquarium_5_2_20_base_door_ref3
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_Bottom_Platform01.aquarium_5_2_20_Bottom_Platform01
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_deck_1.aquarium_5_2_20_deck_1
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_deck_2.aquarium_5_2_20_deck_2
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_deck_3.aquarium_5_2_20_deck_3
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_dome_walls02_metal_bottom.aquarium_5_2_20_dome_walls02_metal_bottom
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_dometop_10.aquarium_5_2_20_dometop_10
+	Asset Name: /Game/Geometry/Meshes/aquarium_5_2_20_dometop_11.aquarium_5_2_20_dometop_11
+[2020.05.08-03.42.40:003][901]LogStaticMesh: Building static mesh TemplateFloor...
+[2020.05.08-03.42.40:587][901]LogStaticMesh: Built static mesh [0.58s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2020.05.08-03.42.49:770][901]LogMeshUtilities: Finished distance field build in 9.1s - 64x64x64 distance field, 128 triangles, Range [-0.0, 0.5], TemplateFloor
+[2020.05.08-03.43.38:840][901]LogSlate: Window 'Message' being destroyed
+[2020.05.08-03.43.38:885][901]LogObjectTools: Warning: ForceDeleteObject failed to delete TemplateFloor, this package is now potentially corrupt
+[2020.05.08-03.43.59:472][901]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.05.08-03.43.59:518][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.43.59:585][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.43.59:609][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.08-03.43.59:634][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.43.59:658][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:682][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:706][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.08-03.43.59:730][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.08-03.43.59:757][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.43.59:781][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.43.59:806][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.08-03.43.59:830][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:853][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.43.59:878][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:902][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.43.59:927][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:951][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.43.59:976][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.00:000][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.08-03.44.00:026][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:050][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:075][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:100][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:125][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.00:150][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.00:173][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.08-03.44.00:238][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.08-03.44.00:261][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:286][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.00:310][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:335][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.00:361][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.00:385][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.08-03.44.00:413][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.00:438][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.00:466][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.08-03.44.00:490][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.00:516][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.08-03.44.00:541][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:595][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.05.08-03.44.00:623][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.00:650][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.05.08-03.44.00:677][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.08-03.44.00:700][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.00:724][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.00:748][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:773][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.00:798][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:825][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.05.08-03.44.00:849][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:873][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:898][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:922][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.00:945][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:970][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.00:994][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:019][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:046][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.01:070][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:095][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.01:120][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:143][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:167][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:191][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:215][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:240][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:268][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:293][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:317][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:342][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:366][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:391][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.08-03.44.01:416][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.08-03.44.01:441][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:467][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:492][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:516][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:541][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.01:564][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:590][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.08-03.44.01:615][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.01:640][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.01:663][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:687][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.01:712][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:737][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:761][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:786][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.01:810][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.01:834][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:858][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:883][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:909][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.01:934][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:959][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.01:983][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.08-03.44.02:006][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:030][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:054][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:078][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:103][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:130][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:153][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:178][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:202][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:228][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:252][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:276][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:301][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:325][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:351][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:374][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.02:399][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:424][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:448][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:472][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:497][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:521][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:546][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.02:572][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:596][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.02:621][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:646][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:670][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:694][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:719][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:743][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:768][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.02:794][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.02:819][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.02:844][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:869][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:892][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:916][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:940][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.02:965][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.02:989][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.08-03.44.03:013][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:038][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:062][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:087][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:113][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:136][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:160][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:184][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:209][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:235][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.03:260][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:283][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:308][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:332][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:356][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:381][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:406][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.08-03.44.03:428][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:455][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:478][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:503][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:527][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:552][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:575][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.03:600][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:623][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:648][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:673][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:698][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:722][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:747][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:770][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:794][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:819][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:844][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.03:868][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:895][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.03:919][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:943][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.03:968][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.03:992][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:016][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:041][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:066][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:091][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.04:118][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:141][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:166][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:190][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.08-03.44.04:215][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:240][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:265][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:289][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.08-03.44.04:313][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.08-03.44.04:340][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.05.08-03.44.04:363][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.08-03.44.04:427][901]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.08-03.44.04:768][901]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.341 s
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2826]
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: 					from the file system manually: 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: /Game/Geometry/Meshes/TemplateFloor
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: Stack: 
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdba80538 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdb346e06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdab616f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdaddcde8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdadd65c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde8c1498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde8d9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde73323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde7b9175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde7a413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde798f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a4ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c49242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c48ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff82e435c0d USER32.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff82e435602 USER32.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a8569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde7c4080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffde761c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:768][901]LogOutputDevice: Error: [Callstack] 0x00007fffdae70fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffdb33a1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffdb339696 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffd44a4a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffd45c6377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffd45a3ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffde769ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffde7a03de UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffd45ee08b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffde731041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffde7a224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007fffde797b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a4918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c49242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c48ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff82e435c0d USER32.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff82e435602 USER32.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff81c4a8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff6ba5c6db0 UE4Editor.exe!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff6ba5dc3ec UE4Editor.exe!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff6ba5dc4ca UE4Editor.exe!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff6ba5eceae UE4Editor.exe!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff6ba5efcbe UE4Editor.exe!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff82ece7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: [Callstack] 0x00007ff82f02ce51 ntdll.dll!UnknownFunction []
+[2020.05.08-03.44.04:769][901]LogOutputDevice: Error: 
+[2020.05.08-03.44.04:774][901]LogStats:                SubmitErrorReport -  0.000 s
