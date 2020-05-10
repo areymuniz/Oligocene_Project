@@ -4156,3 +4156,539 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.10-01.33.43:260][ 10]LogContentValidation: Display: Validating Skeleton /Game/Characters/Barracuda/Barracuda_Model_Skeleton.Barracuda_Model_Skeleton
 [2020.05.10-01.33.43:260][ 10]LogContentValidation: Display: Validating Material /Game/Characters/Barracuda/lambert2.lambert2
 [2020.05.10-01.33.43:260][ 10]LogContentValidation: Display: Validating Material /Game/Characters/Barracuda/lambert3.lambert3
+[2020.05.10-01.45.34:454][279]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Shark\Shark_Model.fbx)
+[2020.05.10-01.45.34:469][279]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Shark\Shark_Model.fbx
+[2020.05.10-01.45.34:558][279]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.10-01.45.49:967][279]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.10-01.45.50:012][279]LogFbx: Valid bind pose for Pose (skinCluster1) - BODY_SMOOTH
+[2020.05.10-01.45.50:012][279]LogFbx: Valid bind pose for Pose (skinCluster2) - BODY_SMOOTH
+[2020.05.10-01.45.50:012][279]LogFbx: Valid bind pose for Pose (skinCluster3) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster4) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster5) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster6) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster7) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster8) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster9) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster10) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster11) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster12) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster13) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster14) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster15) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster16) - BODY_SMOOTH
+[2020.05.10-01.45.50:013][279]LogFbx: Valid bind pose for Pose (skinCluster17) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster18) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster19) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster20) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster21) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster22) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster23) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster24) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster25) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster26) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster27) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster28) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster29) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster30) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster31) - BODY_SMOOTH
+[2020.05.10-01.45.50:014][279]LogFbx: Valid bind pose for Pose (skinCluster32) - BODY_SMOOTH
+[2020.05.10-01.45.50:015][279]LogFbx: Valid bind pose for Pose (skinCluster33) - BODY_SMOOTH
+[2020.05.10-01.45.50:015][279]LogFbx: Valid bind pose for Pose (skinCluster34) - BODY_SMOOTH
+[2020.05.10-01.45.50:018][279]LogMaterial: Display: Material /Game/Characters/Shark/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.10-01.45.50:022][279]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.10-01.45.50:050][279]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.10-01.45.50:051][279]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.10-01.45.50:059][279]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.10-01.45.50:110][279]LogFbx: Triangulating skeletal mesh BODY_SMOOTH
+[2020.05.10-01.45.50:935][279]LogFbx: Triangulating skeletal mesh R_EYE
+[2020.05.10-01.45.50:983][279]LogFbx: Triangulating skeletal mesh L_EYE
+[2020.05.10-01.45.51:026][279]LogFbx: Triangulating skeletal mesh polySurface38
+[2020.05.10-01.45.51:068][279]LogFbx: Triangulating skeletal mesh polySurface37
+[2020.05.10-01.45.51:107][279]LogFbx: Triangulating skeletal mesh polySurface36
+[2020.05.10-01.45.51:147][279]LogFbx: Triangulating skeletal mesh polySurface35
+[2020.05.10-01.45.51:188][279]LogFbx: Triangulating skeletal mesh polySurface34
+[2020.05.10-01.45.51:232][279]LogFbx: Triangulating skeletal mesh polySurface33
+[2020.05.10-01.45.51:276][279]LogFbx: Triangulating skeletal mesh polySurface24
+[2020.05.10-01.45.51:318][279]LogFbx: Triangulating skeletal mesh polySurface23
+[2020.05.10-01.45.51:359][279]LogFbx: Triangulating skeletal mesh polySurface32
+[2020.05.10-01.45.51:399][279]LogFbx: Triangulating skeletal mesh polySurface31
+[2020.05.10-01.45.51:449][279]LogFbx: Triangulating skeletal mesh polySurface19
+[2020.05.10-01.45.51:503][279]LogFbx: Triangulating skeletal mesh polySurface18
+[2020.05.10-01.45.51:553][279]LogFbx: Triangulating skeletal mesh polySurface17
+[2020.05.10-01.45.51:599][279]LogFbx: Triangulating skeletal mesh polySurface22
+[2020.05.10-01.45.51:648][279]LogFbx: Triangulating skeletal mesh polySurface21
+[2020.05.10-01.45.51:697][279]LogFbx: Triangulating skeletal mesh polySurface20
+[2020.05.10-01.45.51:747][279]LogFbx: Triangulating skeletal mesh polySurface25
+[2020.05.10-01.45.51:800][279]LogFbx: Triangulating skeletal mesh polySurface16
+[2020.05.10-01.45.51:845][279]LogFbx: Triangulating skeletal mesh polySurface15
+[2020.05.10-01.45.51:890][279]LogFbx: Triangulating skeletal mesh polySurface40
+[2020.05.10-01.45.51:932][279]LogFbx: Triangulating skeletal mesh polySurface39
+[2020.05.10-01.45.51:977][279]LogFbx: Triangulating skeletal mesh polySurface8
+[2020.05.10-01.45.52:020][279]LogFbx: Triangulating skeletal mesh polySurface14
+[2020.05.10-01.45.52:066][279]LogFbx: Triangulating skeletal mesh polySurface12
+[2020.05.10-01.45.52:110][279]LogFbx: Triangulating skeletal mesh polySurface11
+[2020.05.10-01.45.52:145][279]LogFbx: Triangulating skeletal mesh polySurface26
+[2020.05.10-01.45.52:182][279]LogFbx: Triangulating skeletal mesh polySurface28
+[2020.05.10-01.45.52:215][279]LogFbx: Triangulating skeletal mesh polySurface13
+[2020.05.10-01.45.52:251][279]LogFbx: Triangulating skeletal mesh polySurface9
+[2020.05.10-01.45.52:291][279]LogFbx: Triangulating skeletal mesh polySurface29
+[2020.05.10-01.45.52:333][279]LogFbx: Triangulating skeletal mesh polySurface30
+[2020.05.10-01.45.52:433][279]LogFbx: Warning: Bones digested - 111  Depth of hierarchy - 8
+[2020.05.10-01.45.54:016][279]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.10-01.45.54:021][279]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.10-01.45.54:036][279]LogSkeletalMesh: Building Skeletal Mesh Shark_Model...
+[2020.05.10-01.45.55:803][279]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.10-01.45.55:807][279]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.10-01.45.55:992][279]LogSkeletalMesh: Built Skeletal Mesh [1.96s] /Game/Characters/Shark/Shark_Model.Shark_Model
+[2020.05.10-01.45.56:006][279]LogLinker: Failed to load '/Game/Characters/Shark/Shark_Model_Skeleton': Can't find file.
+[2020.05.10-01.45.56:006][279]LogLinker: Failed to load '/Game/Characters/Shark/Shark_Model_Skeleton': Can't find file.
+[2020.05.10-01.45.56:010][279]LogLinker: Failed to load '/Game/Characters/Shark/Shark_Model_PhysicsAsset': Can't find file.
+[2020.05.10-01.45.56:010][279]LogLinker: Failed to load '/Game/Characters/Shark/Shark_Model_PhysicsAsset': Can't find file.
+[2020.05.10-01.45.56:032][279]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-01.45.56:032][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-01.45.56:140][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:141][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.45.56:142][279]FBXImport: Warning: The following bones are missing from the bind pose:
+CTRL_GRP  
+Lf_bottom_back_fin_CTRL_GRP  
+Lf_bottom_back_fin_1_ctrl_ref  
+Lf_bottom_back_fin_1_ctrl_auto  
+Lf_pectoralFin_root_CTRL_GRP  
+Lf_pectoralFin_root_1_ctrl_ref  
+Lf_pectoralFin_root_1_ctrl_auto  
+Rt_bottom_back_fin_CTRL_GRP  
+Rt_bottom_back_fin_1_ctrl_ref  
+Rt_bottom_back_fin_1_ctrl_auto  
+Rt_pectoralFin_root_CTRL_GRP  
+Rt_pectoralFin_root_1_ctrl_ref  
+Rt_pectoralFin_root_1_ctrl_auto  
+bottom_tail_CTRL_GRP  
+bottom_tail_1_ctrl_ref  
+bottom_tail_1_ctrl_auto  
+head_CTRL_GRP  
+head_1_ctrl_ref  
+head_1_ctrl_auto  
+placer_CTRL_GRP  
+global_ctrl_ref  
+spine_CTRL_GRP  
+spine_1_ctrl_ref  
+spine_1_ctrl_auto  
+top_fin_CTRL_GRP  
+top_fin_1_ctrl_ref  
+top_fin_1_ctrl_auto  
+top_tail_CTRL_GRP  
+top_tail_1_ctrl_ref  
+top_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.10-01.46.06:004][647]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.10-01.46.08:579][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.05.10-01.46.16:862][128]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2020.05.10-01.46.17:092][135]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.05.10-01.46.17:240][141]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.05.10-01.46.18:359][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2020.05.10-01.46.18:596][179]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Shark\Shark_swimCycle_slow.fbx)
+[2020.05.10-01.46.18:641][179]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Shark\Shark_swimCycle_slow.fbx
+[2020.05.10-01.46.18:958][179]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.10-01.46.23:596][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.05.10-01.46.25:430][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.05.10-01.46.25:940][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.05.10-01.46.31:170][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.10-01.46.32:669][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.05.10-01.46.33:351][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.05.10-01.46.33:419][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.10-01.46.33:619][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.05.10-01.46.34:211][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.05.10-01.46.36:845][179]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster1) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster2) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster3) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster4) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster5) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster6) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster7) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:078][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster8) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster9) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster10) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster11) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster12) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster13) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster14) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:079][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster15) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster16) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster17) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster18) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster19) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster20) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster21) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster22) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster23) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster24) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster25) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster26) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:081][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster27) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster28) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster29) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster30) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster31) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster32) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster33) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:082][179]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster34) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.37:091][179]LogMaterial: Display: Material /Game/Animations/Shark/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.10-01.46.37:106][179]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.10-01.46.37:166][179]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.10-01.46.37:272][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:BODY_SMOOTH
+[2020.05.10-01.46.38:297][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:R_EYE
+[2020.05.10-01.46.38:366][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:L_EYE
+[2020.05.10-01.46.38:426][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface38
+[2020.05.10-01.46.38:471][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface37
+[2020.05.10-01.46.38:514][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface36
+[2020.05.10-01.46.38:557][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface35
+[2020.05.10-01.46.38:604][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface34
+[2020.05.10-01.46.38:651][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface33
+[2020.05.10-01.46.38:698][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface24
+[2020.05.10-01.46.38:743][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface23
+[2020.05.10-01.46.38:785][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface32
+[2020.05.10-01.46.38:830][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface31
+[2020.05.10-01.46.38:879][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface19
+[2020.05.10-01.46.38:923][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface18
+[2020.05.10-01.46.38:968][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.05.10-01.46.38:968][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface17
+[2020.05.10-01.46.39:023][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface22
+[2020.05.10-01.46.39:094][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface21
+[2020.05.10-01.46.39:141][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface20
+[2020.05.10-01.46.39:185][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface25
+[2020.05.10-01.46.39:240][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface16
+[2020.05.10-01.46.39:290][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface15
+[2020.05.10-01.46.39:334][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface40
+[2020.05.10-01.46.39:379][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2020.05.10-01.46.39:379][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface39
+[2020.05.10-01.46.39:423][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface8
+[2020.05.10-01.46.39:471][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.05.10-01.46.39:472][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface14
+[2020.05.10-01.46.39:521][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface12
+[2020.05.10-01.46.39:571][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface11
+[2020.05.10-01.46.39:625][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface26
+[2020.05.10-01.46.39:702][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface28
+[2020.05.10-01.46.39:762][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.05.10-01.46.39:762][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface13
+[2020.05.10-01.46.39:867][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface9
+[2020.05.10-01.46.39:928][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface29
+[2020.05.10-01.46.39:999][179]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface30
+[2020.05.10-01.46.40:169][179]LogFbx: Warning: Bones digested - 111  Depth of hierarchy - 8
+[2020.05.10-01.46.40:599][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.05.10-01.46.40:599][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.05.10-01.46.41:894][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.05.10-01.46.41:894][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.05.10-01.46.42:192][179]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.10-01.46.42:198][179]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.10-01.46.42:214][179]LogSkeletalMesh: Building Skeletal Mesh Shark_swimCycle_slow...
+[2020.05.10-01.46.43:992][179]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.10-01.46.43:998][179]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.10-01.46.44:181][179]LogSkeletalMesh: Built Skeletal Mesh [1.97s] /Game/Animations/Shark/Shark_swimCycle_slow.Shark_swimCycle_slow
+[2020.05.10-01.46.44:197][179]LogLinker: Failed to load '/Game/Animations/Shark/Shark_swimCycle_slow_PhysicsAsset': Can't find file.
+[2020.05.10-01.46.44:197][179]LogLinker: Failed to load '/Game/Animations/Shark/Shark_swimCycle_slow_PhysicsAsset': Can't find file.
+[2020.05.10-01.46.44:224][179]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-01.46.44:225][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(1) RIG_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(2) Lf_bottom_back_fin_RIG_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(3) Lf_bottom_back_fin_1_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(4) Lf_pectoralFin_root_RIG_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(5) Lf_pectoralFin_root_1_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(6) Lf_pectoralFin_root_2_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(7) Lf_pectoralFin_root_3_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(8) Lf_pectoralFin_root_4_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(9) Rt_bottom_back_fin_RIG_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(10) Rt_bottom_back_fin_1_jnt
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(11) Rt_pectoralFin_root_RIG_GRP
+[2020.05.10-01.46.44:270][179]LogFbx: SortedLinks :(12) Rt_pectoralFin_root_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(13) Rt_pectoralFin_root_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(14) Rt_pectoralFin_root_3_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(15) Rt_pectoralFin_root_4_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(16) bottom_tail_RIG_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(17) bottom_tail_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(18) bottom_tail_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(19) bottom_tail_3_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(20) head_RIG_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(21) head_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(22) head_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(23) jaw_upper_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(24) Lf_eye_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(25) Rt_eye_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(26) jaw_lower_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(27) spine_RIG_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(28) spine_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(29) spine_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(30) spine_3_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(31) spine_4_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(32) spine_5_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(33) top_fin_RIG_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(34) top_fin_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(35) top_fin_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(36) top_fin_3_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(37) top_tail_RIG_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(38) top_tail_1_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(39) top_tail_2_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(40) top_tail_3_jnt
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(41) CTRL_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(42) Lf_bottom_back_fin_CTRL_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(43) Lf_bottom_back_fin_1_ctrl_ref
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(44) Lf_bottom_back_fin_1_ctrl_auto
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(45) Lf_pectoralFin_root_CTRL_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(46) Lf_pectoralFin_root_1_ctrl_ref
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(47) Lf_pectoralFin_root_1_ctrl_auto
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(48) Rt_bottom_back_fin_CTRL_GRP
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(49) Rt_bottom_back_fin_1_ctrl_ref
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(50) Rt_bottom_back_fin_1_ctrl_auto
+[2020.05.10-01.46.44:271][179]LogFbx: SortedLinks :(51) Rt_pectoralFin_root_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(52) Rt_pectoralFin_root_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(53) Rt_pectoralFin_root_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(54) bottom_tail_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(55) bottom_tail_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(56) bottom_tail_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(57) head_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(58) head_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(59) head_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(60) placer_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(61) global_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(62) spine_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(63) spine_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(64) spine_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(65) top_fin_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(66) top_fin_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(67) top_fin_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(68) top_tail_CTRL_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(69) top_tail_1_ctrl_ref
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(70) top_tail_1_ctrl_auto
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(71) GEO_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(72) BODY_SMOOTH
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(73) R_EYE_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(74) R_EYE
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(75) L_EYE_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(76) L_EYE
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(77) TEETH_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(78) LOWER_TEETH_GRP
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(79) polySurface38
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(80) polySurface37
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(81) polySurface36
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(82) polySurface35
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(83) polySurface34
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(84) polySurface33
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(85) polySurface24
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(86) polySurface23
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(87) polySurface32
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(88) polySurface31
+[2020.05.10-01.46.44:272][179]LogFbx: SortedLinks :(89) polySurface19
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(90) polySurface18
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(91) polySurface17
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(92) polySurface22
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(93) polySurface21
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(94) polySurface20
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(95) polySurface25
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(96) polySurface16
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(97) polySurface15
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(98) UPPER_TEEH_GRP
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(99) polySurface40
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(100) polySurface39
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(101) polySurface8
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(102) polySurface14
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(103) polySurface12
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(104) polySurface11
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(105) polySurface26
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(106) polySurface28
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(107) polySurface13
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(108) polySurface9
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(109) polySurface29
+[2020.05.10-01.46.44:273][179]LogFbx: SortedLinks :(110) polySurface30
+[2020.05.10-01.46.44:276][179]LogFbx: Parsing AnimStack Take 001
+[2020.05.10-01.46.44:276][179]LogLinker: Failed to load '/Game/Animations/Shark/Shark_swimCycle_slow_Anim': Can't find file.
+[2020.05.10-01.46.44:277][179]LogLinker: Failed to load '/Game/Animations/Shark/Shark_swimCycle_slow_Anim': Can't find file.
+[2020.05.10-01.46.46:028][179]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Shark/Shark_swimCycle_slow_Anim.Shark_swimCycle_slow_Anim
+[2020.05.10-01.46.46:028][179]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Shark/Shark_swimCycle_slow_Anim.Shark_swimCycle_slow_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:230][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:231][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.10-01.46.46:232][179]FBXImport: Warning: The following bones are missing from the bind pose:
+shark_rig_FINAL:CTRL_GRP  
+shark_rig_FINAL:Lf_bottom_back_fin_CTRL_GRP  
+shark_rig_FINAL:Lf_bottom_back_fin_1_ctrl_ref  
+shark_rig_FINAL:Lf_bottom_back_fin_1_ctrl_auto  
+shark_rig_FINAL:Lf_pectoralFin_root_CTRL_GRP  
+shark_rig_FINAL:Lf_pectoralFin_root_1_ctrl_ref  
+shark_rig_FINAL:Lf_pectoralFin_root_1_ctrl_auto  
+shark_rig_FINAL:Rt_bottom_back_fin_CTRL_GRP  
+shark_rig_FINAL:Rt_bottom_back_fin_1_ctrl_ref  
+shark_rig_FINAL:Rt_bottom_back_fin_1_ctrl_auto  
+shark_rig_FINAL:Rt_pectoralFin_root_CTRL_GRP  
+shark_rig_FINAL:Rt_pectoralFin_root_1_ctrl_ref  
+shark_rig_FINAL:Rt_pectoralFin_root_1_ctrl_auto  
+shark_rig_FINAL:bottom_tail_CTRL_GRP  
+shark_rig_FINAL:bottom_tail_1_ctrl_ref  
+shark_rig_FINAL:bottom_tail_1_ctrl_auto  
+shark_rig_FINAL:head_CTRL_GRP  
+shark_rig_FINAL:head_1_ctrl_ref  
+shark_rig_FINAL:head_1_ctrl_auto  
+shark_rig_FINAL:placer_CTRL_GRP  
+shark_rig_FINAL:global_ctrl_ref  
+shark_rig_FINAL:spine_CTRL_GRP  
+shark_rig_FINAL:spine_1_ctrl_ref  
+shark_rig_FINAL:spine_1_ctrl_auto  
+shark_rig_FINAL:top_fin_CTRL_GRP  
+shark_rig_FINAL:top_fin_1_ctrl_ref  
+shark_rig_FINAL:top_fin_1_ctrl_auto  
+shark_rig_FINAL:top_tail_CTRL_GRP  
+shark_rig_FINAL:top_tail_1_ctrl_ref  
+shark_rig_FINAL:top_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.10-01.46.58:584][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.05.10-01.46.58:605][601]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.05.10-01.46.59:736][646]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.10-01.47.00:287][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.05.10-01.47.00:457][675]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.05.10-01.47.00:551][679]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.05.10-01.47.01:543][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.05.10-01.47.08:572][992]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.05.10-01.47.08:852][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.05.10-01.47.16:707][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.05.10-01.47.18:122][218]LogSlate: Window 'Save Content' being destroyed
+[2020.05.10-01.47.18:347][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Shark/lambert2" FILE="../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/lambert2.uasset" SILENT=true
+[2020.05.10-01.47.18:412][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert217B49238414399D8B4A1BCAC1CB5405C.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/lambert2.uasset'
+[2020.05.10-01.47.19:030][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_swimCycle_slow4613B791463944AAE28EBCBD37357030.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_swimCycle_slow.uasset'
+[2020.05.10-01.47.19:913][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_swimCycle_slow_Anim27F7AD6E486891FB3607E8BC7971267B.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_swimCycle_slow_Anim.uasset'
+[2020.05.10-01.47.20:327][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_swimCycle_slow_PhysicsAsse6AED69B44727C4739D495BB65FB41C80.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_swimCycle_slow_PhysicsAsset.uasset'
+[2020.05.10-01.47.20:587][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Shark/lambert2" FILE="../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Shark/lambert2.uasset" SILENT=true
+[2020.05.10-01.47.20:602][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert2081673B240B954C2DD86C5B9963F5AF5.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Shark/lambert2.uasset'
+[2020.05.10-01.47.21:276][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Model70EF082143951D5D8EA629B9C98008A4.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Shark/Shark_Model.uasset'
+[2020.05.10-01.47.22:060][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Model_PhysicsAsset54895903497B6C73E2FFBB8355B830E8.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Shark/Shark_Model_PhysicsAsset.uasset'
+[2020.05.10-01.47.22:355][218]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Model_Skeleton5FE2DDE4461711A1481E19B9773B3999.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Shark/Shark_Model_Skeleton.uasset'
+[2020.05.10-01.47.22:838][218]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating Material /Game/Animations/Shark/lambert2.lambert2
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Shark/Shark_swimCycle_slow.Shark_swimCycle_slow
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Shark/Shark_swimCycle_slow_Anim.Shark_swimCycle_slow_Anim
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Shark/Shark_swimCycle_slow_PhysicsAsset.Shark_swimCycle_slow_PhysicsAsset
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating Material /Game/Characters/Shark/lambert2.lambert2
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Shark/Shark_Model.Shark_Model
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/Shark/Shark_Model_PhysicsAsset.Shark_Model_PhysicsAsset
+[2020.05.10-01.47.22:838][218]LogContentValidation: Display: Validating Skeleton /Game/Characters/Shark/Shark_Model_Skeleton.Shark_Model_Skeleton
+[2020.05.10-01.47.34:585][681]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Shark/Shark_swimCycle_slow_Anim.Shark_swimCycle_slow_Anim
+[2020.05.10-01.47.34:590][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.10-01.47.34:749][681]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.10-01.47.35:370][681]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.10-01.47.40:864][  4]LogSlate: Window 'Shark_swimCycle_slow_Anim' being destroyed
+[2020.05.10-01.47.40:870][  4]LogSlate: Window 'Shark_swimCycle_slow_Anim' being destroyed
+[2020.05.10-01.47.40:888][  4]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-01.47.40:888][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-01.47.40:932][  4]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-01.47.40:932][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-01.47.40:939][  4]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-01.47.40:939][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-01.47.59:528][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
