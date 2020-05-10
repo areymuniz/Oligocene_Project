@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="MixerReturn" id="{b5c0635f-7832-453c-a020-fb9311acca45}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>VerbRoomAquarium</value>
 		</property>
@@ -11,7 +14,7 @@
 			<destination>{43ab8f19-1f4f-43e5-8f96-8713a10f4dad}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{914c36ce-d49d-4a33-ba25-893e708b2030}</destination>
+			<destination>{ac13e633-a6b2-408c-9421-c44d2d399d67}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{8334abf6-070c-43ef-a9c1-f3eabd6f3ed3}">

@@ -16,12 +16,11 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
 			<value>Metal</value>
 			<value>Stone</value>
-			<value>Tile</value>
 		</property>
 		<property name="isHeld">
 			<value>true</value>
