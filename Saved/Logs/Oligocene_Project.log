@@ -1986,3 +1986,31 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/Billfish/Billfish_Model_PhysicsAsset.Billfish_Model_PhysicsAsset
 [2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating Skeleton /Game/Characters/Billfish/Billfish_Model_Skeleton.Billfish_Model_Skeleton
 [2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating Material /Game/Characters/Billfish/lambert2.lambert2
+[2020.05.11-17.03.45:691][186]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.11-17.03.46:129][186]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Billfish_Sequence.Billfish_Sequence
+[2020.05.11-17.04.06:048][339]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Barracuda_Sequence)
+[2020.05.11-17.07.12:225][394]Cmd: TRANSACTION UNDO
+[2020.05.11-17.07.12:226][394]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.07.13:592][458]Cmd: TRANSACTION UNDO
+[2020.05.11-17.07.13:592][458]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.07.14:193][494]Cmd: TRANSACTION UNDO
+[2020.05.11-17.07.14:193][494]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.10.42:686][757]Cmd: TRANSACTION UNDO
+[2020.05.11-17.10.42:686][757]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.12.02:058][423]Cmd: TRANSACTION UNDO
+[2020.05.11-17.12.02:058][423]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.12.29:658][938]Cmd: TRANSACTION UNDO
+[2020.05.11-17.12.29:658][938]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.13.50:720][703]Cmd: TRANSACTION UNDO
+[2020.05.11-17.13.50:720][703]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.13.51:706][744]Cmd: TRANSACTION UNDO
+[2020.05.11-17.13.51:706][744]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.19.27:454][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.05.11-17.19.29:381][724]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-17.19.29:622][724]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_Sequence1A92B61B4D03B89F06A9A481D7422FE5.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Billfish_Sequence.uasset'
+[2020.05.11-17.19.29:892][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.05.11-17.19.31:224][724]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableBED3957443DE5FD2F70C1BB03D21532B.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.11-17.19.31:265][724]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.405
+[2020.05.11-17.19.31:297][724]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-17.19.31:297][724]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Billfish_Sequence.Billfish_Sequence
+[2020.05.11-17.19.31:297][724]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
