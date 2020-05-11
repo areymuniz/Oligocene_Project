@@ -1338,3 +1338,651 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.11-16.37.06:656][349]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Tuna/Tuna_SwimFast.Tuna_SwimFast
 [2020.05.11-16.37.06:656][349]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Tuna_Test.Tuna_Test
 [2020.05.11-16.37.06:656][349]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.11-16.58.18:556][379]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Billfish\Export\Billfish_Model.fbx)
+[2020.05.11-16.58.18:569][379]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Billfish\Export\Billfish_Model.fbx
+[2020.05.11-16.58.18:719][379]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.11-16.58.31:831][379]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.11-16.58.31:959][379]LogFbx: Valid bind pose for Pose (skinCluster1) - rig_geo
+[2020.05.11-16.58.32:192][379]LogMaterial: Display: Material /Game/Characters/Billfish/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.11-16.58.32:218][379]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.11-16.58.32:244][379]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.11-16.58.32:252][379]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.11-16.58.32:303][379]LogFbx: Triangulating skeletal mesh rig_geo
+[2020.05.11-16.58.32:736][379]LogFbx: Warning: Bones digested - 88  Depth of hierarchy - 8
+[2020.05.11-16.58.33:193][379]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-16.58.33:194][379]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-16.58.33:198][379]LogSkeletalMesh: Building Skeletal Mesh Billfish_Model...
+[2020.05.11-16.58.33:396][379]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-16.58.33:397][379]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-16.58.33:413][379]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/Characters/Billfish/Billfish_Model.Billfish_Model
+[2020.05.11-16.58.33:415][379]LogLinker: Failed to load '/Game/Characters/Billfish/Billfish_Model_Skeleton': Can't find file.
+[2020.05.11-16.58.33:415][379]LogLinker: Failed to load '/Game/Characters/Billfish/Billfish_Model_Skeleton': Can't find file.
+[2020.05.11-16.58.33:418][379]LogLinker: Failed to load '/Game/Characters/Billfish/Billfish_Model_PhysicsAsset': Can't find file.
+[2020.05.11-16.58.33:418][379]LogLinker: Failed to load '/Game/Characters/Billfish/Billfish_Model_PhysicsAsset': Can't find file.
+[2020.05.11-16.58.33:575][379]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.58.33:575][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:660][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:661][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.58.33:662][379]FBXImport: Warning: The following bones are missing from the bind pose:
+CTRL_GRP  
+placer_CTRL_GRP  
+global_ctrl_ref  
+head_CTRL_GRP  
+head_1_ctrl_ref  
+head_1_ctrl_auto  
+spine_CTRL_GRP  
+spine_1_ctrl_ref  
+spine_1_ctrl_auto  
+Lf_front_m_fin_CTRL_GRP  
+Lf_front_m_fin_1_ctrl_ref  
+Lf_front_m_fin_1_ctrl_auto  
+Rt_front_m_fin_CTRL_GRP  
+Rt_front_m_fin_1_ctrl_ref  
+Rt_front_m_fin_1_ctrl_auto  
+Lf_front_b_fin_CTRL_GRP  
+Lf_front_b_fin_1_ctrl_ref  
+Lf_front_b_fin_1_ctrl_auto  
+Rt_front_b_fin_CTRL_GRP  
+Rt_front_b_fin_1_ctrl_ref  
+Rt_front_b_fin_1_ctrl_auto  
+top_fin_CTRL_GRP  
+top_fin_1_ctrl_ref  
+top_fin_1_ctrl_auto  
+bottom_fin_CTRL_GRP  
+bottom_fin_1_ctrl_ref  
+bottom_fin_1_ctrl_auto  
+top_tail_CTRL_GRP  
+top_tail_1_ctrl_ref  
+top_tail_1_ctrl_auto  
+bottom_tail_CTRL_GRP  
+bottom_tail_1_ctrl_ref  
+bottom_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.11-16.58.52:905][ 94]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.11-16.58.55:468][209]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.05.11-16.59.03:648][607]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2020.05.11-16.59.04:278][641]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.05.11-16.59.04:426][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2020.05.11-16.59.04:652][661]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.05.11-16.59.12:062][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.05.11-16.59.13:907][ 97]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Billfish\Export\Billfish_SwimFwd_Fast.fbx)
+[2020.05.11-16.59.13:936][ 97]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Billfish\Export\Billfish_SwimFwd_Fast.fbx
+[2020.05.11-16.59.14:190][ 97]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.11-16.59.14:839][ 97]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.11-16.59.15:063][ 97]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.05.11-16.59.20:428][ 97]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.11-16.59.22:368][ 97]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.05.11-16.59.22:475][ 97]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.05.11-16.59.22:849][ 97]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.11-16.59.23:310][ 97]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.11-16.59.23:794][ 97]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.05.11-16.59.26:557][ 97]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.11-16.59.27:833][ 97]LogFbx: Valid bind pose for Pose (billfish_xuanpang_0430_0_8:skinCluster1) - billfish_xuanpang_0430_0_8:rig_geo
+[2020.05.11-16.59.27:839][ 97]LogMaterial: Display: Material /Game/Animations/Billfish/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.11-16.59.27:849][ 97]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.11-16.59.27:923][ 97]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.11-16.59.28:032][ 97]LogFbx: Triangulating skeletal mesh billfish_xuanpang_0430_0_8:rig_geo
+[2020.05.11-16.59.28:685][ 97]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.05.11-16.59.28:685][ 97]LogFbx: Warning: Bones digested - 88  Depth of hierarchy - 8
+[2020.05.11-16.59.29:086][ 97]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2020.05.11-16.59.29:155][ 97]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-16.59.29:156][ 97]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-16.59.29:164][ 97]LogSkeletalMesh: Building Skeletal Mesh Billfish_SwimFwd_Fast...
+[2020.05.11-16.59.29:511][ 97]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.05.11-16.59.29:567][ 97]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.05.11-16.59.29:567][ 97]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-16.59.29:568][ 97]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-16.59.29:612][ 97]LogSkeletalMesh: Built Skeletal Mesh [0.45s] /Game/Animations/Billfish/Billfish_SwimFwd_Fast.Billfish_SwimFwd_Fast
+[2020.05.11-16.59.29:616][ 97]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Fast_PhysicsAsset': Can't find file.
+[2020.05.11-16.59.29:617][ 97]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Fast_PhysicsAsset': Can't find file.
+[2020.05.11-16.59.29:657][ 97]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.29:657][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(1) GEO_GRP
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(2) rig_geo
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(3) CTRL_GRP
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(4) placer_CTRL_GRP
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(5) global_ctrl_ref
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(6) head_CTRL_GRP
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(7) head_1_ctrl_ref
+[2020.05.11-16.59.29:731][ 97]LogFbx: SortedLinks :(8) head_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(9) spine_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(10) spine_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(11) spine_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(12) Lf_front_m_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(13) Lf_front_m_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(14) Lf_front_m_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(15) Rt_front_m_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(16) Rt_front_m_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(17) Rt_front_m_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(18) Lf_front_b_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(19) Lf_front_b_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(20) Lf_front_b_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(21) Rt_front_b_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(22) Rt_front_b_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(23) Rt_front_b_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(24) top_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(25) top_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(26) top_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(27) bottom_fin_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(28) bottom_fin_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(29) bottom_fin_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(30) top_tail_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(31) top_tail_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(32) top_tail_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(33) bottom_tail_CTRL_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(34) bottom_tail_1_ctrl_ref
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(35) bottom_tail_1_ctrl_auto
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(36) RIG_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(37) head_RIG_GRP
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(38) head_1_jnt
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(39) head_2_jnt
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(40) jaw_upper_jnt
+[2020.05.11-16.59.29:732][ 97]LogFbx: SortedLinks :(41) jaw_lower_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(42) Lf_gill_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(43) Rt_gill_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(44) spine_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(45) spine_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(46) spine_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(47) spine_3_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(48) spine_4_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(49) spine_5_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(50) Lf_front_m_fin_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(51) Lf_front_m_fin_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(52) Lf_front_m_fin_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(53) Lf_front_m_fin_3_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(54) Lf_front_m_fin_4_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(55) Rt_front_m_fin_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(56) Rt_front_m_fin_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(57) Rt_front_m_fin_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(58) Rt_front_m_fin_3_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(59) Rt_front_m_fin_4_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(60) Lf_front_b_fin_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(61) Lf_front_b_fin_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(62) Lf_front_b_fin_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(63) Lf_front_b_fin_3_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(64) Lf_front_b_fin_4_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(65) Rt_front_b_fin_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(66) Rt_front_b_fin_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(67) Rt_front_b_fin_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(68) Rt_front_b_fin_3_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(69) Rt_front_b_fin_4_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(70) top_fin_RIG_GRP
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(71) top_fin_1_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(72) top_fin_2_jnt
+[2020.05.11-16.59.29:733][ 97]LogFbx: SortedLinks :(73) top_fin_3_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(74) bottom_fin_RIG_GRP
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(75) bottom_fin_1_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(76) bottom_fin_2_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(77) bottom_fin_3_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(78) top_tail_RIG_GRP
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(79) top_tail_1_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(80) top_tail_2_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(81) top_tail_3_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(82) top_tail_4_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(83) bottom_tail_RIG_GRP
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(84) bottom_tail_1_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(85) bottom_tail_2_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(86) bottom_tail_3_jnt
+[2020.05.11-16.59.29:734][ 97]LogFbx: SortedLinks :(87) bottom_tail_4_jnt
+[2020.05.11-16.59.29:739][ 97]LogFbx: Parsing AnimStack Billfish_SwimFwd_Fast
+[2020.05.11-16.59.29:742][ 97]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim': Can't find file.
+[2020.05.11-16.59.29:742][ 97]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim': Can't find file.
+[2020.05.11-16.59.29:916][ 97]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.05.11-16.59.29:932][ 97]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.05.11-16.59.30:069][ 97]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim.Billfish_SwimFwd_Fast_Anim
+[2020.05.11-16.59.30:069][ 97]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim.Billfish_SwimFwd_Fast_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:157][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:158][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:159][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:160][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:161][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:162][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:162][ 97]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-16.59.30:162][ 97]FBXImport: Warning: The following bones are missing from the bind pose:
+billfish_xuanpang_0430_0_8:CTRL_GRP  
+billfish_xuanpang_0430_0_8:placer_CTRL_GRP  
+billfish_xuanpang_0430_0_8:global_ctrl_ref  
+billfish_xuanpang_0430_0_8:head_CTRL_GRP  
+billfish_xuanpang_0430_0_8:head_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:head_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:spine_CTRL_GRP  
+billfish_xuanpang_0430_0_8:spine_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:spine_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:top_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:top_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:top_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:bottom_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:bottom_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:bottom_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:top_tail_CTRL_GRP  
+billfish_xuanpang_0430_0_8:top_tail_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:top_tail_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:bottom_tail_CTRL_GRP  
+billfish_xuanpang_0430_0_8:bottom_tail_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:bottom_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.11-16.59.30:824][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.05.11-16.59.32:274][176]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.05.11-16.59.44:022][689]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim.Billfish_SwimFwd_Fast_Anim
+[2020.05.11-16.59.44:035][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.11-16.59.44:122][689]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.11-16.59.44:608][689]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.11-16.59.52:376][973]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.05.11-16.59.52:594][982]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.11-16.59.53:039][998]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2020.05.11-16.59.53:886][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.05.11-16.59.54:614][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.05.11-16.59.55:188][ 82]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.05.11-16.59.55:223][ 82]LogSlate: Window 'Billfish_SwimFwd_Fast_Anim' being destroyed
+[2020.05.11-16.59.55:234][ 82]LogSlate: Window 'Billfish_SwimFwd_Fast_Anim' being destroyed
+[2020.05.11-16.59.55:327][ 82]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:327][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.55:660][ 82]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:660][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.55:712][ 82]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:712][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.55:815][ 82]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.05.11-16.59.55:815][ 82]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:815][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.55:933][ 82]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:933][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-16.59.55:949][ 82]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-16.59.55:950][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-17.00.04:072][487]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.05.11-17.00.04:175][493]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.05.11-17.00.12:192][708]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Billfish\Export\Billfish_SwimFwd_Slow.fbx)
+[2020.05.11-17.00.12:206][708]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Billfish\Export\Billfish_SwimFwd_Slow.fbx
+[2020.05.11-17.00.12:308][708]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.11-17.00.29:368][708]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.11-17.00.29:436][708]LogFbx: Valid bind pose for Pose (billfish_xuanpang_0430_0_8:skinCluster1) - billfish_xuanpang_0430_0_8:rig_geo
+[2020.05.11-17.00.29:447][708]LogFbx: Triangulating skeletal mesh billfish_xuanpang_0430_0_8:rig_geo
+[2020.05.11-17.00.29:840][708]LogFbx: Warning: Bones digested - 88  Depth of hierarchy - 8
+[2020.05.11-17.00.30:063][708]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-17.00.30:063][708]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-17.00.30:068][708]LogSkeletalMesh: Building Skeletal Mesh Billfish_SwimFwd_Slow...
+[2020.05.11-17.00.30:253][708]LogSkeletalMesh: Section 0: 5075 vertices, 41 active bones
+[2020.05.11-17.00.30:254][708]LogSkeletalMesh: Section 0: Material=0, 9124 triangles
+[2020.05.11-17.00.30:268][708]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Animations/Billfish/Billfish_SwimFwd_Slow.Billfish_SwimFwd_Slow
+[2020.05.11-17.00.30:269][708]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Slow_PhysicsAsset': Can't find file.
+[2020.05.11-17.00.30:269][708]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Slow_PhysicsAsset': Can't find file.
+[2020.05.11-17.00.30:276][708]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-17.00.30:276][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(1) GEO_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(2) rig_geo
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(3) CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(4) placer_CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(5) global_ctrl_ref
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(6) head_CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(7) head_1_ctrl_ref
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(8) head_1_ctrl_auto
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(9) spine_CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(10) spine_1_ctrl_ref
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(11) spine_1_ctrl_auto
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(12) Lf_front_m_fin_CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(13) Lf_front_m_fin_1_ctrl_ref
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(14) Lf_front_m_fin_1_ctrl_auto
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(15) Rt_front_m_fin_CTRL_GRP
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(16) Rt_front_m_fin_1_ctrl_ref
+[2020.05.11-17.00.30:302][708]LogFbx: SortedLinks :(17) Rt_front_m_fin_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(18) Lf_front_b_fin_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(19) Lf_front_b_fin_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(20) Lf_front_b_fin_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(21) Rt_front_b_fin_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(22) Rt_front_b_fin_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(23) Rt_front_b_fin_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(24) top_fin_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(25) top_fin_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(26) top_fin_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(27) bottom_fin_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(28) bottom_fin_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(29) bottom_fin_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(30) top_tail_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(31) top_tail_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(32) top_tail_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(33) bottom_tail_CTRL_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(34) bottom_tail_1_ctrl_ref
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(35) bottom_tail_1_ctrl_auto
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(36) RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(37) head_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(38) head_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(39) head_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(40) jaw_upper_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(41) jaw_lower_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(42) Lf_gill_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(43) Rt_gill_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(44) spine_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(45) spine_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(46) spine_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(47) spine_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(48) spine_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(49) spine_5_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(50) Lf_front_m_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(51) Lf_front_m_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(52) Lf_front_m_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(53) Lf_front_m_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(54) Lf_front_m_fin_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(55) Rt_front_m_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(56) Rt_front_m_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(57) Rt_front_m_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(58) Rt_front_m_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(59) Rt_front_m_fin_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(60) Lf_front_b_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(61) Lf_front_b_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(62) Lf_front_b_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(63) Lf_front_b_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(64) Lf_front_b_fin_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(65) Rt_front_b_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(66) Rt_front_b_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(67) Rt_front_b_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(68) Rt_front_b_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(69) Rt_front_b_fin_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(70) top_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(71) top_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(72) top_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(73) top_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(74) bottom_fin_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(75) bottom_fin_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(76) bottom_fin_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(77) bottom_fin_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(78) top_tail_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(79) top_tail_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(80) top_tail_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(81) top_tail_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(82) top_tail_4_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(83) bottom_tail_RIG_GRP
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(84) bottom_tail_1_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(85) bottom_tail_2_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(86) bottom_tail_3_jnt
+[2020.05.11-17.00.30:303][708]LogFbx: SortedLinks :(87) bottom_tail_4_jnt
+[2020.05.11-17.00.30:306][708]LogFbx: Parsing AnimStack Billfish_SwimFwd_Slow
+[2020.05.11-17.00.30:307][708]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Slow_Anim': Can't find file.
+[2020.05.11-17.00.30:307][708]LogLinker: Failed to load '/Game/Animations/Billfish/Billfish_SwimFwd_Slow_Anim': Can't find file.
+[2020.05.11-17.00.30:745][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Slow_Anim.Billfish_SwimFwd_Slow_Anim
+[2020.05.11-17.00.30:745][708]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Slow_Anim.Billfish_SwimFwd_Slow_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:776][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:777][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.11-17.00.30:778][708]FBXImport: Warning: The following bones are missing from the bind pose:
+billfish_xuanpang_0430_0_8:CTRL_GRP  
+billfish_xuanpang_0430_0_8:placer_CTRL_GRP  
+billfish_xuanpang_0430_0_8:global_ctrl_ref  
+billfish_xuanpang_0430_0_8:head_CTRL_GRP  
+billfish_xuanpang_0430_0_8:head_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:head_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:spine_CTRL_GRP  
+billfish_xuanpang_0430_0_8:spine_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:spine_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Lf_front_m_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Rt_front_m_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Lf_front_b_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:Rt_front_b_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:top_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:top_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:top_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:bottom_fin_CTRL_GRP  
+billfish_xuanpang_0430_0_8:bottom_fin_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:bottom_fin_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:top_tail_CTRL_GRP  
+billfish_xuanpang_0430_0_8:top_tail_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:top_tail_1_ctrl_auto  
+billfish_xuanpang_0430_0_8:bottom_tail_CTRL_GRP  
+billfish_xuanpang_0430_0_8:bottom_tail_1_ctrl_ref  
+billfish_xuanpang_0430_0_8:bottom_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.11-17.00.41:474][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.11-17.00.47:303][323]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-17.00.47:597][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_FastE78E8DC9465910E43BEDFCB395BAE8E4.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Fast.uasset'
+[2020.05.11-17.00.47:952][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_Fast_Anim18B08D8B44803DC86294E880E0CCE757.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Fast_Anim.uasset'
+[2020.05.11-17.00.48:264][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_Fast_PhysicsAss01392E3E47C61A2C97E068BED6CDC5DB.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Fast_PhysicsAsset.uasset'
+[2020.05.11-17.00.48:573][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_Slow133D788A4AE17D71579B7FA8AA01E36E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Slow.uasset'
+[2020.05.11-17.00.48:938][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_Slow_Anim4C20DD8E47EEF72A3F2A8CB33A8CB0AF.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Slow_Anim.uasset'
+[2020.05.11-17.00.49:243][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_SwimFwd_Slow_PhysicsAss260A0B904A1D87894692DBA0046AF94E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/Billfish_SwimFwd_Slow_PhysicsAsset.uasset'
+[2020.05.11-17.00.49:534][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert2D0FBD365436B9743D8A33BBCC54E191A.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Billfish/lambert2.uasset'
+[2020.05.11-17.00.49:852][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_Model5177DD28470200E286D4459E008ED882.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Billfish/Billfish_Model.uasset'
+[2020.05.11-17.00.50:224][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_Model_PhysicsAsset6E2FC0484B37D684FB0EE590FD9F0E18.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Billfish/Billfish_Model_PhysicsAsset.uasset'
+[2020.05.11-17.00.50:506][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Billfish_Model_Skeleton3A75CB7C4BF8D72D117FE192DFF2DA16.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Billfish/Billfish_Model_Skeleton.uasset'
+[2020.05.11-17.00.50:789][323]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert2B944657542D842FD520AB39E7AFB39A7.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Billfish/lambert2.uasset'
+[2020.05.11-17.00.51:088][323]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Billfish/Billfish_SwimFwd_Fast.Billfish_SwimFwd_Fast
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Fast_Anim.Billfish_SwimFwd_Fast_Anim
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Billfish/Billfish_SwimFwd_Fast_PhysicsAsset.Billfish_SwimFwd_Fast_PhysicsAsset
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Billfish/Billfish_SwimFwd_Slow.Billfish_SwimFwd_Slow
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Billfish/Billfish_SwimFwd_Slow_Anim.Billfish_SwimFwd_Slow_Anim
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Billfish/Billfish_SwimFwd_Slow_PhysicsAsset.Billfish_SwimFwd_Slow_PhysicsAsset
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating Material /Game/Animations/Billfish/lambert2.lambert2
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Billfish/Billfish_Model.Billfish_Model
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/Billfish/Billfish_Model_PhysicsAsset.Billfish_Model_PhysicsAsset
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating Skeleton /Game/Characters/Billfish/Billfish_Model_Skeleton.Billfish_Model_Skeleton
+[2020.05.11-17.00.51:089][323]LogContentValidation: Display: Validating Material /Game/Characters/Billfish/lambert2.lambert2
