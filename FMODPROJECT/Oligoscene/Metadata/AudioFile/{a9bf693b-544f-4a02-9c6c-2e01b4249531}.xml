@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{a9bf693b-544f-4a02-9c6c-2e01b4249531}">
 		<property name="assetPath">
-			<value>Sci-Fi Machine Bed MONO.L.wav</value>
+			<value>AmbienceBeds/Sci-Fi Machine Bed MONO.L.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
