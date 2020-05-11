@@ -2014,3 +2014,470 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.11-17.19.31:297][724]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.11-17.19.31:297][724]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Billfish_Sequence.Billfish_Sequence
 [2020.05.11-17.19.31:297][724]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.11-17.50.32:175][861]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Antonio\Downloads\Genus_Y_WIP.obj)
+[2020.05.11-17.50.32:301][861]LogFbx: Loading FBX Scene from C:\Users\Antonio\Downloads\Genus_Y_WIP.obj
+[2020.05.11-17.50.32:550][861]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.11-17.50.41:062][861]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.11-17.50.41:302][861]LogMaterial: Display: Missing cached shader map for material GENUS_Y_GRP_bodyMat, compiling. 
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.11-17.50.41:331][861]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.11-17.50.41:331][861]LogFbx: Display: Triangulating static mesh GENUS_Y_GRP_body
+[2020.05.11-17.50.42:256][861]LogStaticMesh: Building static mesh Genus_Y_WIP_GENUS_Y_GRP_body...
+[2020.05.11-17.50.42:436][861]LogStaticMesh: Built static mesh [0.18s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_GENUS_Y_GRP_body.Genus_Y_WIP_GENUS_Y_GRP_body
+[2020.05.11-17.50.42:832][861]LogMaterial: Display: Missing cached shader map for material GENUS_Y_GRP_L_EYE_L_EYE_GRPMat, compiling. 
+[2020.05.11-17.50.42:853][861]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.11-17.50.42:853][861]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.05.11-17.50.42:907][861]LogFbx: Display: Triangulating static mesh GENUS_Y_GRP_L_EYE_L_EYE_GRP
+[2020.05.11-17.50.43:044][861]LogStaticMesh: Building static mesh Genus_Y_WIP_GENUS_Y_GRP_L_EYE_L_EYE_GRP...
+[2020.05.11-17.50.43:074][861]LogStaticMesh: Built static mesh [0.03s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_GENUS_Y_GRP_L_EYE_L_EYE_GRP.Genus_Y_WIP_GENUS_Y_GRP_L_EYE_L_EYE_GRP
+[2020.05.11-17.50.43:105][861]LogMaterial: Display: Missing cached shader map for material GENUS_Y_GRP_R_EYE_R_EYE_GRPMat, compiling. 
+[2020.05.11-17.50.43:156][861]LogFbx: Display: Triangulating static mesh GENUS_Y_GRP_R_EYE_R_EYE_GRP
+[2020.05.11-17.50.43:319][861]LogStaticMesh: Building static mesh Genus_Y_WIP_GENUS_Y_GRP_R_EYE_R_EYE_GRP...
+[2020.05.11-17.50.43:335][861]LogStaticMesh: Built static mesh [0.02s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_GENUS_Y_GRP_R_EYE_R_EYE_GRP.Genus_Y_WIP_GENUS_Y_GRP_R_EYE_R_EYE_GRP
+[2020.05.11-17.50.43:391][861]LogMaterial: Display: Missing cached shader map for material Group32_TEETH_GENUS_Y_GRPMat, compiling. 
+[2020.05.11-17.50.43:467][861]LogFbx: Display: Triangulating static mesh teef2:Group32_TEETH_GENUS_Y_GRP
+[2020.05.11-17.50.43:673][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group32_TEETH_GENUS_Y_GRP...
+[2020.05.11-17.50.43:685][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group32_TEETH_GENUS_Y_GRP.Genus_Y_WIP_Group32_TEETH_GENUS_Y_GRP
+[2020.05.11-17.50.43:737][861]LogMaterial: Display: Missing cached shader map for material Group10Mat, compiling. 
+[2020.05.11-17.50.43:822][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group10
+[2020.05.11-17.50.43:959][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group10...
+[2020.05.11-17.50.43:971][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group10.Genus_Y_WIP_Group10
+[2020.05.11-17.50.44:028][861]LogMaterial: Display: Missing cached shader map for material Group11Mat, compiling. 
+[2020.05.11-17.50.44:136][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group11
+[2020.05.11-17.50.44:290][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group11...
+[2020.05.11-17.50.44:302][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group11.Genus_Y_WIP_Group11
+[2020.05.11-17.50.44:346][861]LogMaterial: Display: Missing cached shader map for material Group12Mat, compiling. 
+[2020.05.11-17.50.44:450][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group12
+[2020.05.11-17.50.44:589][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group12...
+[2020.05.11-17.50.44:622][861]LogStaticMesh: Built static mesh [0.03s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group12.Genus_Y_WIP_Group12
+[2020.05.11-17.50.44:648][861]LogMaterial: Display: Missing cached shader map for material Group13Mat, compiling. 
+[2020.05.11-17.50.44:741][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group13
+[2020.05.11-17.50.44:888][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group13...
+[2020.05.11-17.50.44:899][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group13.Genus_Y_WIP_Group13
+[2020.05.11-17.50.44:930][861]LogMaterial: Display: Missing cached shader map for material Group14Mat, compiling. 
+[2020.05.11-17.50.45:027][861]LogMeshUtilities: Finished distance field build in 2.5s - 43x42x64 distance field, 12000 triangles, Range [-0.1, 0.6], Genus_Y_WIP_GENUS_Y_GRP_body
+[2020.05.11-17.50.45:027][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group14
+[2020.05.11-17.50.45:118][861]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 116
+[2020.05.11-17.50.45:178][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group14...
+[2020.05.11-17.50.45:189][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group14.Genus_Y_WIP_Group14
+[2020.05.11-17.50.45:233][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group14 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.45:234][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group14
+[2020.05.11-17.50.45:234][861]LogMaterial: Display: Missing cached shader map for material Group15Mat, compiling. 
+[2020.05.11-17.50.45:288][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group15
+[2020.05.11-17.50.45:471][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group15...
+[2020.05.11-17.50.45:480][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group15.Genus_Y_WIP_Group15
+[2020.05.11-17.50.45:527][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group15 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.45:527][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group15
+[2020.05.11-17.50.45:527][861]LogMaterial: Display: Missing cached shader map for material Group16Mat, compiling. 
+[2020.05.11-17.50.45:591][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group16
+[2020.05.11-17.50.45:784][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group16...
+[2020.05.11-17.50.45:793][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group16.Genus_Y_WIP_Group16
+[2020.05.11-17.50.45:827][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group16 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.45:827][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group16
+[2020.05.11-17.50.45:827][861]LogMaterial: Display: Missing cached shader map for material Group17Mat, compiling. 
+[2020.05.11-17.50.45:883][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group17
+[2020.05.11-17.50.46:058][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group17...
+[2020.05.11-17.50.46:067][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group17.Genus_Y_WIP_Group17
+[2020.05.11-17.50.46:105][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group17 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.46:105][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group17
+[2020.05.11-17.50.46:105][861]LogMaterial: Display: Missing cached shader map for material Group18Mat, compiling. 
+[2020.05.11-17.50.46:168][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group18
+[2020.05.11-17.50.46:381][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group18...
+[2020.05.11-17.50.46:390][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group18.Genus_Y_WIP_Group18
+[2020.05.11-17.50.46:435][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group18 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.46:436][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group18
+[2020.05.11-17.50.46:443][861]LogMaterial: Display: Missing cached shader map for material Group19Mat, compiling. 
+[2020.05.11-17.50.46:499][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group19
+[2020.05.11-17.50.46:667][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group19...
+[2020.05.11-17.50.46:677][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group19.Genus_Y_WIP_Group19
+[2020.05.11-17.50.46:726][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group19 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.46:726][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group19
+[2020.05.11-17.50.46:726][861]LogMaterial: Display: Missing cached shader map for material Group2Mat, compiling. 
+[2020.05.11-17.50.46:791][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group2
+[2020.05.11-17.50.46:945][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group2...
+[2020.05.11-17.50.46:956][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group2.Genus_Y_WIP_Group2
+[2020.05.11-17.50.46:989][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group2 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.46:989][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group2
+[2020.05.11-17.50.47:012][861]LogMaterial: Display: Missing cached shader map for material Group20Mat, compiling. 
+[2020.05.11-17.50.47:081][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group20
+[2020.05.11-17.50.47:255][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group20...
+[2020.05.11-17.50.47:266][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group20.Genus_Y_WIP_Group20
+[2020.05.11-17.50.47:305][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group20 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.47:305][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group20
+[2020.05.11-17.50.47:305][861]LogMaterial: Display: Missing cached shader map for material Group21Mat, compiling. 
+[2020.05.11-17.50.47:372][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group21
+[2020.05.11-17.50.47:545][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group21...
+[2020.05.11-17.50.47:553][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group21.Genus_Y_WIP_Group21
+[2020.05.11-17.50.47:587][861]LogMaterial: Display: Missing cached shader map for material Group22Mat, compiling. 
+[2020.05.11-17.50.47:604][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group21 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.47:605][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group21
+[2020.05.11-17.50.47:641][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group22
+[2020.05.11-17.50.47:796][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group22...
+[2020.05.11-17.50.47:805][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group22.Genus_Y_WIP_Group22
+[2020.05.11-17.50.47:842][861]LogMaterial: Display: Missing cached shader map for material Group24Mat, compiling. 
+[2020.05.11-17.50.47:863][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group22 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.47:863][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group22
+[2020.05.11-17.50.47:899][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group24
+[2020.05.11-17.50.48:079][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group24...
+[2020.05.11-17.50.48:088][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group24.Genus_Y_WIP_Group24
+[2020.05.11-17.50.48:134][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group24 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.48:134][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group24
+[2020.05.11-17.50.48:134][861]LogMaterial: Display: Missing cached shader map for material Group25Mat, compiling. 
+[2020.05.11-17.50.48:186][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group25
+[2020.05.11-17.50.48:336][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group25...
+[2020.05.11-17.50.48:345][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group25.Genus_Y_WIP_Group25
+[2020.05.11-17.50.48:383][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group25 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.48:383][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group25
+[2020.05.11-17.50.48:383][861]LogMaterial: Display: Missing cached shader map for material Group26Mat, compiling. 
+[2020.05.11-17.50.48:441][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group26
+[2020.05.11-17.50.48:593][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group26...
+[2020.05.11-17.50.48:601][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group26.Genus_Y_WIP_Group26
+[2020.05.11-17.50.48:648][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group26 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.48:648][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group26
+[2020.05.11-17.50.48:648][861]LogMaterial: Display: Missing cached shader map for material Group27Mat, compiling. 
+[2020.05.11-17.50.48:699][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group27
+[2020.05.11-17.50.48:857][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group27...
+[2020.05.11-17.50.48:865][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group27.Genus_Y_WIP_Group27
+[2020.05.11-17.50.48:903][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_G
+[2020.05.11-17.50.48:903][861]LogMaterial: Display: Missing cached shader map for material Group28Mat, compiling. 
+[2020.05.11-17.50.48:921][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group27
+[2020.05.11-17.50.48:965][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group28
+[2020.05.11-17.50.49:131][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group28...
+[2020.05.11-17.50.49:139][861]LogStaticMesh: Built static mesh [0.02s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group28.Genus_Y_WIP_Group28
+[2020.05.11-17.50.49:189][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group28 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.49:189][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group28
+[2020.05.11-17.50.49:189][861]LogMaterial: Display: Missing cached shader map for material Group29Mat, compiling. 
+[2020.05.11-17.50.49:248][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group29
+[2020.05.11-17.50.49:335][861]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 331
+[2020.05.11-17.50.49:416][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group29...
+[2020.05.11-17.50.49:425][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group29.Genus_Y_WIP_Group29
+[2020.05.11-17.50.49:468][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group29 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.49:468][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group29
+[2020.05.11-17.50.49:468][861]LogMaterial: Display: Missing cached shader map for material Group3Mat, compiling. 
+[2020.05.11-17.50.49:532][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group3
+[2020.05.11-17.50.49:733][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group3...
+[2020.05.11-17.50.49:746][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group3.Genus_Y_WIP_Group3
+[2020.05.11-17.50.49:794][861]LogMaterial: Display: Missing cached shader map for material Group30Mat, compiling. 
+[2020.05.11-17.50.49:819][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group3 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.49:819][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.8], Genus_Y_WIP_Group3
+[2020.05.11-17.50.49:867][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group30
+[2020.05.11-17.50.50:062][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group30...
+[2020.05.11-17.50.50:073][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group30.Genus_Y_WIP_Group30
+[2020.05.11-17.50.50:114][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group30 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.50:114][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group30
+[2020.05.11-17.50.50:134][861]LogMaterial: Display: Missing cached shader map for material Group31Mat, compiling. 
+[2020.05.11-17.50.50:217][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group31
+[2020.05.11-17.50.50:401][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group31...
+[2020.05.11-17.50.50:412][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group31.Genus_Y_WIP_Group31
+[2020.05.11-17.50.50:453][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group31 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.50:453][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group31
+[2020.05.11-17.50.50:453][861]LogMaterial: Display: Missing cached shader map for material Group36Mat, compiling. 
+[2020.05.11-17.50.50:534][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group36
+[2020.05.11-17.50.50:728][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 381
+[2020.05.11-17.50.50:741][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group36...
+[2020.05.11-17.50.50:752][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group36.Genus_Y_WIP_Group36
+[2020.05.11-17.50.50:800][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group36 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.50:800][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group36
+[2020.05.11-17.50.50:823][861]LogMaterial: Display: Missing cached shader map for material Group37Mat, compiling. 
+[2020.05.11-17.50.50:902][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group37
+[2020.05.11-17.50.50:932][861]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 386
+[2020.05.11-17.50.51:097][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group37...
+[2020.05.11-17.50.51:106][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group37.Genus_Y_WIP_Group37
+[2020.05.11-17.50.51:144][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group37 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.51:144][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group37
+[2020.05.11-17.50.51:226][861]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 376
+[2020.05.11-17.50.51:227][861]LogMaterial: Display: Missing cached shader map for material Group38Mat, compiling. 
+[2020.05.11-17.50.51:305][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group38
+[2020.05.11-17.50.51:516][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group38...
+[2020.05.11-17.50.51:531][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group38.Genus_Y_WIP_Group38
+[2020.05.11-17.50.51:571][861]LogMaterial: Display: Missing cached shader map for material Group39Mat, compiling. 
+[2020.05.11-17.50.51:603][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group38 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.51:603][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group38
+[2020.05.11-17.50.51:648][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group39
+[2020.05.11-17.50.51:853][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group39...
+[2020.05.11-17.50.51:864][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group39.Genus_Y_WIP_Group39
+[2020.05.11-17.50.51:916][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group39 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.51:916][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group39
+[2020.05.11-17.50.51:916][861]LogMaterial: Display: Missing cached shader map for material Group4Mat, compiling. 
+[2020.05.11-17.50.51:994][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group4
+[2020.05.11-17.50.52:202][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group4...
+[2020.05.11-17.50.52:214][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group4.Genus_Y_WIP_Group4
+[2020.05.11-17.50.52:256][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group4 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.52:256][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group4
+[2020.05.11-17.50.52:256][861]LogMaterial: Display: Missing cached shader map for material Group40Mat, compiling. 
+[2020.05.11-17.50.52:322][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group40
+[2020.05.11-17.50.52:529][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group40...
+[2020.05.11-17.50.52:540][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group40.Genus_Y_WIP_Group40
+[2020.05.11-17.50.52:582][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group40 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.52:582][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group40
+[2020.05.11-17.50.52:582][861]LogMaterial: Display: Missing cached shader map for material Group41Mat, compiling. 
+[2020.05.11-17.50.52:652][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group41
+[2020.05.11-17.50.52:856][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group41...
+[2020.05.11-17.50.52:869][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group41.Genus_Y_WIP_Group41
+[2020.05.11-17.50.52:912][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group41 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.52:912][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group41
+[2020.05.11-17.50.52:920][861]LogMaterial: Display: Missing cached shader map for material Group42Mat, compiling. 
+[2020.05.11-17.50.52:983][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group42
+[2020.05.11-17.50.53:193][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group42...
+[2020.05.11-17.50.53:206][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group42.Genus_Y_WIP_Group42
+[2020.05.11-17.50.53:257][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group42 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.53:257][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group42
+[2020.05.11-17.50.53:257][861]LogMaterial: Display: Missing cached shader map for material Group43Mat, compiling. 
+[2020.05.11-17.50.53:330][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group43
+[2020.05.11-17.50.53:534][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group43...
+[2020.05.11-17.50.53:545][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group43.Genus_Y_WIP_Group43
+[2020.05.11-17.50.53:600][861]LogMaterial: Display: Missing cached shader map for material Group44Mat, compiling. 
+[2020.05.11-17.50.53:639][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group43 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.53:639][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group43
+[2020.05.11-17.50.53:682][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group44
+[2020.05.11-17.50.53:876][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group44...
+[2020.05.11-17.50.53:888][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group44.Genus_Y_WIP_Group44
+[2020.05.11-17.50.53:931][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group44 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.53:931][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group44
+[2020.05.11-17.50.53:945][861]LogMaterial: Display: Missing cached shader map for material Group45Mat, compiling. 
+[2020.05.11-17.50.54:009][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group45
+[2020.05.11-17.50.54:203][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group45...
+[2020.05.11-17.50.54:215][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group45.Genus_Y_WIP_Group45
+[2020.05.11-17.50.54:250][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group45 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.54:250][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group45
+[2020.05.11-17.50.54:262][861]LogMaterial: Display: Missing cached shader map for material Group46Mat, compiling. 
+[2020.05.11-17.50.54:322][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group46
+[2020.05.11-17.50.54:524][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group46...
+[2020.05.11-17.50.54:534][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group46.Genus_Y_WIP_Group46
+[2020.05.11-17.50.54:570][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group46 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.54:570][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.7], Genus_Y_WIP_Group46
+[2020.05.11-17.50.54:581][861]LogMaterial: Display: Missing cached shader map for material Group47Mat, compiling. 
+[2020.05.11-17.50.54:644][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group47
+[2020.05.11-17.50.54:828][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group47...
+[2020.05.11-17.50.54:838][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group47.Genus_Y_WIP_Group47
+[2020.05.11-17.50.54:871][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group47 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.54:871][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group47
+[2020.05.11-17.50.54:881][861]LogMaterial: Display: Missing cached shader map for material Group48Mat, compiling. 
+[2020.05.11-17.50.54:945][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group48
+[2020.05.11-17.50.55:124][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group48...
+[2020.05.11-17.50.55:134][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group48.Genus_Y_WIP_Group48
+[2020.05.11-17.50.55:175][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group48 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.55:175][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group48
+[2020.05.11-17.50.55:175][861]LogMaterial: Display: Missing cached shader map for material Group49Mat, compiling. 
+[2020.05.11-17.50.55:245][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group49
+[2020.05.11-17.50.55:437][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group49...
+[2020.05.11-17.50.55:447][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group49.Genus_Y_WIP_Group49
+[2020.05.11-17.50.55:497][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group49 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.55:497][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group49
+[2020.05.11-17.50.55:497][861]LogMaterial: Display: Missing cached shader map for material Group5Mat, compiling. 
+[2020.05.11-17.50.55:565][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group5
+[2020.05.11-17.50.55:743][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group5...
+[2020.05.11-17.50.55:754][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group5.Genus_Y_WIP_Group5
+[2020.05.11-17.50.55:797][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group5 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.55:797][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group5
+[2020.05.11-17.50.55:806][861]LogMaterial: Display: Missing cached shader map for material Group6Mat, compiling. 
+[2020.05.11-17.50.55:875][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group6
+[2020.05.11-17.50.56:123][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group6...
+[2020.05.11-17.50.56:136][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group6.Genus_Y_WIP_Group6
+[2020.05.11-17.50.56:176][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group6 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.56:177][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group6
+[2020.05.11-17.50.56:187][861]LogMaterial: Display: Missing cached shader map for material Group7Mat, compiling. 
+[2020.05.11-17.50.56:262][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group7
+[2020.05.11-17.50.56:475][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group7...
+[2020.05.11-17.50.56:488][861]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 606
+[2020.05.11-17.50.56:488][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group7.Genus_Y_WIP_Group7
+[2020.05.11-17.50.56:522][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group7 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.56:523][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group7
+[2020.05.11-17.50.56:557][861]LogMaterial: Display: Missing cached shader map for material Group8Mat, compiling. 
+[2020.05.11-17.50.56:633][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group8
+[2020.05.11-17.50.56:823][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group8...
+[2020.05.11-17.50.56:834][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group8.Genus_Y_WIP_Group8
+[2020.05.11-17.50.56:882][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group8 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.56:882][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group8
+[2020.05.11-17.50.56:882][861]LogMaterial: Display: Missing cached shader map for material Group9Mat, compiling. 
+[2020.05.11-17.50.56:944][861]LogFbx: Display: Triangulating static mesh TEETH_GENUS_Y_GRP_teef2:Group9
+[2020.05.11-17.50.57:187][861]LogStaticMesh: Building static mesh Genus_Y_WIP_Group9...
+[2020.05.11-17.50.57:200][861]LogStaticMesh: Built static mesh [0.01s] /Game/Characters/Hero_Dolphin/Genus_Y_WIP_Group9.Genus_Y_WIP_Group9
+[2020.05.11-17.50.57:308][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group9 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:308][861]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group9
+[2020.05.11-17.50.57:378][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group13 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:378][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group13
+[2020.05.11-17.50.57:445][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group12 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:445][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 1.0], Genus_Y_WIP_Group12
+[2020.05.11-17.50.57:513][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group11 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:513][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.8], Genus_Y_WIP_Group11
+[2020.05.11-17.50.57:579][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group10 as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:579][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.3, 0.6], Genus_Y_WIP_Group10
+[2020.05.11-17.50.57:636][861]LogMeshUtilities: Discarded distance field for Genus_Y_WIP_Group32_TEETH_GENUS_Y_GRP as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.11-17.50.57:637][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 208 triangles, Range [-0.4, 1.0], Genus_Y_WIP_Group32_TEETH_GENUS_Y_GRP
+[2020.05.11-17.50.57:705][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 760 triangles, Range [-0.4, 0.9], Genus_Y_WIP_GENUS_Y_GRP_R_EYE_R_EYE_GRP
+[2020.05.11-17.50.57:705][861]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 626
+[2020.05.11-17.50.57:768][861]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 760 triangles, Range [-0.4, 0.9], Genus_Y_WIP_GENUS_Y_GRP_L_EYE_L_EYE_GRP
+[2020.05.11-17.50.57:768][861]LogStaticMesh: Display: Main thread blocked for 0.514s for async distance field build of Genus_Y_WIP_GENUS_Y_GRP_L_EYE_L_EYE_GRP to complete!  This can happen if the mesh is rebuilt excessively.
+[2020.05.11-17.50.59:579][862]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 616
+[2020.05.11-17.51.24:586][792]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2020.05.11-17.51.33:311][792]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 606
+[2020.05.11-17.51.34:422][792]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 596
+[2020.05.11-17.51.34:974][792]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 586
+[2020.05.11-17.51.36:123][792]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 576
+[2020.05.11-17.51.39:346][792]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 566
+[2020.05.11-17.51.42:133][792]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 556
+[2020.05.11-17.51.42:133][792]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 546
+[2020.05.11-17.51.48:404][792]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 536
+[2020.05.11-17.52.10:423][792]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 526
+[2020.05.11-17.52.14:165][792]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 516
+[2020.05.11-17.52.14:732][792]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 506
+[2020.05.11-17.52.19:928][792]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 496
+[2020.05.11-17.52.21:176][792]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 486
+[2020.05.11-17.52.21:195][792]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 476
+[2020.05.11-17.52.25:699][792]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 466
+[2020.05.11-17.52.35:075][792]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 456
+[2020.05.11-17.52.39:521][792]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.11-17.52.41:849][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.05.11-17.52.52:215][268]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 446
+[2020.05.11-17.52.55:748][408]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 436
+[2020.05.11-17.53.03:713][723]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 426
+[2020.05.11-17.53.04:698][762]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 416
+[2020.05.11-17.53.06:180][819]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 406
+[2020.05.11-17.53.10:447][991]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 396
+[2020.05.11-17.53.14:846][167]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 386
+[2020.05.11-17.53.21:138][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 376
+[2020.05.11-17.53.43:002][291]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 366
+[2020.05.11-17.53.48:783][523]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 356
+[2020.05.11-17.53.50:118][575]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 346
+[2020.05.11-17.53.54:279][720]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 336
+[2020.05.11-17.53.58:147][844]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 326
+[2020.05.11-17.54.02:938][ 14]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 316
+[2020.05.11-17.54.10:499][297]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 306
+[2020.05.11-17.54.14:007][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 296
+[2020.05.11-17.54.34:249][346]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 286
+[2020.05.11-17.54.42:765][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 276
+[2020.05.11-17.54.45:311][852]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 266
+[2020.05.11-17.54.51:079][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 256
+[2020.05.11-17.54.53:550][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 246
+[2020.05.11-17.54.57:749][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 236
+[2020.05.11-17.54.59:089][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 226
+[2020.05.11-17.55.10:119][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 216
+[2020.05.11-17.55.17:727][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 206
+[2020.05.11-17.55.23:800][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 196
+[2020.05.11-17.55.31:022][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 186
+[2020.05.11-17.55.32:836][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 176
+[2020.05.11-17.55.34:088][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 166
+[2020.05.11-17.55.36:480][ 59]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.11-17.55.36:811][ 59]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.11-17.55.39:671][154]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 156
+[2020.05.11-17.55.47:235][465]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 146
+[2020.05.11-17.55.52:180][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 136
+[2020.05.11-17.56.10:357][433]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 126
+[2020.05.11-17.56.12:353][480]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 116
+[2020.05.11-17.56.12:414][480]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Billfish_Sequence)
+[2020.05.11-17.56.18:927][692]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 106
+[2020.05.11-17.56.23:876][847]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2020.05.11-17.56.29:175][ 47]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 86
+[2020.05.11-17.56.32:358][187]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 76
+[2020.05.11-17.56.36:695][393]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Barracuda_Sequence)
+[2020.05.11-17.56.43:823][729]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 66
+[2020.05.11-17.56.48:699][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2020.05.11-17.57.01:474][401]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Billfish_Sequence)
+[2020.05.11-17.57.01:843][412]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 49
+[2020.05.11-17.57.12:265][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2020.05.11-17.57.15:730][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2020.05.11-17.57.16:367][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.05.11-17.57.25:496][270]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.05.11-17.57.25:917][286]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2020.05.11-17.57.26:861][320]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.05.11-17.57.32:722][538]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.05.11-17.57.32:852][543]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.05.11-17.57.34:351][601]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.05.11-17.57.42:013][889]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.05.11-17.57.42:682][913]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.05.11-17.57.45:201][  9]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.05.11-17.57.45:775][ 30]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.05.11-17.57.46:072][ 41]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.05.11-17.57.46:137][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.05.11-17.57.46:998][ 74]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.05.11-17.57.48:209][116]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.05.11-17.58.50:266][798]LogActorFactory: Actor Factory created Cube
+[2020.05.11-17.58.51:219][854]LogActorFactory: Actor Factory created Cube
+[2020.05.11-17.59.27:797][ 26]Cmd: TRANSACTION UNDO
+[2020.05.11-17.59.27:797][ 26]LogEditorTransaction: Undo Move Actors
+[2020.05.11-17.59.28:210][ 37]Cmd: TRANSACTION UNDO
+[2020.05.11-17.59.28:210][ 37]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.02.43:748][634]Cmd: TRANSACTION UNDO
+[2020.05.11-18.02.43:748][634]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.05.31:564][646]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.11-18.05.33:304][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (udxkfcefa_LOD0)
+[2020.05.11-18.05.34:326][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.11-18.05.48:368][608]Cmd: TRANSACTION UNDO
+[2020.05.11-18.05.48:368][608]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.05.49:079][634]Cmd: TRANSACTION UNDO
+[2020.05.11-18.05.49:079][634]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.05.49:646][668]Cmd: TRANSACTION UNDO
+[2020.05.11-18.05.49:646][668]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.05.50:280][706]Cmd: TRANSACTION UNDO
+[2020.05.11-18.05.50:280][706]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.06.39:754][603]Cmd: EDIT COPY
+[2020.05.11-18.06.41:154][657]Cmd: EDIT PASTE
+[2020.05.11-18.08.00:248][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.05.11-18.08.44:432][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.05.11-18.12.11:043][522]Cmd: TRANSACTION UNDO
+[2020.05.11-18.12.11:043][522]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.12.16:527][831]Cmd: TRANSACTION UNDO
+[2020.05.11-18.12.16:527][831]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.12.44:722][481]Cmd: EDIT COPY
+[2020.05.11-18.12.48:373][700]Cmd: EDIT PASTE
+[2020.05.11-18.12.57:535][242]Cmd: TRANSACTION UNDO
+[2020.05.11-18.12.57:535][242]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.12.58:434][279]Cmd: TRANSACTION UNDO
+[2020.05.11-18.12.58:434][279]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.12.58:971][311]Cmd: TRANSACTION UNDO
+[2020.05.11-18.12.58:971][311]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.11-18.13.00:306][388]Cmd: TRANSACTION UNDO
+[2020.05.11-18.13.00:306][388]LogEditorTransaction: Undo Paste
+[2020.05.11-18.13.05:169][671]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.11-18.13.07:213][790]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.11-18.15.32:218][ 13]LogActorFactory: Actor Factory created Cube
+[2020.05.11-18.15.34:261][131]LogActorFactory: Actor Factory created Cube
+[2020.05.11-18.16.54:240][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.05.11-18.17.40:544][517]Cmd: TRANSACTION UNDO
+[2020.05.11-18.17.40:544][517]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.20.00:524][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.05.11-18.20.20:239][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.05.11-18.22.44:222][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.05.11-18.22.50:250][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.11-18.23.27:581][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.05.11-18.23.31:225][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.05.11-18.24.53:224][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.11-18.24.54:891][ 65]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-18.24.55:172][ 65]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc1_Sequence11C4DBFB4D58E4770E2B368161B1A816.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc1_Sequence.uasset'
+[2020.05.11-18.24.55:600][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.11-18.24.57:034][ 65]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable0B114D9B4695CE934DC691B382197375.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.11-18.24.57:076][ 65]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.513
+[2020.05.11-18.24.57:099][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-18.24.57:099][ 65]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.11-18.24.57:099][ 65]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.11-18.25.33:149][208]LogActorFactory: Actor Factory created Cube
+[2020.05.11-18.25.33:741][240]LogActorFactory: Actor Factory created Cube
+[2020.05.11-18.26.43:930][725]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.11-18.26.44:136][725]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Tunnel_Sequence.Dolphin_Tunnel_Sequence
+[2020.05.11-18.26.48:436][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.05.11-18.31.26:114][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aquarium_Colors_v01_polySurface34)
+[2020.05.11-18.33.19:173][383]Cmd: TRANSACTION UNDO
+[2020.05.11-18.33.19:173][383]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.33.21:431][501]Cmd: TRANSACTION UNDO
+[2020.05.11-18.33.21:431][501]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.33.23:180][605]Cmd: TRANSACTION UNDO
+[2020.05.11-18.33.23:180][605]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.34.58:866][948]Cmd: TRANSACTION UNDO
+[2020.05.11-18.34.58:866][948]LogEditorTransaction: Undo Move Actors
+[2020.05.11-18.35.53:370][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.05.11-18.40.47:044][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.11-18.40.48:585][889]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-18.40.48:859][889]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Tunnel_SequenceAAEABD1744208CBEC01DE5BFE3F095DB.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Tunnel_Sequence.uasset'
+[2020.05.11-18.40.49:712][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.11-18.40.51:065][889]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableF2FDA15E49FC7DEF3B0606A1C4BE1BCE.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.11-18.40.51:102][889]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.422
+[2020.05.11-18.40.51:141][889]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-18.40.51:141][889]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Tunnel_Sequence.Dolphin_Tunnel_Sequence
+[2020.05.11-18.40.51:141][889]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
