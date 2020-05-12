@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{8350bf14-ba51-4eda-bf6d-8a7b02f973fa}">
+		<property name="name">
+			<value>TeleportStatus</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b285087f-98f0-4e7a-b1e4-31219597dbde}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8c890c0e-9d96-4cc3-bd8a-0db23946b452}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8c890c0e-9d96-4cc3-bd8a-0db23946b452}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Armed</value>
+			<value>Cancel</value>
+			<value>Teleport</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

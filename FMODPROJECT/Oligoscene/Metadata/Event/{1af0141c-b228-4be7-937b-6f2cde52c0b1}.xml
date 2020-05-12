@@ -57,7 +57,7 @@
 			<destination>{1ed314b0-c967-40ac-aec0-42825e38bdf0}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{914c36ce-d49d-4a33-ba25-893e708b2030}</destination>
+			<destination>{d05e6b8b-b457-4df3-ba93-c9f2e903e2f4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{53083c73-f238-48cc-bb44-b81f62420a29}" />
@@ -103,6 +103,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{cdb42b90-f5d9-4820-9cc4-b3ecba37d3f2}">
+		<relationship name="modulators">
+			<destination>{d7063acf-a8a2-47a2-bece-e400ab535f4d}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{ea868cee-120e-4c95-94a8-ad7240590bc8}</destination>
 		</relationship>
@@ -233,11 +236,28 @@
 			<destination>{0d85c164-20cf-49ba-8de5-ed6e8491f2b4}</destination>
 		</relationship>
 	</object>
+	<object class="ADSRModulator" id="{d7063acf-a8a2-47a2-bece-e400ab535f4d}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>506.410309</value>
+		</property>
+		<property name="releaseTime">
+			<value>500</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
+	</object>
 	<object class="MixerBusEffectChain" id="{ea868cee-120e-4c95-94a8-ad7240590bc8}">
 		<relationship name="effects">
-			<destination>{836b173b-714e-47c7-a9fc-4007724db7e6}</destination>
 			<destination>{9e6e4615-e355-4fc2-bf98-29e5a1acb6fb}</destination>
 			<destination>{95344db3-79a4-447e-935e-c9ee2029f623}</destination>
+			<destination>{836b173b-714e-47c7-a9fc-4007724db7e6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{52e61159-3a61-463c-9043-e5d703abf843}" />
@@ -310,7 +330,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f9945679-ad8c-44b3-b1aa-998de5cf2254}" />
-	<object class="MixerBusFader" id="{836b173b-714e-47c7-a9fc-4007724db7e6}" />
 	<object class="MixerSend" id="{9e6e4615-e355-4fc2-bf98-29e5a1acb6fb}">
 		<property name="level">
 			<value>10</value>
@@ -333,6 +352,7 @@
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
 		</relationship>
 	</object>
+	<object class="MixerBusFader" id="{836b173b-714e-47c7-a9fc-4007724db7e6}" />
 	<object class="AutomationPoint" id="{40ffb9e9-ec6b-481c-9e54-928faad29578}">
 		<property name="position">
 			<value>0</value>
@@ -434,6 +454,7 @@
 			<destination>{9d818b2c-ef55-4d31-9f8e-89921f7ea523}</destination>
 			<destination>{56c49345-4f50-4b0e-97b2-0942c56c9ae7}</destination>
 			<destination>{5780ed6b-58a2-4a72-9526-98ec93228d26}</destination>
+			<destination>{fa2159ae-4f6f-4274-9d5c-c397c44ecb0e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{d8960064-4f7d-4c71-82d4-7d1aec87cbc3}" />
@@ -508,6 +529,14 @@
 			<value>-80</value>
 		</property>
 	</object>
+	<object class="AutomationPoint" id="{fa2159ae-4f6f-4274-9d5c-c397c44ecb0e}">
+		<property name="position">
+			<value>3.7848932676518885</value>
+		</property>
+		<property name="value">
+			<value>-24</value>
+		</property>
+	</object>
 	<object class="Plugin" id="{bc8e9d8a-0fcd-4c6c-9b50-ed28ef457341}">
 		<property name="identifier">
 			<value>Oculus Spatializer</value>
@@ -527,7 +556,6 @@
 		<property name="name">
 			<value>3D Attributes</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-2</value>
 		</property>
@@ -544,7 +572,6 @@
 		<property name="name">
 			<value>Overall Gain</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-1</value>
 		</property>

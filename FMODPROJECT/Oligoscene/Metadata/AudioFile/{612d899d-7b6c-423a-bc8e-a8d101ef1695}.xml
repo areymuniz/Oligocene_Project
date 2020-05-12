@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{612d899d-7b6c-423a-bc8e-a8d101ef1695}">
+		<property name="assetPath">
+			<value>PLayer/Teleport/TeleportPowerDown.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.86258333333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
+		</relationship>
+	</object>
+</objects>

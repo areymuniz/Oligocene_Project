@@ -94,6 +94,7 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{62daeef9-e8b2-4e7c-841c-96c8e5cbe860}">
 		<relationship name="effects">
+			<destination>{334c23a9-390a-475f-8395-6bc8104d402a}</destination>
 			<destination>{9877e947-1050-44fc-8db6-90658efdff0d}</destination>
 			<destination>{238897b8-f5da-4afd-8fd4-03ee8b904c1f}</destination>
 		</relationship>
@@ -106,6 +107,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2dd04440-7d6f-4592-ae18-443be7b4c2dc}" />
+	<object class="ProxyEffect" id="{334c23a9-390a-475f-8395-6bc8104d402a}">
+		<property name="inputFormat">
+			<value>0</value>
+		</property>
+		<relationship name="preset">
+			<destination>{c917a544-8c26-4a4f-9147-49a6a4375cb1}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{9877e947-1050-44fc-8db6-90658efdff0d}" />
 	<object class="PluginEffect" id="{238897b8-f5da-4afd-8fd4-03ee8b904c1f}">
 		<relationship name="plugin">
@@ -132,7 +141,6 @@
 		<property name="name">
 			<value>3D Attributes</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-2</value>
 		</property>
@@ -190,7 +198,6 @@
 		<property name="name">
 			<value>Overall Gain</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-1</value>
 		</property>

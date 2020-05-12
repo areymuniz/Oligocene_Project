@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{b4ee3dff-afbe-4d42-b52f-6c202f250507}">
+	<object class="AudioFile" id="{9a6fa99d-ba2b-42ce-b04d-5c89e6a2d0b4}">
 		<property name="assetPath">
-			<value>Chunk1.mp3</value>
+			<value>SFX/portalhighlights2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>8.5920000000000005</value>
+			<value>3.2013958333333332</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
