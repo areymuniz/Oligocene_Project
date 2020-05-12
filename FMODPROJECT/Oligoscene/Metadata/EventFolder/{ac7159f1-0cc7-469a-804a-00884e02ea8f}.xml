@@ -5,7 +5,7 @@
 			<value>Teleport</value>
 		</property>
 		<relationship name="folder">
-			<destination>{0148bc0e-3b18-4d37-b5e8-bd797dd1b916}</destination>
+			<destination>{6c888772-c145-411e-af75-592d33f9a282}</destination>
 		</relationship>
 	</object>
 </objects>
