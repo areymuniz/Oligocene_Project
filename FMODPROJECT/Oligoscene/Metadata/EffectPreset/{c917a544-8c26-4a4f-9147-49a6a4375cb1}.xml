@@ -13,30 +13,12 @@
 	</object>
 	<object class="EffectChain" id="{d4e5d238-229a-4776-b634-dfdcf8b10ad1}">
 		<relationship name="effects">
-			<destination>{828dd078-41cc-43e8-b681-aa094f406803}</destination>
-			<destination>{58558be3-0919-4a88-bf69-2e5cb37ef932}</destination>
 			<destination>{4c0aa3bc-143f-41b9-a48e-8b7e24b13e75}</destination>
-		</relationship>
-	</object>
-	<object class="MixerSend" id="{828dd078-41cc-43e8-b681-aa094f406803}">
-		<property name="level">
-			<value>0</value>
-		</property>
-		<relationship name="mixerReturn">
-			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>
-		</relationship>
-	</object>
-	<object class="MixerSend" id="{58558be3-0919-4a88-bf69-2e5cb37ef932}">
-		<property name="level">
-			<value>0</value>
-		</property>
-		<relationship name="mixerReturn">
-			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{4c0aa3bc-143f-41b9-a48e-8b7e24b13e75}">
 		<property name="level">
-			<value>0</value>
+			<value>5.5</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>

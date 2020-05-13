@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4a18e5ed-f425-406b-a3ff-7949b1bad3d5}">
+		<property name="assetPath">
+			<value>SharkSwimLoopWhoosh.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.6286041666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
+		</relationship>
+	</object>
+</objects>
