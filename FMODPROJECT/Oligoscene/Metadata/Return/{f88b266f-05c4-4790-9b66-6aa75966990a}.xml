@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{f88b266f-05c4-4790-9b66-6aa75966990a}">
+		<property name="volume">
+			<value>-19.5</value>
+		</property>
+		<property name="name">
+			<value>OutdoorVerb</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{fbadb43e-0de9-424c-9aa1-ef89d0befb67}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{6afb908a-7945-4fc1-82ff-a3a2a5a4b2ea}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ac13e633-a6b2-408c-9421-c44d2d399d67}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{fbadb43e-0de9-424c-9aa1-ef89d0befb67}">
+		<relationship name="effects">
+			<destination>{106e9f6a-c9cd-443d-9f33-5ef46eecb518}</destination>
+			<destination>{84a61a76-b531-46d0-bc35-1742819b0242}</destination>
+			<destination>{26ae3f07-0023-4b02-aaaa-fdad1478b8d5}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{6afb908a-7945-4fc1-82ff-a3a2a5a4b2ea}" />
+	<object class="ConvolutionReverbEffect" id="{106e9f6a-c9cd-443d-9f33-5ef46eecb518}">
+		<property name="endFrame">
+			<value>294984</value>
+		</property>
+		<relationship name="referenceableData">
+			<destination>{825be213-96c2-49c1-940f-29998332e563}</destination>
+		</relationship>
+	</object>
+	<object class="ThreeEQEffect" id="{84a61a76-b531-46d0-bc35-1742819b0242}">
+		<property name="midGain">
+			<value>-19</value>
+		</property>
+		<property name="highGain">
+			<value>-15.5</value>
+		</property>
+	</object>
+	<object class="MixerBusFader" id="{26ae3f07-0023-4b02-aaaa-fdad1478b8d5}" />
+</objects>

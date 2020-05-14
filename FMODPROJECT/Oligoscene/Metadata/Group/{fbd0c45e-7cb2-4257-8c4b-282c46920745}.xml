@@ -4,6 +4,9 @@
 		<property name="note">
 			<value>Non-digetic music</value>
 		</property>
+		<property name="volume">
+			<value>-12.5</value>
+		</property>
 		<property name="name">
 			<value>Music</value>
 		</property>
@@ -19,9 +22,18 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{b7a3bcae-5566-420c-b681-a3613920da80}">
 		<relationship name="effects">
+			<destination>{058f164a-4007-4793-8795-7947d65a27ff}</destination>
 			<destination>{28e97bb0-ffc4-4306-8de3-b1308c9d73d1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7c56d63e-7577-44ab-8d82-e3f98410bbd4}" />
+	<object class="CompressorEffect" id="{058f164a-4007-4793-8795-7947d65a27ff}">
+		<property name="threshold">
+			<value>-14</value>
+		</property>
+		<relationship name="sidechains">
+			<destination>{80621c7c-afed-434b-a05b-49df768bf162}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{28e97bb0-ffc4-4306-8de3-b1308c9d73d1}" />
 </objects>
