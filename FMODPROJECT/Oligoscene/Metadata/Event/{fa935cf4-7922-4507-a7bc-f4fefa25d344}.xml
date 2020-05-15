@@ -114,6 +114,8 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{c820e758-8e03-4e2d-912e-e8e418ecb1fa}">
 		<relationship name="effects">
+			<destination>{fb044a43-d411-4589-9267-52d3c2ab6563}</destination>
+			<destination>{70674187-0cf4-4f90-a1f7-d65a9b2329ea}</destination>
 			<destination>{e622bb8b-7a55-48e1-94b9-de8e74ed9dfc}</destination>
 			<destination>{08eeed00-d336-4641-8253-9ec975ecb2bf}</destination>
 		</relationship>
@@ -139,6 +141,28 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{816f15c8-ce16-490f-8b46-b0bb4c96e0a6}" />
+	<object class="MixerSend" id="{fb044a43-d411-4589-9267-52d3c2ab6563}">
+		<property name="level">
+			<value>0</value>
+		</property>
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{f88b266f-05c4-4790-9b66-6aa75966990a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerSend" id="{70674187-0cf4-4f90-a1f7-d65a9b2329ea}">
+		<property name="level">
+			<value>0</value>
+		</property>
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{87e63241-8835-431b-9ebe-943e74d5499c}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{e622bb8b-7a55-48e1-94b9-de8e74ed9dfc}" />
 	<object class="PluginEffect" id="{08eeed00-d336-4641-8253-9ec975ecb2bf}">
 		<relationship name="plugin">
@@ -188,7 +212,6 @@
 		<property name="name">
 			<value>3D Attributes</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-2</value>
 		</property>
@@ -236,7 +259,7 @@
 			<value>Range Max</value>
 		</property>
 		<property name="value">
-			<value>150</value>
+			<value>400</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
@@ -246,7 +269,6 @@
 		<property name="name">
 			<value>Overall Gain</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-1</value>
 		</property>
