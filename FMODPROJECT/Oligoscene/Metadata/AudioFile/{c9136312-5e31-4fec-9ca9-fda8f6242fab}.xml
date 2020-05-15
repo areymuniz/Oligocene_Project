@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{c9136312-5e31-4fec-9ca9-fda8f6242fab}">
 		<property name="assetPath">
-			<value>SFX/Tunnel_SFX/Oligocene_Conveyor_End.wav</value>
+			<value>Tunnel_SFX/Conveyer/Oligocene_Conveyor_End.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
