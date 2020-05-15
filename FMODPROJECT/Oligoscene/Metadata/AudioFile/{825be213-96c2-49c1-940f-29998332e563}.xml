@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{825be213-96c2-49c1-940f-29998332e563}">
 		<property name="assetPath">
-			<value>Freeze 14-Audio.wav</value>
+			<value>ImpulseResponses/Freeze 14-Audio.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

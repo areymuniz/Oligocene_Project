@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{93633931-1f88-412c-895b-4d4ff725d28f}">
 		<property name="assetPath">
-			<value>SharkSwim1.wav</value>
+			<value>Creatures/SharkSwim1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
