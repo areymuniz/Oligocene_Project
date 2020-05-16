@@ -1,0 +1,1517 @@
+﻿Log file open, 05/16/20 06:45:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.087890
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin FMODStudio
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=fredqiao -epicuserid=cbca54c1a8d04677aaa05697817a1910 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.16-10.45.58:508][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.16-10.45.58:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:509][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-10.45.58:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.16-10.45.58:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.16-10.45.58:513][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:513][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-10.45.58:513][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-10.45.58:513][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:513][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.16-10.45.58:513][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.16-10.45.58:513][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.16-10.45.58:513][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-10.45.58:513][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.16-10.45.58:516][  0]LogHAL: Display: Platform has ~ 16 GB [17024831488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.16-10.45.58:516][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.16-10.45.58:516][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-10.45.58:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-10.45.58:517][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.16-10.45.58:518][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.16-10.45.58:518][  0]LogInit: Computer: DESKTOP-4PO20VA
+[2020.05.16-10.45.58:518][  0]LogInit: User: FredQiao
+[2020.05.16-10.45.58:518][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.16-10.45.58:518][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.16-10.45.58:519][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.16-10.45.58:519][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.16-10.45.58:519][  0]LogMemory: Process Physical Memory: 105.88 MB used, 105.88 MB peak
+[2020.05.16-10.45.58:519][  0]LogMemory: Process Virtual Memory: 100.33 MB used, 100.33 MB peak
+[2020.05.16-10.45.58:519][  0]LogMemory: Physical Memory: 9259.51 MB used,  6976.63 MB free, 16236.14 MB total
+[2020.05.16-10.45.58:519][  0]LogMemory: Virtual Memory: 5125.49 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.05.16-10.45.58:526][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.16-10.45.58:540][  0]LogInit: Using OS detected language (en-US).
+[2020.05.16-10.45.58:540][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.16-10.45.58:541][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.16-10.45.58:728][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.16-10.45.58:765][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.16-10.45.58:765][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.16-10.45.58:943][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-10.45.58:943][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.16-10.45.58:943][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.16-10.45.58:943][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.16-10.45.59:012][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2020.05.16-10.45.59:012][  0]LogD3D11RHI:       4055/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.16-10.45.59:019][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.16-10.45.59:020][  0]LogD3D11RHI:       128/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.16-10.45.59:022][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.16-10.45.59:022][  0]LogD3D11RHI:       0/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.16-10.45.59:022][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.16-10.45.59:062][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.16-10.45.59:063][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.16-10.45.59:063][  0]LogWindows: EnumDisplayDevices:
+[2020.05.16-10.45.59:063][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.05.16-10.45.59:063][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.16-10.45.59:064][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.16-10.45.59:064][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.16-10.45.59:064][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2020.05.16-10.45.59:064][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.16-10.45.59:064][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.16-10.45.59:064][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.05.16-10.45.59:117][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.16-10.45.59:117][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.16-10.45.59:132][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.16-10.45.59:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.16-10.45.59:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.16-10.45.59:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.16-10.45.59:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.16-10.45.59:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.16-10.45.59:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.16-10.45.59:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.16-10.45.59:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.16-10.45.59:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.16-10.45.59:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.16-10.45.59:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.16-10.45.59:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.16-10.45.59:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.16-10.45.59:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.16-10.45.59:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.16-10.45.59:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.16-10.45.59:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.16-10.45.59:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.16-10.45.59:738][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.16-10.45.59:740][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.16-10.45.59:770][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/4380/).
+[2020.05.16-10.45.59:770][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fred Qiao/AppData/Local/Temp/UnrealShaderWorkingDir/DC30A8B84C96461137C1ADBDD0661834/'.
+[2020.05.16-10.45.59:770][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.16-10.45.59:770][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.16-10.45.59:770][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.16-10.46.00:617][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.16-10.46.00:693][  0]LogDerivedDataCache: Loaded boot cache 0.08s 106MB C:/Users/Fred Qiao/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.16-10.46.00:694][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fred Qiao/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.16-10.46.00:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.16-10.46.00:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.16-10.46.00:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-10.46.00:694][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.16-10.46.00:705][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.16-10.46.00:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-10.46.00:705][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.16-10.46.00:707][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fred Qiao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.16-10.46.00:707][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.16-10.46.00:707][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.16-10.46.00:737][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.16-10.46.00:740][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.16-10.46.00:740][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.16-10.46.00:812][  0]LogAssetRegistry: FAssetRegistry took 0.0127 seconds to start up
+[2020.05.16-10.46.01:158][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-10.46.01:345][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.16-10.46.01:346][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.16-10.46.01:346][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.16-10.46.01:346][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.16-10.46.01:346][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.16-10.46.01:359][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.05.16-10.46.02:552][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.063525 seconds
+[2020.05.16-10.46.02:561][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.16-10.46.02:561][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.16-10.46.02:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.16-10.46.03:047][  0]LogPython: Using Python 2.7.14
+[2020.05.16-10.46.03:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.16-10.46.03:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.16-10.46.03:956][  0]LogFMOD: FFMODStudioModule startup
+[2020.05.16-10.46.03:956][  0]LogFMOD:  Lib path = '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries'
+[2020.05.16-10.46.03:956][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2020.05.16-10.46.03:960][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.03:984][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.03:987][  0]LogFMOD: Loading strings bank: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbiLab
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbiTunnel
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Player/Footstep
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Chunk2
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Chunk3
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/UI
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneAquarium
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/SFX
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Aquarium
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/Music
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/CreditsRadio
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Player/Teleport/TeleportLand
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/OutdoorDelay
+[2020.05.16-10.46.03:989][  0]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.16-10.46.03:989][  0]LogFMOD: Skipping asset: bus:/
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneTunnel
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Tunnel
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs
+[2020.05.16-10.46.03:989][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/OutsideAmbience
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Chunk1
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomAquarium
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneLab
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/PedestalStill
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomMed
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Ambi
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Player/Teleport/TeleportArm
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/SFX
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomHall
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Dialogue
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneBubble
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/Voice
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGSpline
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/OutdoorVerb
+[2020.05.16-10.46.03:990][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Music
+[2020.05.16-10.46.03:996][  0]LogFMOD: Default sample rate = 48000
+[2020.05.16-10.46.03:996][  0]LogFMOD: System sample rate = 48000
+[2020.05.16-10.46.03:996][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.16-10.46.04:143][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-10.46.04:143][  0]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-10.46.04:144][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-10.46.04:147][  0]LogFMOD: Default sample rate = 48000
+[2020.05.16-10.46.04:147][  0]LogFMOD: System sample rate = 48000
+[2020.05.16-10.46.04:147][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.16-10.46.04:165][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-10.46.04:165][  0]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-10.46.04:165][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-10.46.04:213][  0]SourceControl: Source control is disabled
+[2020.05.16-10.46.04:729][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.16-10.46.04:753][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.16-10.46.04:753][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.16-10.46.04:877][  0]LogOcInput: OculusInput pre-init called
+[2020.05.16-10.46.04:886][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.16-10.46.04:886][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.16-10.46.04:890][  0]LogFMOD: FFMODStudioEditorModule startup
+[2020.05.16-10.46.06:227][  0]LogEngine: Initializing Engine...
+[2020.05.16-10.46.06:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-10.46.06:229][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.16-10.46.06:684][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.16-10.46.06:695][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-10.46.06:717][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-10.46.06:717][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-10.46.06:717][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-10.46.06:727][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-10.46.06:744][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.16-10.46.06:749][  0]LogInit: FAudioDevice initialized.
+[2020.05.16-10.46.06:749][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.16-10.46.06:819][  0]LogDerivedDataCache: Saved boot cache 0.07s 106MB C:/Users/Fred Qiao/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.16-10.46.06:829][  0]LogInit: Texture streaming: Enabled
+[2020.05.16-10.46.06:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.16-10.46.06:838][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.16-10.46.06:840][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.16-10.46.06:911][  0]LogInit: Transaction tracking system initialized
+[2020.05.16-10.46.06:922][  0]BlueprintLog: New page: Editor Load
+[2020.05.16-10.46.06:954][  0]LocalizationService: Localization service is disabled
+[2020.05.16-10.46.07:380][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.16-10.46.07:380][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.16-10.46.07:485][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/' took 0.03s
+[2020.05.16-10.46.08:226][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.16-10.46.08:227][  0]LightingResults: New page: Lighting Build
+[2020.05.16-10.46.08:228][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-10.46.08:228][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-10.46.08:228][  0]MapCheck: New page: Map Check
+[2020.05.16-10.46.08:228][  0]LightingResults: New page: Lighting Build
+[2020.05.16-10.46.08:260][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.16-10.46.08:677][  0]LogLinker: Warning: Asset '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.16-10.46.08:678][  0]LogLinker: Warning: Asset '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.16-10.46.08:678][  0]LogLinker: Warning: Asset '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.16-10.46.11:213][  0]LogTexture: Display: Building textures: animationAtlas (RGBA16F, 256X256)
+[2020.05.16-10.46.12:920][  0]LogTexture: Display: Building textures: animationAtlas (RGBA16F, 256X256)
+[2020.05.16-10.46.13:573][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2, compiling. 
+[2020.05.16-10.46.13:640][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.16-10.46.13:640][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.16-10.46.13:640][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.16-10.46.13:640][  0]LogMaterial: Display: Missing cached shader map for material lambert52, compiling. 
+[2020.05.16-10.46.13:664][  0]LogMaterial: Display: Missing cached shader map for material lambert3_ncl1_1, compiling. 
+[2020.05.16-10.46.13:685][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface6, compiling. 
+[2020.05.16-10.46.13:704][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface5, compiling. 
+[2020.05.16-10.46.13:726][  0]LogMaterial: Display: Missing cached shader map for material vent_detail_sdr1, compiling. 
+[2020.05.16-10.46.13:744][  0]LogMaterial: Display: Missing cached shader map for material vent_detail_sdr, compiling. 
+[2020.05.16-10.46.13:763][  0]LogMaterial: Display: Missing cached shader map for material top_metal, compiling. 
+[2020.05.16-10.46.13:782][  0]LogMaterial: Display: Missing cached shader map for material top_light, compiling. 
+[2020.05.16-10.46.13:801][  0]LogMaterial: Display: Missing cached shader map for material terminal_lights, compiling. 
+[2020.05.16-10.46.13:819][  0]LogMaterial: Display: Missing cached shader map for material pipe_sdr, compiling. 
+[2020.05.16-10.46.13:839][  0]LogMaterial: Display: Missing cached shader map for material metal_decor, compiling. 
+[2020.05.16-10.46.13:857][  0]LogMaterial: Display: Missing cached shader map for material marble, compiling. 
+[2020.05.16-10.46.13:877][  0]LogMaterial: Display: Missing cached shader map for material light_sdr, compiling. 
+[2020.05.16-10.46.13:895][  0]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.05.16-10.46.13:915][  0]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.05.16-10.46.13:935][  0]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.05.16-10.46.13:956][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.16-10.46.13:974][  0]LogMaterial: Display: Missing cached shader map for material keyboard, compiling. 
+[2020.05.16-10.46.13:993][  0]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2020.05.16-10.46.14:011][  0]LogMaterial: Display: Missing cached shader map for material hand_emit, compiling. 
+[2020.05.16-10.46.14:031][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2020.05.16-10.46.14:049][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_1, compiling. 
+[2020.05.16-10.46.14:069][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2020.05.16-10.46.14:100][  0]LogMaterial: Display: Missing cached shader map for material lambert49, compiling. 
+[2020.05.16-10.46.14:121][  0]LogMaterial: Display: Missing cached shader map for material lambert48, compiling. 
+[2020.05.16-10.46.14:141][  0]LogMaterial: Display: Missing cached shader map for material lambert47, compiling. 
+[2020.05.16-10.46.14:161][  0]LogMaterial: Display: Missing cached shader map for material lambert46, compiling. 
+[2020.05.16-10.46.14:181][  0]LogMaterial: Display: Missing cached shader map for material lambert4_ncl1_1, compiling. 
+[2020.05.16-10.46.14:201][  0]LogMaterial: Display: Missing cached shader map for material lambert42, compiling. 
+[2020.05.16-10.46.14:221][  0]LogMaterial: Display: Missing cached shader map for material lambert41, compiling. 
+[2020.05.16-10.46.14:241][  0]LogMaterial: Display: Missing cached shader map for material lambert40, compiling. 
+[2020.05.16-10.46.14:260][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_2, compiling. 
+[2020.05.16-10.46.14:280][  0]LogMaterial: Display: Missing cached shader map for material light_sdr1, compiling. 
+[2020.05.16-10.46.14:300][  0]LogMaterial: Display: Missing cached shader map for material lambert51, compiling. 
+[2020.05.16-10.46.14:321][  0]LogMaterial: Display: Missing cached shader map for material lambert50, compiling. 
+[2020.05.16-10.46.14:339][  0]LogMaterial: Display: Missing cached shader map for material lambert2_ncl1_1, compiling. 
+[2020.05.16-10.46.14:358][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2_ncl1_1, compiling. 
+[2020.05.16-10.46.14:377][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_3, compiling. 
+[2020.05.16-10.46.15:037][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.16-10.46.15:183][  0]LogMaterial: Display: Material /Game/Assets/Materials/M_Security_Camera_Viewcone.M_Security_Camera_Viewcone needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:189][  0]LogMaterial: Display: Missing cached shader map for material M_Security_Camera_Viewcone, compiling. 
+[2020.05.16-10.46.15:212][  0]MapCheck: Warning: M_Security_Camera_Viewcone Material /Game/Assets/Materials/M_Security_Camera_Viewcone.M_Security_Camera_Viewcone was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:217][  0]LogMaterial: Display: Material /Game/Underwater_FX/SEAWEED/aiStandardSurface1.aiStandardSurface1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:223][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2020.05.16-10.46.15:299][  0]MapCheck: Warning: aiStandardSurface1 Material /Game/Underwater_FX/SEAWEED/aiStandardSurface1.aiStandardSurface1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:302][  0]LogMaterial: Display: Material /Game/crowdAnim/Blueprints/Mats/vert6exAnimMat_4.vert6exAnimMat_4 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:399][  0]LogMaterial: Display: Missing cached shader map for material vert6exAnimMat_4, compiling. 
+[2020.05.16-10.46.15:426][  0]MapCheck: Warning: vert6exAnimMat_4 Material /Game/crowdAnim/Blueprints/Mats/vert6exAnimMat_4.vert6exAnimMat_4 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:436][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/metal_UE.metal_UE needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:441][  0]LogMaterial: Display: Missing cached shader map for material metal_UE, compiling. 
+[2020.05.16-10.46.15:461][  0]MapCheck: Warning: metal_UE Material /Game/Geometry/Meshes/Aquarium/metal_UE.metal_UE was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:463][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/StainedGlass.StainedGlass needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:470][  0]LogMaterial: Display: Missing cached shader map for material StainedGlass, compiling. 
+[2020.05.16-10.46.15:490][  0]MapCheck: Warning: StainedGlass Material /Game/Geometry/Meshes/Aquarium/StainedGlass.StainedGlass was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:492][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:500][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.05.16-10.46.15:520][  0]MapCheck: Warning: lambert1 Material /Game/Geometry/Meshes/Aquarium/lambert1.lambert1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:522][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert53.lambert53 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:528][  0]LogMaterial: Display: Missing cached shader map for material lambert53, compiling. 
+[2020.05.16-10.46.15:551][  0]MapCheck: Warning: lambert53 Material /Game/Geometry/Meshes/Aquarium/lambert53.lambert53 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:553][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert54.lambert54 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:559][  0]LogMaterial: Display: Missing cached shader map for material lambert54, compiling. 
+[2020.05.16-10.46.15:583][  0]MapCheck: Warning: lambert54 Material /Game/Geometry/Meshes/Aquarium/lambert54.lambert54 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:588][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/Metal_Trim_Mat.Metal_Trim_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:593][  0]LogMaterial: Display: Missing cached shader map for material Metal_Trim_Mat, compiling. 
+[2020.05.16-10.46.15:616][  0]MapCheck: Warning: Metal_Trim_Mat Material /Game/Geometry/Meshes/Aquarium/Metal_Trim_Mat.Metal_Trim_Mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:621][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/for_exportingn.for_exportingn needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:626][  0]LogMaterial: Display: Missing cached shader map for material for_exportingn, compiling. 
+[2020.05.16-10.46.15:646][  0]MapCheck: Warning: for_exportingn Material /Game/Geometry/Meshes/Aquarium/for_exportingn.for_exportingn was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:649][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/TEMP_wallbeam_mat.TEMP_wallbeam_mat needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:655][  0]LogMaterial: Display: Missing cached shader map for material TEMP_wallbeam_mat, compiling. 
+[2020.05.16-10.46.15:674][  0]MapCheck: Warning: TEMP_wallbeam_mat Material /Game/Geometry/Meshes/Aquarium/TEMP_wallbeam_mat.TEMP_wallbeam_mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:676][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/DarkMarble_TileMAT.DarkMarble_TileMAT needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:682][  0]LogMaterial: Display: Missing cached shader map for material DarkMarble_TileMAT, compiling. 
+[2020.05.16-10.46.15:702][  0]MapCheck: Warning: DarkMarble_TileMAT Material /Game/Geometry/Meshes/Aquarium/DarkMarble_TileMAT.DarkMarble_TileMAT was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:705][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert2_ncl1_2.lambert2_ncl1_2 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:710][  0]LogMaterial: Display: Missing cached shader map for material lambert2_ncl1_2, compiling. 
+[2020.05.16-10.46.15:729][  0]MapCheck: Warning: lambert2_ncl1_2 Material /Game/Geometry/Meshes/Aquarium/lambert2_ncl1_2.lambert2_ncl1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:732][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert55.lambert55 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:738][  0]LogMaterial: Display: Missing cached shader map for material lambert55, compiling. 
+[2020.05.16-10.46.15:757][  0]MapCheck: Warning: lambert55 Material /Game/Geometry/Meshes/Aquarium/lambert55.lambert55 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:760][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert38.lambert38 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:766][  0]LogMaterial: Display: Missing cached shader map for material lambert38, compiling. 
+[2020.05.16-10.46.15:787][  0]MapCheck: Warning: lambert38 Material /Game/Geometry/Meshes/Aquarium/lambert38.lambert38 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:815][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert2_ncl1_1.lambert2_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:821][  0]LogMaterial: Display: Missing cached shader map for material lambert2_ncl1_1, compiling. 
+[2020.05.16-10.46.15:841][  0]MapCheck: Warning: lambert2_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/lambert2_ncl1_1.lambert2_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:844][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_3.aiStandardSurface1_ncl1_3 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:850][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_3, compiling. 
+[2020.05.16-10.46.15:870][  0]MapCheck: Warning: aiStandardSurface1_ncl1_3 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_3.aiStandardSurface1_ncl1_3 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:872][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface2_ncl1_1.aiStandardSurface2_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:877][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2_ncl1_1, compiling. 
+[2020.05.16-10.46.15:897][  0]MapCheck: Warning: aiStandardSurface2_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface2_ncl1_1.aiStandardSurface2_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:900][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert50.lambert50 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:905][  0]LogMaterial: Display: Missing cached shader map for material lambert50, compiling. 
+[2020.05.16-10.46.15:925][  0]MapCheck: Warning: lambert50 Material /Game/Geometry/Meshes/Aquarium/lambert50.lambert50 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:928][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert51.lambert51 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:933][  0]LogMaterial: Display: Missing cached shader map for material lambert51, compiling. 
+[2020.05.16-10.46.15:952][  0]MapCheck: Warning: lambert51 Material /Game/Geometry/Meshes/Aquarium/lambert51.lambert51 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:955][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/light_sdr1.light_sdr1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:960][  0]LogMaterial: Display: Missing cached shader map for material light_sdr1, compiling. 
+[2020.05.16-10.46.15:979][  0]MapCheck: Warning: light_sdr1 Material /Game/Geometry/Meshes/Aquarium/light_sdr1.light_sdr1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.15:982][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert40.lambert40 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.15:988][  0]LogMaterial: Display: Missing cached shader map for material lambert40, compiling. 
+[2020.05.16-10.46.16:007][  0]MapCheck: Warning: lambert40 Material /Game/Geometry/Meshes/Aquarium/lambert40.lambert40 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:010][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_2.aiStandardSurface1_ncl1_2 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:016][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_2, compiling. 
+[2020.05.16-10.46.16:037][  0]MapCheck: Warning: aiStandardSurface1_ncl1_2 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_2.aiStandardSurface1_ncl1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:040][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert41.lambert41 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:045][  0]LogMaterial: Display: Missing cached shader map for material lambert41, compiling. 
+[2020.05.16-10.46.16:068][  0]MapCheck: Warning: lambert41 Material /Game/Geometry/Meshes/Aquarium/lambert41.lambert41 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:071][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert42.lambert42 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:076][  0]LogMaterial: Display: Missing cached shader map for material lambert42, compiling. 
+[2020.05.16-10.46.16:096][  0]MapCheck: Warning: lambert42 Material /Game/Geometry/Meshes/Aquarium/lambert42.lambert42 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:099][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert4_ncl1_1.lambert4_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:105][  0]LogMaterial: Display: Missing cached shader map for material lambert4_ncl1_1, compiling. 
+[2020.05.16-10.46.16:124][  0]MapCheck: Warning: lambert4_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/lambert4_ncl1_1.lambert4_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:127][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert46.lambert46 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:132][  0]LogMaterial: Display: Missing cached shader map for material lambert46, compiling. 
+[2020.05.16-10.46.16:152][  0]MapCheck: Warning: lambert46 Material /Game/Geometry/Meshes/Aquarium/lambert46.lambert46 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:155][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert47.lambert47 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:161][  0]LogMaterial: Display: Missing cached shader map for material lambert47, compiling. 
+[2020.05.16-10.46.16:180][  0]MapCheck: Warning: lambert47 Material /Game/Geometry/Meshes/Aquarium/lambert47.lambert47 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:183][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert48.lambert48 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:189][  0]LogMaterial: Display: Missing cached shader map for material lambert48, compiling. 
+[2020.05.16-10.46.16:208][  0]MapCheck: Warning: lambert48 Material /Game/Geometry/Meshes/Aquarium/lambert48.lambert48 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:211][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert49.lambert49 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:218][  0]LogMaterial: Display: Missing cached shader map for material lambert49, compiling. 
+[2020.05.16-10.46.16:238][  0]MapCheck: Warning: lambert49 Material /Game/Geometry/Meshes/Aquarium/lambert49.lambert49 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:240][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert2.lambert2 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:246][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.16-10.46.16:266][  0]MapCheck: Warning: lambert2 Material /Game/Geometry/Meshes/Aquarium/lambert2.lambert2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:269][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/keyboard.keyboard needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:274][  0]LogMaterial: Display: Missing cached shader map for material keyboard, compiling. 
+[2020.05.16-10.46.16:295][  0]MapCheck: Warning: keyboard Material /Game/Geometry/Meshes/Aquarium/keyboard.keyboard was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:297][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/pipe_sdr.pipe_sdr needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:303][  0]LogMaterial: Display: Missing cached shader map for material pipe_sdr, compiling. 
+[2020.05.16-10.46.16:322][  0]MapCheck: Warning: pipe_sdr Material /Game/Geometry/Meshes/Aquarium/pipe_sdr.pipe_sdr was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:325][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface3.aiStandardSurface3 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:330][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface3, compiling. 
+[2020.05.16-10.46.16:350][  0]MapCheck: Warning: aiStandardSurface3 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface3.aiStandardSurface3 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:353][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/light_sdr.light_sdr needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:358][  0]LogMaterial: Display: Missing cached shader map for material light_sdr, compiling. 
+[2020.05.16-10.46.16:378][  0]MapCheck: Warning: light_sdr Material /Game/Geometry/Meshes/Aquarium/light_sdr.light_sdr was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:381][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert3.lambert3 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:386][  0]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.05.16-10.46.16:407][  0]MapCheck: Warning: lambert3 Material /Game/Geometry/Meshes/Aquarium/lambert3.lambert3 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:410][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/top_light.top_light needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:415][  0]LogMaterial: Display: Missing cached shader map for material top_light, compiling. 
+[2020.05.16-10.46.16:434][  0]MapCheck: Warning: top_light Material /Game/Geometry/Meshes/Aquarium/top_light.top_light was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:437][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/marble.marble needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:443][  0]LogMaterial: Display: Missing cached shader map for material marble, compiling. 
+[2020.05.16-10.46.16:462][  0]MapCheck: Warning: marble Material /Game/Geometry/Meshes/Aquarium/marble.marble was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:464][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/metal_decor.metal_decor needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:470][  0]LogMaterial: Display: Missing cached shader map for material metal_decor, compiling. 
+[2020.05.16-10.46.16:490][  0]MapCheck: Warning: metal_decor Material /Game/Geometry/Meshes/Aquarium/metal_decor.metal_decor was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:493][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/top_metal.top_metal needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:498][  0]LogMaterial: Display: Missing cached shader map for material top_metal, compiling. 
+[2020.05.16-10.46.16:517][  0]MapCheck: Warning: top_metal Material /Game/Geometry/Meshes/Aquarium/top_metal.top_metal was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:520][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/terminal_lights.terminal_lights needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:526][  0]LogMaterial: Display: Missing cached shader map for material terminal_lights, compiling. 
+[2020.05.16-10.46.16:544][  0]MapCheck: Warning: terminal_lights Material /Game/Geometry/Meshes/Aquarium/terminal_lights.terminal_lights was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:547][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/initialShadingGroup1.initialShadingGroup1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:553][  0]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2020.05.16-10.46.16:572][  0]MapCheck: Warning: initialShadingGroup1 Material /Game/Geometry/Meshes/Aquarium/initialShadingGroup1.initialShadingGroup1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:574][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1.aiStandardSurface1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:580][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2020.05.16-10.46.16:601][  0]MapCheck: Warning: aiStandardSurface1 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1.aiStandardSurface1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:603][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert4.lambert4 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:609][  0]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.05.16-10.46.16:628][  0]MapCheck: Warning: lambert4 Material /Game/Geometry/Meshes/Aquarium/lambert4.lambert4 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:631][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr1.vent_detail_sdr1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:636][  0]LogMaterial: Display: Missing cached shader map for material vent_detail_sdr1, compiling. 
+[2020.05.16-10.46.16:656][  0]MapCheck: Warning: vent_detail_sdr1 Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr1.vent_detail_sdr1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:659][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert5.lambert5 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:664][  0]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.05.16-10.46.16:685][  0]MapCheck: Warning: lambert5 Material /Game/Geometry/Meshes/Aquarium/lambert5.lambert5 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:687][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/hand_emit.hand_emit needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:692][  0]LogMaterial: Display: Missing cached shader map for material hand_emit, compiling. 
+[2020.05.16-10.46.16:713][  0]MapCheck: Warning: hand_emit Material /Game/Geometry/Meshes/Aquarium/hand_emit.hand_emit was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:716][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr.vent_detail_sdr needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:721][  0]LogMaterial: Display: Missing cached shader map for material vent_detail_sdr, compiling. 
+[2020.05.16-10.46.16:741][  0]MapCheck: Warning: vent_detail_sdr Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr.vent_detail_sdr was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:744][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_1.aiStandardSurface1_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:749][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1_ncl1_1, compiling. 
+[2020.05.16-10.46.16:768][  0]MapCheck: Warning: aiStandardSurface1_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface1_ncl1_1.aiStandardSurface1_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:771][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert52.lambert52 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:776][  0]LogMaterial: Display: Missing cached shader map for material lambert52, compiling. 
+[2020.05.16-10.46.16:796][  0]MapCheck: Warning: lambert52 Material /Game/Geometry/Meshes/Aquarium/lambert52.lambert52 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:799][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert3_ncl1_1.lambert3_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:804][  0]LogMaterial: Display: Missing cached shader map for material lambert3_ncl1_1, compiling. 
+[2020.05.16-10.46.16:824][  0]MapCheck: Warning: lambert3_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/lambert3_ncl1_1.lambert3_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:827][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/light_sdr_ncl1_1.light_sdr_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:832][  0]LogMaterial: Display: Missing cached shader map for material light_sdr_ncl1_1, compiling. 
+[2020.05.16-10.46.16:851][  0]MapCheck: Warning: light_sdr_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/light_sdr_ncl1_1.light_sdr_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:854][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface5.aiStandardSurface5 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:860][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface5, compiling. 
+[2020.05.16-10.46.16:879][  0]MapCheck: Warning: aiStandardSurface5 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface5.aiStandardSurface5 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:882][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface6.aiStandardSurface6 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:887][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface6, compiling. 
+[2020.05.16-10.46.16:907][  0]MapCheck: Warning: aiStandardSurface6 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface6.aiStandardSurface6 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:910][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/top_metal_ncl1_1.top_metal_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:916][  0]LogMaterial: Display: Missing cached shader map for material top_metal_ncl1_1, compiling. 
+[2020.05.16-10.46.16:936][  0]MapCheck: Warning: top_metal_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/top_metal_ncl1_1.top_metal_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:939][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface2.aiStandardSurface2 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:944][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface2, compiling. 
+[2020.05.16-10.46.16:963][  0]MapCheck: Warning: aiStandardSurface2 Material /Game/Geometry/Meshes/Aquarium/aiStandardSurface2.aiStandardSurface2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:965][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/top_light_ncl1_1.top_light_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:971][  0]LogMaterial: Display: Missing cached shader map for material top_light_ncl1_1, compiling. 
+[2020.05.16-10.46.16:991][  0]MapCheck: Warning: top_light_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/top_light_ncl1_1.top_light_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.16:993][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr_ncl1_1.vent_detail_sdr_ncl1_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.16:999][  0]LogMaterial: Display: Missing cached shader map for material vent_detail_sdr_ncl1_1, compiling. 
+[2020.05.16-10.46.17:019][  0]MapCheck: Warning: vent_detail_sdr_ncl1_1 Material /Game/Geometry/Meshes/Aquarium/vent_detail_sdr_ncl1_1.vent_detail_sdr_ncl1_1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.17:021][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert43.lambert43 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.17:026][  0]LogMaterial: Display: Missing cached shader map for material lambert43, compiling. 
+[2020.05.16-10.46.17:047][  0]MapCheck: Warning: lambert43 Material /Game/Geometry/Meshes/Aquarium/lambert43.lambert43 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.17:050][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert44.lambert44 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.17:055][  0]LogMaterial: Display: Missing cached shader map for material lambert44, compiling. 
+[2020.05.16-10.46.17:075][  0]MapCheck: Warning: lambert44 Material /Game/Geometry/Meshes/Aquarium/lambert44.lambert44 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.17:078][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/lambert45.lambert45 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.17:083][  0]LogMaterial: Display: Missing cached shader map for material lambert45, compiling. 
+[2020.05.16-10.46.17:103][  0]MapCheck: Warning: lambert45 Material /Game/Geometry/Meshes/Aquarium/lambert45.lambert45 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.17:106][  0]LogMaterial: Display: Material /Game/Geometry/Meshes/Aquarium/ArtDeco_Trim_Mat.ArtDeco_Trim_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.05.16-10.46.17:111][  0]LogMaterial: Display: Missing cached shader map for material ArtDeco_Trim_Mat, compiling. 
+[2020.05.16-10.46.17:131][  0]MapCheck: Warning: ArtDeco_Trim_Mat Material /Game/Geometry/Meshes/Aquarium/ArtDeco_Trim_Mat.ArtDeco_Trim_Mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.16-10.46.17:202][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.16-10.46.22:772][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2088
+[2020.05.16-10.46.22:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.05.16-10.46.22:780][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.16-10.46.22:780][  0]MapCheck: Map check complete: 0 Error(s), 62 Warning(s), took 0.516ms to complete.
+[2020.05.16-10.46.22:795][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 14.570
+[2020.05.16-10.46.22:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-10.46.22:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-10.46.22:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-10.46.22:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-10.46.22:991][  0]LogCollectionManager: Loaded 0 collections in 0.002093 seconds
+[2020.05.16-10.46.23:006][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.05.16-10.46.23:006][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/Developers/FredQiao/Collections/' took 0.00s
+[2020.05.16-10.46.23:006][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.05.16-10.46.23:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3054 classes and 734 folders.
+[2020.05.16-10.46.23:009][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.16-10.46.23:071][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.16-10.46.23:075][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.16-10.46.23:137][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.16-10.46.23:140][  0]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.16-10.46.23:145][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.16-10.46.23:341][  0]LogRenderer: Reallocating scene render targets to support 1120x656 Format 26 NumSamples 1 (Frame:1).
+[2020.05.16-10.46.23:427][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-10.46.23:494][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.16-10.46.23:495][  0]LogLoad: (Engine Initialization) Total time: 26.37 seconds
+[2020.05.16-10.46.23:495][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.16-10.46.23:567][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.16-10.46.23:687][  1]LogFMOD: File has changed: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.16-10.46.23:772][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.16-10.46.23:775][  1]LogFMOD: Loading strings bank: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.16-10.46.23:777][  1]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.16-10.46.23:778][  1]LogFMOD: Skipping asset: bus:/
+[2020.05.16-10.46.23:783][  1]LogFMOD: Default sample rate = 48000
+[2020.05.16-10.46.23:783][  1]LogFMOD: System sample rate = 48000
+[2020.05.16-10.46.23:783][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.16-10.46.23:811][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-10.46.23:811][  1]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-10.46.23:811][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-10.46.23:939][  1]LogFMOD: Default sample rate = 48000
+[2020.05.16-10.46.23:939][  1]LogFMOD: System sample rate = 48000
+[2020.05.16-10.46.23:939][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.16-10.46.23:958][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-10.46.23:958][  1]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-10.46.23:958][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-10.46.24:146][  1]LogAssetRegistry: Asset discovery search completed in 23.3443 seconds
+[2020.05.16-10.46.24:151][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.05.16-10.46.34:989][299]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2078
+[2020.05.16-10.46.35:891][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2068
+[2020.05.16-10.46.55:653][536]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2058
+[2020.05.16-10.47.01:671][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2048
+[2020.05.16-10.47.15:043][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2038
+[2020.05.16-10.47.26:509][382]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2028
+[2020.05.16-10.47.31:009][648]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2018
+[2020.05.16-10.47.45:204][498]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2008
+[2020.05.16-10.47.53:939][ 21]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1998
+[2020.05.16-10.47.58:449][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1988
+[2020.05.16-10.48.23:654][799]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1978
+[2020.05.16-10.48.26:099][943]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1968
+[2020.05.16-10.48.32:530][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1958
+[2020.05.16-10.49.00:379][994]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1948
+[2020.05.16-10.49.02:168][101]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1938
+[2020.05.16-10.49.04:934][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1928
+[2020.05.16-10.49.33:602][982]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1918
+[2020.05.16-10.49.40:390][388]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1908
+[2020.05.16-10.49.42:427][510]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1898
+[2020.05.16-10.49.54:394][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.16-10.50.17:674][999]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1888
+[2020.05.16-10.50.20:208][ 80]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1878
+[2020.05.16-10.50.25:990][285]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1868
+[2020.05.16-10.51.01:880][227]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1858
+[2020.05.16-10.51.02:948][263]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1848
+[2020.05.16-10.51.05:981][347]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1838
+[2020.05.16-10.51.35:701][146]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1828
+[2020.05.16-10.51.45:534][368]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1818
+[2020.05.16-10.51.46:883][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1808
+[2020.05.16-10.52.14:857][183]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1798
+[2020.05.16-10.52.17:026][249]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1788
+[2020.05.16-10.52.25:370][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1778
+[2020.05.16-10.52.53:995][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1768
+[2020.05.16-10.52.56:117][356]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1758
+[2020.05.16-10.52.57:974][408]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1748
+[2020.05.16-10.53.25:903][253]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1738
+[2020.05.16-10.53.34:212][500]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1728
+[2020.05.16-10.53.36:706][565]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1718
+[2020.05.16-10.54.07:698][400]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1708
+[2020.05.16-10.54.09:931][456]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1698
+[2020.05.16-10.54.19:692][701]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1688
+[2020.05.16-10.54.50:961][525]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1678
+[2020.05.16-10.54.52:475][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1668
+[2020.05.16-10.54.54:509][636]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1658
+[2020.05.16-10.55.25:350][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1648
+[2020.05.16-10.55.36:175][679]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1638
+[2020.05.16-10.55.38:185][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1628
+[2020.05.16-10.56.06:179][541]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1618
+[2020.05.16-10.56.08:730][608]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1608
+[2020.05.16-10.56.17:224][841]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1598
+[2020.05.16-10.56.46:651][680]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1588
+[2020.05.16-10.56.47:641][707]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1578
+[2020.05.16-10.56.50:776][791]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1568
+[2020.05.16-10.57.30:259][882]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-10.57.30:259][882]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.16-10.57.30:259][882]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(550) - Starvation detected in WASAPI output buffer!
+
+[2020.05.16-10.57.36:917][231]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1558
+[2020.05.16-10.57.37:333][250]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-10.58.09:892][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1548
+[2020.05.16-10.58.14:822][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1538
+[2020.05.16-10.59.36:702][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1528
+[2020.05.16-10.59.39:931][510]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1518
+[2020.05.16-10.59.48:135][700]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1508
+[2020.05.16-10.59.52:868][820]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1498
+[2020.05.16-10.59.57:486][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1488
+[2020.05.16-10.59.59:441][968]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1478
+[2020.05.16-11.00.34:520][810]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1468
+[2020.05.16-11.00.46:346][174]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1458
+[2020.05.16-11.00.52:939][374]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1448
+[2020.05.16-11.00.55:175][433]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1438
+[2020.05.16-11.01.05:042][682]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1428
+[2020.05.16-11.01.18:689][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1418
+[2020.05.16-11.01.53:395][853]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1408
+[2020.05.16-11.01.54:714][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1398
+[2020.05.16-11.02.01:639][ 69]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1388
+[2020.05.16-11.02.35:585][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1378
+[2020.05.16-11.02.49:606][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1368
+[2020.05.16-11.02.51:263][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1358
+[2020.05.16-11.03.23:405][199]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1348
+[2020.05.16-11.03.34:154][539]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1338
+[2020.05.16-11.03.36:888][619]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1328
+[2020.05.16-11.03.45:389][918]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.16-11.04.04:067][435]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1318
+[2020.05.16-11.04.13:581][694]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1308
+[2020.05.16-11.04.31:575][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1298
+[2020.05.16-11.04.58:259][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1288
+[2020.05.16-11.05.06:220][ 17]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1278
+[2020.05.16-11.05.08:738][ 84]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1268
+[2020.05.16-11.05.44:546][ 51]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1258
+[2020.05.16-11.05.51:292][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1248
+[2020.05.16-11.05.53:452][317]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1238
+[2020.05.16-11.06.26:826][205]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1228
+[2020.05.16-11.06.36:021][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1218
+[2020.05.16-11.06.40:278][553]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1208
+[2020.05.16-11.07.02:510][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1198
+[2020.05.16-11.07.07:987][377]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1188
+[2020.05.16-11.07.24:941][832]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1178
+[2020.05.16-11.07.55:817][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1168
+[2020.05.16-11.08.00:527][724]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1158
+[2020.05.16-11.08.01:676][761]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1148
+[2020.05.16-11.08.37:520][736]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1138
+[2020.05.16-11.08.46:249][993]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1128
+[2020.05.16-11.08.47:062][ 11]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1118
+[2020.05.16-11.09.24:927][974]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1108
+[2020.05.16-11.09.34:817][235]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1098
+[2020.05.16-11.09.36:659][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1088
+[2020.05.16-11.10.06:058][ 25]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1078
+[2020.05.16-11.10.14:022][232]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1068
+[2020.05.16-11.10.36:247][876]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1058
+[2020.05.16-11.11.12:688][714]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1048
+[2020.05.16-11.11.18:494][827]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1038
+[2020.05.16-11.11.19:365][851]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1028
+[2020.05.16-11.11.56:658][891]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1018
+[2020.05.16-11.12.07:686][138]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1008
+[2020.05.16-11.12.08:536][160]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 998
+[2020.05.16-11.12.46:835][ 83]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 988
+[2020.05.16-11.12.57:459][359]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 978
+[2020.05.16-11.12.59:097][415]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 968
+[2020.05.16-11.13.31:236][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 958
+[2020.05.16-11.13.37:236][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 948
+[2020.05.16-11.13.57:758][839]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 938
+[2020.05.16-11.14.33:513][706]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 928
+[2020.05.16-11.14.37:886][837]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 918
+[2020.05.16-11.14.38:263][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 908
+[2020.05.16-11.15.19:795][997]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 898
+[2020.05.16-11.15.29:391][278]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 888
+[2020.05.16-11.15.30:235][301]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 878
+[2020.05.16-11.16.10:885][403]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 868
+[2020.05.16-11.16.20:279][652]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 858
+[2020.05.16-11.16.23:705][729]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 848
+[2020.05.16-11.16.58:199][584]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 838
+[2020.05.16-11.17.05:446][742]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 828
+[2020.05.16-11.17.28:700][288]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 818
+[2020.05.16-11.18.02:245][157]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 808
+[2020.05.16-11.18.07:506][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 798
+[2020.05.16-11.18.10:314][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 788
+[2020.05.16-11.18.55:231][435]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 778
+[2020.05.16-11.19.08:853][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 768
+[2020.05.16-11.19.09:119][761]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 758
+[2020.05.16-11.19.51:728][762]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 748
+[2020.05.16-11.20.02:555][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 738
+[2020.05.16-11.20.05:121][135]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 728
+[2020.05.16-11.20.39:307][906]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 718
+[2020.05.16-11.20.45:752][101]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 708
+[2020.05.16-11.21.07:994][646]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 698
+[2020.05.16-11.21.45:182][461]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 688
+[2020.05.16-11.21.50:867][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 678
+[2020.05.16-11.21.51:866][619]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 668
+[2020.05.16-11.22.31:177][648]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 658
+[2020.05.16-11.22.41:417][895]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 648
+[2020.05.16-11.22.42:089][917]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 638
+[2020.05.16-11.23.23:864][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 628
+[2020.05.16-11.23.35:710][133]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 618
+[2020.05.16-11.23.37:101][172]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 608
+[2020.05.16-11.24.06:328][913]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 598
+[2020.05.16-11.24.12:126][ 58]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 588
+[2020.05.16-11.24.34:578][718]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 578
+[2020.05.16-11.25.03:390][467]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 568
+[2020.05.16-11.25.09:605][614]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 558
+[2020.05.16-11.25.09:794][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 548
+[2020.05.16-11.25.47:205][672]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 538
+[2020.05.16-11.25.56:002][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 528
+[2020.05.16-11.25.56:465][895]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 518
+[2020.05.16-11.26.34:811][873]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 508
+[2020.05.16-11.26.42:733][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 498
+[2020.05.16-11.26.44:603][147]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 488
+[2020.05.16-11.27.06:798][877]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 478
+[2020.05.16-11.27.14:030][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 468
+[2020.05.16-11.28.06:626][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 458
+[2020.05.16-11.29.04:158][376]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 448
+[2020.05.16-11.29.12:809][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 438
+[2020.05.16-11.29.13:148][572]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 428
+[2020.05.16-11.30.22:390][248]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 418
+[2020.05.16-11.30.35:468][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 408
+[2020.05.16-11.30.38:078][659]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 398
+[2020.05.16-11.31.38:806][767]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 388
+[2020.05.16-11.31.55:778][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 378
+[2020.05.16-11.32.01:152][ 74]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 368
+[2020.05.16-11.32.55:660][247]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 358
+[2020.05.16-11.33.04:351][748]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 348
+[2020.05.16-11.33.28:336][ 60]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.16-11.33.29:467][110]LogEditorViewport: Clicking on Actor (LMB): bait_C (zait4)
+[2020.05.16-11.33.29:979][132]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.16-11.33.37:116][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Win_Frame_A86)
+[2020.05.16-11.33.42:436][422]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 338
+[2020.05.16-11.33.46:915][423]LogEditorViewport: Clicking on Actor (LMB): bait_C (zait5)
+[2020.05.16-11.34.34:957][315]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-11.34.35:096][315]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.05.16-11.34.38:325][315]LogSavePackage: Moving '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Oligocene_Playable2BBB1F65422B3A9284601FB356EFE867.tmp' to '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.16-11.34.42:550][315]LogSavePackage: Moving '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/Oligocene_Playable_BuiltData45B61B0B40E12CDAC17485AC6750F487.tmp' to '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.uasset'
+[2020.05.16-11.34.42:640][315]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.16-11.34.42:640][315]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.16-11.34.42:640][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.Oligocene_Playable_BuiltData
+[2020.05.16-11.34.55:502][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/crowdAnim_new/Blueprints/fishCrowd/BP_fishPawn.BP_fishPawn
+[2020.05.16-11.34.55:849][855]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.05.16-11.34.57:165][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 328
+[2020.05.16-11.34.57:601][855]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.16-11.34.58:272][858]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 318
+[2020.05.16-11.34.58:872][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 308
+[2020.05.16-11.35.05:256][963]LogSlate: Window 'BP_fishPawn' being destroyed
+[2020.05.16-11.35.50:782][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 298
+[2020.05.16-11.36.57:023][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 288
+[2020.05.16-11.37.11:983][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 278
+[2020.05.16-11.39.24:041][829]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 268
+[2020.05.16-11.39.52:382][245]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 258
+[2020.05.16-11.39.56:557][441]LogEditorTransaction: Undo Add Node
+[2020.05.16-11.40.04:512][828]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 248
+[2020.05.16-11.40.12:534][255]BlueprintLog: New page: Compile BP_fishPawn
+[2020.05.16-11.40.13:491][255]LogUObjectHash: Compacting FUObjectHashTables data took  10.83ms
+[2020.05.16-11.40.59:276][725]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 238
+[2020.05.16-11.41.16:279][648]BlueprintLog: New page: Compile BP_fishPawn
+[2020.05.16-11.41.17:070][648]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 228
+[2020.05.16-11.41.17:083][648]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2020.05.16-11.41.46:298][288]BlueprintLog: New page: Compile BP_fishPawn
+[2020.05.16-11.41.47:123][288]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2020.05.16-11.41.56:103][777]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2020.05.16-11.42.05:867][334]LogTemp: Repeating last play command: Simulate
+[2020.05.16-11.42.05:901][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.42.05:933][334]LogFMOD: Creating runtime Studio System
+[2020.05.16-11.42.05:939][334]LogFMOD: Default sample rate = 48000
+[2020.05.16-11.42.05:939][334]LogFMOD: System sample rate = 48000
+[2020.05.16-11.42.05:939][334]LogFMOD: Matching system sample rate 48000
+[2020.05.16-11.42.05:970][334]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-11.42.05:970][334]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-11.42.05:970][334]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-11.42.05:970][334]LogFMOD: Loading Banks
+[2020.05.16-11.42.06:013][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-11.42.06:013][334]PIE: New page: SIE session: Oligocene_Playable (May 16, 2020, 3:42:06 AM)
+[2020.05.16-11.42.06:015][334]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.16-11.42.06:016][334]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.16-11.42.06:017][334]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.16-11.42.06:766][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.749620s)
+[2020.05.16-11.42.06:771][334]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.16-11.42.06:772][334]LogPlayLevel: PIE: World Init took: (0.005033s)
+[2020.05.16-11.42.06:773][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable to /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable (0.756677s)
+[2020.05.16-11.42.06:870][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-11.42.06:876][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-11.42.06:876][334]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-11.42.06:876][334]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: Channel Order:
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-11.42.06:888][334]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-11.42.06:912][334]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.16-11.42.06:914][334]LogInit: FAudioDevice initialized.
+[2020.05.16-11.42.06:932][334]LogLoad: Game class is 'GameModeBase'
+[2020.05.16-11.42.07:028][334]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable up for play (max tick rate 60) at 2020.05.16-07.42.07
+[2020.05.16-11.42.07:124][334]LogWorld: Bringing up level for play took: 0.190692
+[2020.05.16-11.42.07:125][334]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.05.16-11.42.07:127][334]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.16-11.42.07:134][334]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.05.16-11.42.07:485][334]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable 1.433
+[2020.05.16-11.42.07:495][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.42.28:829][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.42.28:829][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.42.28:830][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.42.28:915][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-11.42.28:915][778]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.16-11.42.28:917][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.42.28:924][778]LogWorld: UWorld::CleanupWorld for Oligocene_Playable, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-11.42.28:942][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-11.42.28:960][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-11.42.28:961][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.42.28:975][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-11.42.29:066][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.42.29:071][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-11.42.29:170][778]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.05.16-11.42.29:201][779]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.16-11.42.37:219][246]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 208
+[2020.05.16-11.42.42:401][549]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2020.05.16-11.42.47:940][876]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2020.05.16-11.42.55:423][271]LogTemp: Repeating last play command: Simulate
+[2020.05.16-11.43.04:977][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.43.05:004][271]LogFMOD: Creating runtime Studio System
+[2020.05.16-11.43.05:009][271]LogFMOD: Default sample rate = 48000
+[2020.05.16-11.43.05:009][271]LogFMOD: System sample rate = 48000
+[2020.05.16-11.43.05:009][271]LogFMOD: Matching system sample rate 48000
+[2020.05.16-11.43.05:043][271]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.16-11.43.05:043][271]LogFMOD: Trying to load plugin file at location: ../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.16-11.43.05:043][271]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.16-11.43.05:043][271]LogFMOD: Loading Banks
+[2020.05.16-11.43.05:084][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-11.43.05:084][271]PIE: New page: SIE session: Oligocene_Playable (May 16, 2020, 3:43:05 AM)
+[2020.05.16-11.43.05:084][271]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.16-11.43.06:168][271]LogPlayLevel: PIE: StaticDuplicateObject took: (1.084257s)
+[2020.05.16-11.43.06:170][271]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.16-11.43.06:170][271]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2020.05.16-11.43.06:172][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable to /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable (1.087019s)
+[2020.05.16-11.43.06:245][271]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-11.43.06:252][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-11.43.06:252][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-11.43.06:253][271]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-11.43.06:253][271]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: Channel Order:
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-11.43.06:268][271]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-11.43.06:296][271]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.16-11.43.06:300][271]LogInit: FAudioDevice initialized.
+[2020.05.16-11.43.06:313][271]LogLoad: Game class is 'GameModeBase'
+[2020.05.16-11.43.06:442][271]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable up for play (max tick rate 60) at 2020.05.16-07.43.06
+[2020.05.16-11.43.06:449][271]LogWorld: Bringing up level for play took: 0.134711
+[2020.05.16-11.43.06:450][271]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.05.16-11.43.06:453][271]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.16-11.43.06:950][271]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable 2.897
+[2020.05.16-11.43.06:954][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.43.25:345][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2020.05.16-11.43.28:424][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.43.28:424][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.43.28:424][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.43.28:525][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-11.43.28:525][764]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.16-11.43.28:527][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.43.28:535][764]LogWorld: UWorld::CleanupWorld for Oligocene_Playable, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-11.43.28:554][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-11.43.28:582][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-11.43.28:583][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.16-11.43.28:597][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-11.43.28:658][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-11.43.28:663][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-11.43.28:754][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.05.16-11.43.28:795][765]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.05.16-11.43.42:184][338]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.16-11.43.42:481][345]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 168
+[2020.05.16-11.43.43:218][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 158
+[2020.05.16-11.43.43:645][383]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.16-11.43.45:002][426]LogEditorViewport: Clicking on Actor (LMB): bait_C (zait6)
+[2020.05.16-11.44.26:984][160]Cmd: TRANSACTION UNDO
+[2020.05.16-11.44.26:984][160]LogEditorTransaction: Undo Move Actors
+[2020.05.16-11.44.54:251][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.16-11.45.01:671][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 148
+[2020.05.16-11.45.03:212][763]Cmd: TRANSACTION UNDO
+[2020.05.16-11.45.03:212][763]LogEditorTransaction: Undo Move Actors
+[2020.05.16-11.45.21:147][266]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.45.36:203][477]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.45.41:556][535]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 138
+[2020.05.16-11.45.47:819][662]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 128
+[2020.05.16-11.45.52:465][749]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.46.25:455][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2020.05.16-11.46.29:265][763]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.46.37:095][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2020.05.16-11.46.44:755][184]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.46.58:941][575]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.47.03:855][693]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2020.05.16-11.47.13:217][964]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.47.27:438][429]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.16-11.47.36:796][711]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2020.05.16-11.47.42:844][891]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2020.05.16-11.47.44:814][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2020.05.16-11.48.14:604][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/crowdAnim_new/Blueprints/fishCrowd/fishSchool.fishSchool
+[2020.05.16-11.48.27:587][740]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.05.16-11.48.43:718][665]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.05.16-11.48.46:827][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2020.05.16-11.49.25:818][910]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.05.16-11.49.34:098][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.05.16-11.49.35:715][247]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.16-11.49.48:937][701]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.05.16-11.50.05:238][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.05.16-11.50.10:491][692]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.05.16-11.50.11:138][692]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.16-11.50.13:299][692]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.16-11.51.36:065][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/crowdAnim_new/Blueprints/fishCrowd/fishNet.fishNet
+[2020.05.16-11.51.36:427][220]LogRenderer: Reallocating scene render targets to support 1296x740 Format 26 NumSamples 1 (Frame:1).
+[2020.05.16-11.54.11:817][463]LogSlate: Took 0.008360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.16-11.55.02:265][468]BlueprintLog: New page: Compile fishSchool
+[2020.05.16-11.55.02:732][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.05.16-11.56.25:701][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.05.16-11.56.26:194][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.05.16-11.56.26:671][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine_C' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine:EventGraph.K2Node_Event_0' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine:EventGraph.K2Node_Event_1' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine:EventGraph.K2Node_Event_2' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:699][309]LogMetaData: Removing '/Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.SKEL_fishEngine_C' ref from Metadata '/Game/crowdAnim_new/Blueprints/fishCrowd/worker.PackageMetaData'
+[2020.05.16-11.56.26:853][309]LogSavePackage: Moving '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/fishEngine442D115545A275C999B559BE571DDC81.tmp' to '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/crowdAnim_new/Blueprints/fishCrowd/fishEngine.uasset'
+[2020.05.16-11.56.27:031][309]LogSavePackage: Moving '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Saved/worker33C020F147E47E00134DD3B05F4E87CB.tmp' to '../../../../../../Users/Fred Qiao/Desktop/560/fish_code_repo/Oligocene_Project/Content/crowdAnim_new/Blueprints/fishCrowd/worker.uasset'
+[2020.05.16-11.56.27:437][309]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.16-11.56.27:437][309]LogContentValidation: Display: Validating Blueprint /Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine
+[2020.05.16-11.56.27:437][309]LogContentValidation: Display: Validating ObjectRedirector /Game/crowdAnim_new/Blueprints/fishCrowd/worker.worker
+[2020.05.16-11.56.27:437][309]LogContentValidation: Display: Validating ObjectRedirector /Game/crowdAnim_new/Blueprints/fishCrowd/worker.worker_C
+[2020.05.16-11.56.37:373][836]Cmd: TRANSACTION UNDO
+[2020.05.16-11.56.37:373][836]LogEditorTransaction: Undo Move Nodes
+[2020.05.16-11.56.42:026][ 94]Cmd: TRANSACTION REDO
+[2020.05.16-11.56.42:026][ 94]LogEditorTransaction: Redo Move Nodes
+[2020.05.16-11.56.47:768][415]BlueprintLog: New page: Compile fishSchool
+[2020.05.16-11.56.48:215][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.05.16-11.56.51:236][593]BlueprintLog: New page: Compile BP_fishPawn
+[2020.05.16-11.56.51:700][593]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.05.16-11.57.08:211][532]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/crowdAnim_new/Blueprints/fishCrowd/fishEngine.fishEngine
+[2020.05.16-11.58.31:483][454]BlueprintLog: New page: Compile fishSchool
+[2020.05.16-11.58.31:503][454]LogBlueprint: Error: [Compiler fishSchool] The property associated with  Worker Fish Net  could not be found in '/Game/crowdAnim_new/Blueprints/fishCrowd/fishSchool.fishSchool_C'
+[2020.05.16-11.58.31:942][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.05.16-11.58.51:555][618]BlueprintLog: New page: Compile fishSchool
+[2020.05.16-11.58.51:576][618]LogBlueprint: Error: [Compiler fishSchool] The property associated with  Worker Fish Net  could not be found in '/Game/crowdAnim_new/Blueprints/fishCrowd/fishSchool.fishSchool_C'
+[2020.05.16-11.58.51:998][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.05.16-11.59.02:116][219]BlueprintLog: New page: Compile fishEngine
+[2020.05.16-11.59.02:542][219]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.05.16-11.59.05:724][405]BlueprintLog: New page: Compile fishSchool
+[2020.05.16-11.59.06:174][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.05.16-11.59.11:059][691]BlueprintLog: New page: Compile fishNet
+[2020.05.16-11.59.11:479][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.05.16-11.59.54:821][219]Cmd: TRANSACTION UNDO
+[2020.05.16-11.59.54:821][219]LogEditorTransaction: Undo Add New Function
+[2020.05.16-12.00.11:707][206]BlueprintLog: New page: Compile fishEngine
+[2020.05.16-12.00.12:152][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.05.16-12.00.28:062][153]LogUObjectArray: Warning: Other object in slot
+[2020.05.16-12.00.28:064][153]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.16-12.00.28:631][153]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.566 s
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: 
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: Stack: 
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb90387b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb8fb9678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb8fba409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb8d86c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb8c4a977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb8c461647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb9a8db144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb9aacdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb9a9260b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb9a9046f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffb9a8f8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffbc4b14ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffbc4b0242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffbc4b17195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffbc4afec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffc3f565c0d USER32.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffc3f565602 USER32.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffbc4b18699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ff652946db0 UE4Editor.exe!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ff65295c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ff65295c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ff65296ceae UE4Editor.exe!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ff65296fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffc3e727bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: [Callstack] 0x00007ffc406cce51 ntdll.dll!UnknownFunction []
+[2020.05.16-12.00.28:631][153]LogOutputDevice: Error: 
+[2020.05.16-12.00.28:643][153]LogStats:                SubmitErrorReport -  0.000 s
