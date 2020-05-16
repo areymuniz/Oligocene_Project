@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{bb0cf327-5b1b-4252-80b4-d90bfe1582ce}">
+		<property name="assetPath">
+			<value>Tunnel_SFX/Conveyer/Oligocene_Conveyor_Start.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.038684807256236</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
+		</relationship>
+	</object>
+</objects>
