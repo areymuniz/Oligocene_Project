@@ -7607,3 +7607,681 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-10.47.58:400][ 98]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_02/ueopbdgga_2K_Displacement.ueopbdgga_2K_Displacement
 [2020.05.17-10.47.58:400][ 98]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_02/ueopbdgga_2K_Albedo.ueopbdgga_2K_Albedo
 [2020.05.17-10.47.58:400][ 98]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Thai_Beach_Rocks_02/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.48:496][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.49.49:233][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_2K_Roughness.jpg)
+[2020.05.17-10.49.49:300][497]LogTexture: Display: Building textures: ueopbdgga_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.49.49:461][497]LogTexture: Display: Building textures: ueopbdgga_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.49.50:334][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_2K_Normal_LOD0.jpg)
+[2020.05.17-10.49.50:532][497]LogTexture: Display: Building textures: ueopbdgga_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.49.50:739][497]LogTexture: Display: Building textures: ueopbdgga_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.49.51:199][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_2K_Displacement.jpg)
+[2020.05.17-10.49.51:253][497]LogTexture: Display: Building textures: ueopbdgga_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.49.51:367][497]LogTexture: Display: Building textures: ueopbdgga_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.49.52:230][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_2K_Albedo.jpg)
+[2020.05.17-10.49.52:353][497]LogTexture: Display: Building textures: ueopbdgga_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.49.52:677][497]LogTexture: Display: Building textures: ueopbdgga_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.49.53:527][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD0.fbx)
+[2020.05.17-10.49.53:539][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD0.fbx
+[2020.05.17-10.49.53:551][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.53:641][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.53:777][497]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.53:823][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.54:039][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.49.54:063][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD5.fbx
+[2020.05.17-10.49.54:069][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.54:085][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.54:227][497]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.54:276][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.54:276][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.49.54:456][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD4.fbx
+[2020.05.17-10.49.54:462][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.54:503][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.54:666][497]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.54:774][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.54:774][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.49.54:992][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD3.fbx
+[2020.05.17-10.49.54:999][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.55:086][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.55:300][497]LogStaticMesh: Built static mesh [0.21s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.55:383][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.55:383][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.49.55:573][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD2.fbx
+[2020.05.17-10.49.55:582][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.55:670][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.55:953][497]LogStaticMesh: Built static mesh [0.28s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.56:045][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.56:045][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.49.56:247][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_ueopbdgga\ueopbdgga_LOD1.fbx
+[2020.05.17-10.49.56:256][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.49.56:371][497]LogStaticMesh: Building static mesh ueopbdgga_LOD0...
+[2020.05.17-10.49.56:744][497]LogStaticMesh: Built static mesh [0.37s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.49.56:819][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.49.56:909][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.49.57:756][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_2K_Roughness.jpg)
+[2020.05.17-10.49.57:836][497]LogTexture: Display: Building textures: sjnbp_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.49.58:007][497]LogTexture: Display: Building textures: sjnbp_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.49.58:910][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_2K_Normal_LOD0.jpg)
+[2020.05.17-10.49.59:090][497]LogTexture: Display: Building textures: sjnbp_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.49.59:291][497]LogTexture: Display: Building textures: sjnbp_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.49.59:752][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_2K_Displacement.jpg)
+[2020.05.17-10.49.59:813][497]LogTexture: Display: Building textures: sjnbp_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.49.59:928][497]LogTexture: Display: Building textures: sjnbp_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.00:800][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_2K_Albedo.jpg)
+[2020.05.17-10.50.00:919][497]LogTexture: Display: Building textures: sjnbp_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.01:235][497]LogTexture: Display: Building textures: sjnbp_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.02:119][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD0.fbx)
+[2020.05.17-10.50.02:133][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD0.fbx
+[2020.05.17-10.50.02:157][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.02:287][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.02:488][497]LogStaticMesh: Built static mesh [0.20s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.02:551][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.02:792][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.02:881][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD5.fbx
+[2020.05.17-10.50.02:886][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.02:902][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.03:107][497]LogStaticMesh: Built static mesh [0.21s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.03:176][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.03:176][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.03:355][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD4.fbx
+[2020.05.17-10.50.03:362][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.03:419][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.03:644][497]LogStaticMesh: Built static mesh [0.22s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.03:758][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.03:758][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.03:965][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD3.fbx
+[2020.05.17-10.50.03:976][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.04:070][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.04:366][497]LogStaticMesh: Built static mesh [0.30s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.04:470][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.04:470][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.04:659][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD2.fbx
+[2020.05.17-10.50.04:674][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.04:786][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.05:189][497]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.05:288][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.05:289][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.05:479][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_sjnbp\sjnbp_LOD1.fbx
+[2020.05.17-10.50.05:497][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.05:637][497]LogStaticMesh: Building static mesh sjnbp_LOD0...
+[2020.05.17-10.50.06:183][497]LogStaticMesh: Built static mesh [0.55s] /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.50.06:293][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.06:428][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.07:251][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_2K_Roughness.jpg)
+[2020.05.17-10.50.07:330][497]LogTexture: Display: Building textures: siExJ_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.07:514][497]LogTexture: Display: Building textures: siExJ_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.08:415][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.08:605][497]LogTexture: Display: Building textures: siExJ_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.08:830][497]LogTexture: Display: Building textures: siExJ_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.09:326][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_2K_Displacement.jpg)
+[2020.05.17-10.50.09:391][497]LogTexture: Display: Building textures: siExJ_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.09:557][497]LogTexture: Display: Building textures: siExJ_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.10:432][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_2K_Albedo.jpg)
+[2020.05.17-10.50.10:556][497]LogTexture: Display: Building textures: siExJ_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.10:891][497]LogTexture: Display: Building textures: siExJ_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.11:762][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD0.fbx)
+[2020.05.17-10.50.11:777][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD0.fbx
+[2020.05.17-10.50.11:806][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.11:973][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.12:253][497]LogStaticMesh: Built static mesh [0.28s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.12:347][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.12:619][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.12:671][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD5.fbx
+[2020.05.17-10.50.12:676][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.12:703][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.12:973][497]LogStaticMesh: Built static mesh [0.27s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.13:058][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.13:059][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.13:225][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD4.fbx
+[2020.05.17-10.50.13:232][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.13:286][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.13:576][497]LogStaticMesh: Built static mesh [0.29s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.13:689][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.13:689][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.13:942][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD3.fbx
+[2020.05.17-10.50.13:956][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.14:071][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.14:468][497]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.14:590][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.14:590][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.14:779][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD2.fbx
+[2020.05.17-10.50.14:798][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.14:938][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.15:471][497]LogStaticMesh: Built static mesh [0.53s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.15:598][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.15:598][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.15:855][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_cliffs_siExJ\siExJ_LOD1.fbx
+[2020.05.17-10.50.15:876][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.16:041][497]LogStaticMesh: Building static mesh siExJ_LOD0...
+[2020.05.17-10.50.16:745][497]LogStaticMesh: Built static mesh [0.70s] /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.50.16:861][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.17:026][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.17:851][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_2K_Roughness.jpg)
+[2020.05.17-10.50.17:928][497]LogTexture: Display: Building textures: td0fefoda_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.18:128][497]LogTexture: Display: Building textures: td0fefoda_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.19:023][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.19:214][497]LogTexture: Display: Building textures: td0fefoda_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.19:425][497]LogTexture: Display: Building textures: td0fefoda_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.19:870][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_2K_Displacement.jpg)
+[2020.05.17-10.50.19:925][497]LogTexture: Display: Building textures: td0fefoda_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.20:050][497]LogTexture: Display: Building textures: td0fefoda_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.20:947][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_2K_Albedo.jpg)
+[2020.05.17-10.50.21:090][497]LogTexture: Display: Building textures: td0fefoda_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.21:425][497]LogTexture: Display: Building textures: td0fefoda_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.22:294][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD0.fbx)
+[2020.05.17-10.50.22:307][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD0.fbx
+[2020.05.17-10.50.22:326][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.22:426][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.22:575][497]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.22:622][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.22:819][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.22:876][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD5.fbx
+[2020.05.17-10.50.22:882][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.22:904][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.23:059][497]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.23:112][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.23:112][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.23:274][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD4.fbx
+[2020.05.17-10.50.23:281][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.23:335][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.23:508][497]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.23:626][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.23:626][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.23:923][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD3.fbx
+[2020.05.17-10.50.23:933][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.24:020][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.24:247][497]LogStaticMesh: Built static mesh [0.23s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.24:323][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.24:324][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.24:574][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD2.fbx
+[2020.05.17-10.50.24:587][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.24:693][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.25:004][497]LogStaticMesh: Built static mesh [0.31s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.25:089][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.25:090][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.25:281][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\assembly_rock_td0fefoda\td0fefoda_LOD1.fbx
+[2020.05.17-10.50.25:296][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.25:404][497]LogStaticMesh: Building static mesh td0fefoda_LOD0...
+[2020.05.17-10.50.25:806][497]LogStaticMesh: Built static mesh [0.40s] /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.50.25:889][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.25:986][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.26:829][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_2K_Roughness.jpg)
+[2020.05.17-10.50.26:898][497]LogTexture: Display: Building textures: udxkfcefa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.27:041][497]LogTexture: Display: Building textures: udxkfcefa_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.27:964][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.28:179][497]LogTexture: Display: Building textures: udxkfcefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.28:391][497]LogTexture: Display: Building textures: udxkfcefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.28:842][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_2K_Displacement.jpg)
+[2020.05.17-10.50.28:900][497]LogTexture: Display: Building textures: udxkfcefa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.29:033][497]LogTexture: Display: Building textures: udxkfcefa_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.29:891][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_2K_Albedo.jpg)
+[2020.05.17-10.50.29:995][497]LogTexture: Display: Building textures: udxkfcefa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.30:275][497]LogTexture: Display: Building textures: udxkfcefa_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.31:145][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD0.fbx)
+[2020.05.17-10.50.31:158][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD0.fbx
+[2020.05.17-10.50.31:170][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.31:270][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.31:426][497]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.31:479][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.31:671][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.31:727][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD5.fbx
+[2020.05.17-10.50.31:732][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.31:754][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.31:915][497]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.31:970][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.31:971][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.32:157][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD4.fbx
+[2020.05.17-10.50.32:163][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.32:221][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.32:402][497]LogStaticMesh: Built static mesh [0.18s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.32:516][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.32:516][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.32:734][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD3.fbx
+[2020.05.17-10.50.32:742][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.32:822][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.33:066][497]LogStaticMesh: Built static mesh [0.24s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.33:145][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.33:145][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.33:330][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD2.fbx
+[2020.05.17-10.50.33:340][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.33:445][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.33:769][497]LogStaticMesh: Built static mesh [0.32s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.33:860][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.33:861][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.34:112][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxkfcefa\udxkfcefa_LOD1.fbx
+[2020.05.17-10.50.34:122][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.34:239][497]LogStaticMesh: Building static mesh udxkfcefa_LOD0...
+[2020.05.17-10.50.34:672][497]LogStaticMesh: Built static mesh [0.43s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.50.34:763][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.34:869][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.35:727][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_2K_Roughness.jpg)
+[2020.05.17-10.50.35:794][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.35:975][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.36:862][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.37:019][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.37:226][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.37:677][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_2K_Displacement.jpg)
+[2020.05.17-10.50.37:726][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.37:862][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.38:737][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_2K_Albedo.jpg)
+[2020.05.17-10.50.38:870][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.39:162][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbpeq_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.40:027][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD0.fbx)
+[2020.05.17-10.50.40:040][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD0.fbx
+[2020.05.17-10.50.40:049][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.40:089][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.40:142][497]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.40:158][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.40:225][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.40:271][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD5.fbx
+[2020.05.17-10.50.40:276][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.40:290][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.40:344][497]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.40:368][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.40:369][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.40:558][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD4.fbx
+[2020.05.17-10.50.40:563][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.40:622][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.40:680][497]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.40:763][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.40:763][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.41:028][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD3.fbx
+[2020.05.17-10.50.41:033][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.41:092][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.41:155][497]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.41:250][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.41:250][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.41:477][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD2.fbx
+[2020.05.17-10.50.41:483][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.41:540][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.41:618][497]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.41:693][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.41:693][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.41:909][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_rough_pbpeq\Aset_rock_coffeerock_S_pbpeq_LOD1.fbx
+[2020.05.17-10.50.41:916][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.41:972][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbpeq_LOD0...
+[2020.05.17-10.50.42:074][497]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.50.42:160][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.42:193][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.43:053][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_2K_Roughness.jpg)
+[2020.05.17-10.50.43:116][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.43:291][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.44:190][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.44:342][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.44:545][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.45:004][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_2K_Displacement.jpg)
+[2020.05.17-10.50.45:053][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.45:225][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.46:116][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_2K_Albedo.jpg)
+[2020.05.17-10.50.46:246][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.46:526][497]LogTexture: Display: Building textures: Aset_rock_coffeerock_M_phxu1_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.47:416][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD0.fbx)
+[2020.05.17-10.50.47:433][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD0.fbx
+[2020.05.17-10.50.47:443][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.47:488][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.47:550][497]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.47:570][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.47:651][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.47:717][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD5.fbx
+[2020.05.17-10.50.47:722][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.47:741][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.47:804][497]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.47:831][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.47:832][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.47:992][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD4.fbx
+[2020.05.17-10.50.47:998][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.48:055][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.48:121][497]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.48:210][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.48:210][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.48:443][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD3.fbx
+[2020.05.17-10.50.48:449][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.48:505][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.48:580][497]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.48:660][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.48:660][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.48:859][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD2.fbx
+[2020.05.17-10.50.48:865][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.48:923][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.49:011][497]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.49:094][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.49:094][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.49:343][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_phxu1\Aset_rock_coffeerock_M_phxu1_LOD1.fbx
+[2020.05.17-10.50.49:351][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.49:422][497]LogStaticMesh: Building static mesh Aset_rock_coffeerock_M_phxu1_LOD0...
+[2020.05.17-10.50.49:540][497]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.50.49:595][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.49:634][497]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.50.50:493][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_2K_Roughness.jpg)
+[2020.05.17-10.50.50:560][497]LogTexture: Display: Building textures: udxmahefa_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.50.50:712][497]LogTexture: Display: Building textures: udxmahefa_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.50.51:629][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_2K_Normal_LOD0.jpg)
+[2020.05.17-10.50.51:833][497]LogTexture: Display: Building textures: udxmahefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.52:044][497]LogTexture: Display: Building textures: udxmahefa_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.50.52:506][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_2K_Displacement.jpg)
+[2020.05.17-10.50.52:562][497]LogTexture: Display: Building textures: udxmahefa_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.50.52:685][497]LogTexture: Display: Building textures: udxmahefa_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.50.53:587][497]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_2K_Albedo.jpg)
+[2020.05.17-10.50.53:703][497]LogTexture: Display: Building textures: udxmahefa_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.50.54:011][497]LogTexture: Display: Building textures: udxmahefa_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.50.54:902][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD0.fbx)
+[2020.05.17-10.50.54:914][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD0.fbx
+[2020.05.17-10.50.54:926][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.55:014][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.55:150][497]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.55:193][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.55:373][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.55:432][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD5.fbx
+[2020.05.17-10.50.55:437][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.55:456][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.55:595][497]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.55:644][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.55:644][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.55:826][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD4.fbx
+[2020.05.17-10.50.55:832][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.55:889][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.56:047][497]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.56:160][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.56:161][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.56:418][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD3.fbx
+[2020.05.17-10.50.56:425][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.56:506][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.56:714][497]LogStaticMesh: Built static mesh [0.21s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.56:789][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.56:789][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.56:977][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD2.fbx
+[2020.05.17-10.50.56:986][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.57:090][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.57:374][497]LogStaticMesh: Built static mesh [0.28s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.57:456][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.50.57:456][497]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.50.57:690][497]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_assembly_udxmahefa\udxmahefa_LOD1.fbx
+[2020.05.17-10.50.57:700][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.50.57:807][497]LogStaticMesh: Building static mesh udxmahefa_LOD0...
+[2020.05.17-10.50.58:181][497]LogStaticMesh: Built static mesh [0.37s] /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.50.58:263][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.21:120][643]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-10.51.21:124][643]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-10.51.29:329][ 50]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.51.30:103][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_2K_Roughness.jpg)
+[2020.05.17-10.51.30:175][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.51.30:363][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.51.31:252][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0.jpg)
+[2020.05.17-10.51.31:425][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.31:630][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.32:089][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_2K_Displacement.jpg)
+[2020.05.17-10.51.32:142][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.51.32:327][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.51.33:215][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_2K_Albedo.jpg)
+[2020.05.17-10.51.33:357][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.51.33:665][ 50]LogTexture: Display: Building textures: Aset_rock_coffeerock_S_pbbaG_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.51.34:570][ 50]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD0.fbx)
+[2020.05.17-10.51.34:581][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD0.fbx
+[2020.05.17-10.51.34:592][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.34:660][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.34:728][ 50]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.34:750][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.35:401][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.17-10.51.35:957][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.36:005][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD5.fbx
+[2020.05.17-10.51.36:010][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.36:025][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.36:093][ 50]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.36:120][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.36:120][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.36:294][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD4.fbx
+[2020.05.17-10.51.36:300][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.36:357][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.36:429][ 50]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.36:512][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.36:512][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.36:779][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD3.fbx
+[2020.05.17-10.51.36:784][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.36:841][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.36:922][ 50]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.36:996][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.36:997][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.37:195][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD2.fbx
+[2020.05.17-10.51.37:202][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.37:259][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.37:355][ 50]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.37:430][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.37:430][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.37:647][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_coffeerock_pbbaG\Aset_rock_coffeerock_S_pbbaG_LOD1.fbx
+[2020.05.17-10.51.37:654][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.37:725][ 50]LogStaticMesh: Building static mesh Aset_rock_coffeerock_S_pbbaG_LOD0...
+[2020.05.17-10.51.37:853][ 50]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.51.37:947][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.37:990][ 50]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.51.38:835][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_2K_Roughness.jpg)
+[2020.05.17-10.51.38:906][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.51.39:063][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.51.39:982][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_2K_Normal_LOD0.jpg)
+[2020.05.17-10.51.40:125][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.40:312][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.40:800][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_2K_Displacement.jpg)
+[2020.05.17-10.51.40:847][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.51.41:013][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.51.41:873][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_2K_Albedo.jpg)
+[2020.05.17-10.51.41:967][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.51.42:214][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_ohlx3_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.51.43:075][ 50]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD0.fbx)
+[2020.05.17-10.51.43:088][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD0.fbx
+[2020.05.17-10.51.43:099][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.43:150][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.43:223][ 50]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.43:245][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.43:342][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.43:397][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD5.fbx
+[2020.05.17-10.51.43:402][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.43:425][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.43:496][ 50]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.43:529][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.43:529][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.43:696][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD4.fbx
+[2020.05.17-10.51.43:701][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.43:759][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.43:836][ 50]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.43:930][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.43:931][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.44:197][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD3.fbx
+[2020.05.17-10.51.44:203][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.44:259][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.44:342][ 50]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.44:431][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.44:431][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.44:630][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD2.fbx
+[2020.05.17-10.51.44:636][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.44:693][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.44:794][ 50]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.44:885][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.44:885][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.45:115][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_ohlx3\Aset_rock_granite_M_ohlx3_LOD1.fbx
+[2020.05.17-10.51.45:123][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.45:193][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_ohlx3_LOD0...
+[2020.05.17-10.51.45:332][ 50]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.51.45:385][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.45:428][ 50]MSLiveLinkLog: Successfully read asset json data
+[2020.05.17-10.51.46:283][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_2K_Roughness.jpg)
+[2020.05.17-10.51.46:345][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Roughness (AutoDXT, 2048X2048)
+[2020.05.17-10.51.46:497][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Roughness (BC7, 2048X2048)
+[2020.05.17-10.51.48:086][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_2K_Normal_LOD0.jpg)
+[2020.05.17-10.51.48:220][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.48:430][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Normal_LOD0 (BC5, 2048X2048)
+[2020.05.17-10.51.48:892][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_2K_Displacement.jpg)
+[2020.05.17-10.51.48:937][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Displacement (AutoDXT, 2048X2048)
+[2020.05.17-10.51.49:062][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Displacement (BC7, 2048X2048)
+[2020.05.17-10.51.49:929][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_2K_Albedo.jpg)
+[2020.05.17-10.51.50:020][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Albedo (AutoDXT, 2048X2048)
+[2020.05.17-10.51.50:265][ 50]LogTexture: Display: Building textures: Aset_rock_granite_M_oheuu_2K_Albedo (BC7, 2048X2048)
+[2020.05.17-10.51.51:158][ 50]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD0.fbx)
+[2020.05.17-10.51.51:171][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD0.fbx
+[2020.05.17-10.51.51:181][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.51:221][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.51:279][ 50]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.51:295][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.51:363][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.51:425][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD5.fbx
+[2020.05.17-10.51.51:430][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.51:444][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.51:497][ 50]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.51:523][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.51:524][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.51:714][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD4.fbx
+[2020.05.17-10.51.51:719][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.51:779][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.51:835][ 50]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.51:917][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.51:917][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.52:147][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD3.fbx
+[2020.05.17-10.51.52:153][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.52:209][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.52:271][ 50]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.52:331][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.52:331][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.52:580][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD2.fbx
+[2020.05.17-10.51.52:586][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.52:643][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.52:719][ 50]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.52:797][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.52:798][ 50]LogExportMeshUtils: Fbx LOD loading
+[2020.05.17-10.51.53:014][ 50]LogFbx: Loading FBX Scene from D:\Megascans\Downloaded\3d\rock_granite_oheuu\Aset_rock_granite_M_oheuu_LOD1.fbx
+[2020.05.17-10.51.53:021][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-10.51.53:092][ 50]LogStaticMesh: Building static mesh Aset_rock_granite_M_oheuu_LOD0...
+[2020.05.17-10.51.53:194][ 50]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
+[2020.05.17-10.51.53:282][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.17-10.51.55:954][152]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-10.51.55:960][152]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-10.51.59:091][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.17-10.52.02:557][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Thai_Beach_Rocks_03_instE98CD4064B2EC0A6EADFA99B92CDEF55.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/Thai_Beach_Rocks_03_inst.uasset'
+[2020.05.17-10.52.03:640][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/ueopbdgga_2K_RoughnessBFA61A4D4CC7DD54AFD47F99777B61EE.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Roughness.uasset'
+[2020.05.17-10.52.05:491][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/ueopbdgga_2K_Normal_LOD00FF1B38E4C938D63CF9DA9A84BDDE6A9.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.07:401][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/ueopbdgga_2K_DisplacementC353279E4DBB5BCE24511FABC47FA59F.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Displacement.uasset'
+[2020.05.17-10.52.09:095][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/ueopbdgga_2K_AlbedoF2725E3C408C23C2D7939BA1550D8510.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Albedo.uasset'
+[2020.05.17-10.52.10:828][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/ueopbdgga_LOD00360FAF743A361E5DC56518E00795381.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.uasset'
+[2020.05.17-10.52.11:740][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Huge_Icelandic_Lava_Cliff_02_insDF321BA64BCF319CB2AEC9AC48D23C98.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/Huge_Icelandic_Lava_Cliff_02_inst.uasset'
+[2020.05.17-10.52.12:758][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/sjnbp_2K_Roughness5AA0189048B97DCC4F18B99A9E46FEF8.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Roughness.uasset'
+[2020.05.17-10.52.14:555][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/sjnbp_2K_Normal_LOD0D5BA04904F63C870713FA6A8705BD22E.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.16:630][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/sjnbp_2K_DisplacementB87F9DC0409E2FF8E4BF41B79A535216.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Displacement.uasset'
+[2020.05.17-10.52.18:132][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/sjnbp_2K_Albedo93CBB44D4A51ED208247CAB114FB6D88.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Albedo.uasset'
+[2020.05.17-10.52.20:075][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/sjnbp_LOD0DF81AA4B48FF6A2976CCA9A2A79050E6.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.uasset'
+[2020.05.17-10.52.21:391][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Icelandic_Lava_Spire_01_inst9E5DC14743E299646A18098D1CC88DB7.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/Icelandic_Lava_Spire_01_inst.uasset'
+[2020.05.17-10.52.22:516][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/siExJ_2K_Roughness1C5FA2E143A4D7013A317CAF69088AFF.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Roughness.uasset'
+[2020.05.17-10.52.24:407][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/siExJ_2K_Normal_LOD0CBDEB0644F609AECEF5FD2B06CC5EE90.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.26:485][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/siExJ_2K_Displacement5B74C64544E317105DEB6284EC0965C3.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Displacement.uasset'
+[2020.05.17-10.52.28:040][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/siExJ_2K_Albedo589A27DD43632FC02F327B926FDAD3F8.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Albedo.uasset'
+[2020.05.17-10.52.30:302][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/siExJ_LOD091B722054DAC7F6A1CF028BA3AD1D13C.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.uasset'
+[2020.05.17-10.52.31:512][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Icelandic_Rock_Assembly_07_inst10532863492C85AF316D94BA88616B9C.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/Icelandic_Rock_Assembly_07_inst.uasset'
+[2020.05.17-10.52.32:652][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/td0fefoda_2K_Roughness8411D85F49A2715670A2BDADD836E68A.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Roughness.uasset'
+[2020.05.17-10.52.34:495][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/td0fefoda_2K_Normal_LOD010C7434644252ECB5437B6B30AE62057.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.36:455][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/td0fefoda_2K_DisplacementF5BE524D441F1435FB04CE8EFBEE072B.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Displacement.uasset'
+[2020.05.17-10.52.38:205][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/td0fefoda_2K_AlbedoDA7483F04936EB24263266BD09EAE12F.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Albedo.uasset'
+[2020.05.17-10.52.40:199][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/td0fefoda_LOD0A767EDA14060977CABF3D48EE43B8438.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.uasset'
+[2020.05.17-10.52.41:261][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Thai_Beach_Rocks_04_inst8C9345B04B4D635D2408EAADC3B13368.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/Thai_Beach_Rocks_04_inst.uasset'
+[2020.05.17-10.52.42:308][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxkfcefa_2K_Roughness78D216704302B39ABAE841B8E7C11934.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Roughness.uasset'
+[2020.05.17-10.52.44:158][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxkfcefa_2K_Normal_LOD068F527ED4FFB8124EA47F7AFB2822708.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.46:715][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxkfcefa_2K_Displacement1CA84F244C8A84589C86629F57EF13F4.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Displacement.uasset'
+[2020.05.17-10.52.48:361][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxkfcefa_2K_Albedo2413E46241F5C47C4041CAA8CDAE00AB.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Albedo.uasset'
+[2020.05.17-10.52.50:147][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxkfcefa_LOD0175718DB47840FB5EDC57A840418089F.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.uasset'
+[2020.05.17-10.52.51:157][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Coffee_Rock_00_inst83D80481438D9B0A3CEAC6BB9B5A91C6.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Coffee_Rock_00_inst.uasset'
+[2020.05.17-10.52.52:225][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbpeq_2K_AD13BEC24FC3CE5010ACB786F09DE1E0.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Roughness.uasset'
+[2020.05.17-10.52.53:937][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbpeq_2K_7CCB08F14AA12CB99F71A9AE8CD4BE6B.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0.uasset'
+[2020.05.17-10.52.55:705][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbpeq_2K_312DF3204041600084A86CA9124477EC.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Displacement.uasset'
+[2020.05.17-10.52.57:160][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbpeq_2K_6B1ED8C6407B36E11535AEA5E433CE31.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Albedo.uasset'
+[2020.05.17-10.52.58:996][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbpeq_LOD4AE927284AE94A660DCB7BB9412E5F54.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.uasset'
+[2020.05.17-10.52.59:760][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Coffee_Rock_01_instD234E2AF47287E6B8B62B08E0B791383.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Coffee_Rock_01_inst.uasset'
+[2020.05.17-10.53.00:736][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_M_phxu1_2K_98604B944627598C48691791D77D30F7.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Roughness.uasset'
+[2020.05.17-10.53.02:511][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_M_phxu1_2K_9A5448424E65BFFB0D0E13AB5C7E06BE.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0.uasset'
+[2020.05.17-10.53.04:320][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_M_phxu1_2K_EE3F29EE4AAC9BA227C83EBFF84B1A33.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Displacement.uasset'
+[2020.05.17-10.53.05:825][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_M_phxu1_2K_0363D6BD4F01136CD06C15B1908A19C9.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Albedo.uasset'
+[2020.05.17-10.53.07:462][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_M_phxu1_LODA9D9F4054B1D264BC5A2BB94927AEFBE.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.uasset'
+[2020.05.17-10.53.08:217][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Thai_Beach_Rocks_05_inst40B0CE1C405B5E61878B1195D094612B.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/Thai_Beach_Rocks_05_inst.uasset'
+[2020.05.17-10.53.09:247][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxmahefa_2K_Roughness3BDEC27E49F61813B3C65783BE8B7202.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Roughness.uasset'
+[2020.05.17-10.53.11:095][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxmahefa_2K_Normal_LOD0100D94AE4997526E425D95B6D6560F1B.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Normal_LOD0.uasset'
+[2020.05.17-10.53.13:175][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxmahefa_2K_DisplacementCFB4F8504DB18375785BFEA4DCCEED73.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Displacement.uasset'
+[2020.05.17-10.53.14:659][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxmahefa_2K_Albedo8284BC7544B18C45E11426B41A48065C.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Albedo.uasset'
+[2020.05.17-10.53.16:802][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/udxmahefa_LOD07214A8F647C62A3C44F6C4A24DD9C509.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.uasset'
+[2020.05.17-10.53.17:734][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Coffee_Rock_02_inst9520B53E4B7556A9E69852BE41D17F02.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Coffee_Rock_02_inst.uasset'
+[2020.05.17-10.53.18:747][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbbaG_2K_1A92A2934AF49BCF6670DAB0A30343E3.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Roughness.uasset'
+[2020.05.17-10.53.20:599][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbbaG_2K_A3517D014F4E673A3C18BBA4EA7D1AC0.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0.uasset'
+[2020.05.17-10.53.22:550][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbbaG_2K_8560FD4D4B4AECCC346FDBA9519D65FD.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Displacement.uasset'
+[2020.05.17-10.53.24:092][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbbaG_2K_5CB363C144C0C95C840C6D8E6264B781.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Albedo.uasset'
+[2020.05.17-10.53.26:016][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_coffeerock_S_pbbaG_LOD13F48066427E858EA6E77DBC5CFCCF22.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.uasset'
+[2020.05.17-10.53.26:829][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Granite_Rock_00_instDA3C2160484D3D7B7B131E8F205CA0D5.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Granite_Rock_00_inst.uasset'
+[2020.05.17-10.53.27:800][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_ohlx3_2K_Rou625C586E42E9A77BE40E02B3803464AE.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Roughness.uasset'
+[2020.05.17-10.53.29:293][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_ohlx3_2K_Nor904D596D435060D6D1720590034B4EAF.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Normal_LOD0.uasset'
+[2020.05.17-10.53.30:936][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_ohlx3_2K_DisA4B694DD4C17F4AB3D1466A10631E362.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Displacement.uasset'
+[2020.05.17-10.53.32:320][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_ohlx3_2K_Alb365348C34A1A6EE497D3AEB322039E25.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Albedo.uasset'
+[2020.05.17-10.53.33:777][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_ohlx3_LOD045EC2EB94F5B1490E4D00190522BB96D.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.uasset'
+[2020.05.17-10.53.34:567][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Granite_Rocks_00_instA50E3BD049388E7649CB7C8FF8D48D52.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Granite_Rocks_00_inst.uasset'
+[2020.05.17-10.53.35:540][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_oheuu_2K_Rou1587ED904E8371A66C6986BA30F054F6.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Roughness.uasset'
+[2020.05.17-10.53.37:026][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_oheuu_2K_Nor5675B59C49DE817F23B1E18826449473.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Normal_LOD0.uasset'
+[2020.05.17-10.53.38:894][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_oheuu_2K_DisF7A6C57445881EB008A8FDA21E4FD624.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Displacement.uasset'
+[2020.05.17-10.53.40:124][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_oheuu_2K_AlbF8D2EF244BA10D72EE43EEAD558BBFE7.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Albedo.uasset'
+[2020.05.17-10.53.41:679][429]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Aset_rock_granite_M_oheuu_LOD0008747994E829B0AD8F2548F6F0535AA.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.uasset'
+[2020.05.17-10.53.42:740][429]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/Thai_Beach_Rocks_03_inst.Thai_Beach_Rocks_03_inst
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Roughness.ueopbdgga_2K_Roughness
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Normal_LOD0.ueopbdgga_2K_Normal_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Displacement.ueopbdgga_2K_Displacement
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_2K_Albedo.ueopbdgga_2K_Albedo
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Thai_Beach_Rocks_03/ueopbdgga_LOD0.ueopbdgga_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/Huge_Icelandic_Lava_Cliff_02_inst.Huge_Icelandic_Lava_Cliff_02_inst
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Roughness.sjnbp_2K_Roughness
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Normal_LOD0.sjnbp_2K_Normal_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Displacement.sjnbp_2K_Displacement
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_2K_Albedo.sjnbp_2K_Albedo
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_02/sjnbp_LOD0.sjnbp_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/Icelandic_Lava_Spire_01_inst.Icelandic_Lava_Spire_01_inst
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Roughness.siExJ_2K_Roughness
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Normal_LOD0.siExJ_2K_Normal_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Displacement.siExJ_2K_Displacement
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_2K_Albedo.siExJ_2K_Albedo
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Icelandic_Lava_Spire_01/siExJ_LOD0.siExJ_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/Icelandic_Rock_Assembly_07_inst.Icelandic_Rock_Assembly_07_inst
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Roughness.td0fefoda_2K_Roughness
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Normal_LOD0.td0fefoda_2K_Normal_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Displacement.td0fefoda_2K_Displacement
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_2K_Albedo.td0fefoda_2K_Albedo
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Icelandic_Rock_Assembly_07/td0fefoda_LOD0.td0fefoda_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/Thai_Beach_Rocks_04_inst.Thai_Beach_Rocks_04_inst
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Roughness.udxkfcefa_2K_Roughness
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Normal_LOD0.udxkfcefa_2K_Normal_LOD0
+[2020.05.17-10.53.42:740][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Displacement.udxkfcefa_2K_Displacement
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_2K_Albedo.udxkfcefa_2K_Albedo
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Thai_Beach_Rocks_04/udxkfcefa_LOD0.udxkfcefa_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Coffee_Rock_00/Coffee_Rock_00_inst.Coffee_Rock_00_inst
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Roughness.Aset_rock_coffeerock_S_pbpeq_2K_Roughness
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0.Aset_rock_coffeerock_S_pbpeq_2K_Normal_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Displacement.Aset_rock_coffeerock_S_pbpeq_2K_Displacement
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_2K_Albedo.Aset_rock_coffeerock_S_pbpeq_2K_Albedo
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Coffee_Rock_00/Aset_rock_coffeerock_S_pbpeq_LOD0.Aset_rock_coffeerock_S_pbpeq_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Coffee_Rock_01/Coffee_Rock_01_inst.Coffee_Rock_01_inst
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Roughness.Aset_rock_coffeerock_M_phxu1_2K_Roughness
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0.Aset_rock_coffeerock_M_phxu1_2K_Normal_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Displacement.Aset_rock_coffeerock_M_phxu1_2K_Displacement
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_2K_Albedo.Aset_rock_coffeerock_M_phxu1_2K_Albedo
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Coffee_Rock_01/Aset_rock_coffeerock_M_phxu1_LOD0.Aset_rock_coffeerock_M_phxu1_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/Thai_Beach_Rocks_05_inst.Thai_Beach_Rocks_05_inst
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Roughness.udxmahefa_2K_Roughness
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Normal_LOD0.udxmahefa_2K_Normal_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Displacement.udxmahefa_2K_Displacement
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_2K_Albedo.udxmahefa_2K_Albedo
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Thai_Beach_Rocks_05/udxmahefa_LOD0.udxmahefa_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Coffee_Rock_02/Coffee_Rock_02_inst.Coffee_Rock_02_inst
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Roughness.Aset_rock_coffeerock_S_pbbaG_2K_Roughness
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0.Aset_rock_coffeerock_S_pbbaG_2K_Normal_LOD0
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Displacement.Aset_rock_coffeerock_S_pbbaG_2K_Displacement
+[2020.05.17-10.53.42:741][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_2K_Albedo.Aset_rock_coffeerock_S_pbbaG_2K_Albedo
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Coffee_Rock_02/Aset_rock_coffeerock_S_pbbaG_LOD0.Aset_rock_coffeerock_S_pbbaG_LOD0
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Granite_Rock_00/Granite_Rock_00_inst.Granite_Rock_00_inst
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Roughness.Aset_rock_granite_M_ohlx3_2K_Roughness
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Normal_LOD0.Aset_rock_granite_M_ohlx3_2K_Normal_LOD0
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Displacement.Aset_rock_granite_M_ohlx3_2K_Displacement
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_2K_Albedo.Aset_rock_granite_M_ohlx3_2K_Albedo
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Granite_Rock_00/Aset_rock_granite_M_ohlx3_LOD0.Aset_rock_granite_M_ohlx3_LOD0
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Granite_Rocks_00/Granite_Rocks_00_inst.Granite_Rocks_00_inst
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Roughness.Aset_rock_granite_M_oheuu_2K_Roughness
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Normal_LOD0.Aset_rock_granite_M_oheuu_2K_Normal_LOD0
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Displacement.Aset_rock_granite_M_oheuu_2K_Displacement
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_2K_Albedo.Aset_rock_granite_M_oheuu_2K_Albedo
+[2020.05.17-10.53.42:742][429]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Granite_Rocks_00/Aset_rock_granite_M_oheuu_LOD0.Aset_rock_granite_M_oheuu_LOD0
