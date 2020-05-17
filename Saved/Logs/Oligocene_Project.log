@@ -8739,3 +8739,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-11.21.01:458][252]LogFileHelpers: Saving map 'Oligocene_Playable' took 43.708
 [2020.05.17-11.21.01:484][252]AssetCheck: New page: Asset Save: Oligocene_Playable
 [2020.05.17-11.21.01:484][252]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.17-11.23.49:135][543]LogActorFactory: Actor Factory created siEoZ_LOD0
+[2020.05.17-11.23.49:432][562]LogActorFactory: Actor Factory created siEoZ_LOD0
+[2020.05.17-11.23.53:277][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siEoZ_LOD0)
+[2020.05.17-11.23.59:064][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siEoZ_LOD0)
+[2020.05.17-11.24.00:166][813]Cmd: DELETE
+[2020.05.17-11.24.00:166][813]Cmd: ACTOR DELETE
+[2020.05.17-11.24.01:447][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.17-11.24.01:484][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.17-11.24.01:490][813]LogEditorActor: Deleted 1 Actors (1.128 secs)
+[2020.05.17-11.24.04:300][128]LogActorFactory: Actor Factory created siEoZ_LOD0
+[2020.05.17-11.24.04:992][186]LogActorFactory: Actor Factory created siEoZ_LOD0
+[2020.05.17-11.25.34:218][633]Cmd: TRANSACTION UNDO
+[2020.05.17-11.25.34:218][633]LogEditorTransaction: Undo Move Actors
+[2020.05.17-11.25.34:275][633]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 24
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 23
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 22
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 21
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 17
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 16
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.05.17-11.25.34:296][633]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: Base pass shader: 844 instructions
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 915 instructions
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: Texture samplers: 11/16
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.17-11.25.40:837][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.17-11.25.55:025][ 21]Cmd: TRANSACTION UNDO
+[2020.05.17-11.25.55:025][ 21]LogEditorTransaction: Undo Move Actors
+[2020.05.17-11.25.55:030][ 21]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 24
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 23
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 22
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 21
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 17
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 16
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.05.17-11.25.55:092][ 22]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: Base pass shader: 844 instructions
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 915 instructions
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: Texture samplers: 11/16
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.17-11.25.57:572][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.17-11.26.12:954][ 57]Cmd: TRANSACTION UNDO
+[2020.05.17-11.26.12:954][ 57]LogEditorTransaction: Undo Move Actors
+[2020.05.17-11.26.12:959][ 57]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 24
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 23
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 22
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 21
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 17
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 16
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.05.17-11.26.13:010][ 58]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.05.17-11.26.13:011][ 58]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: Base pass shader: 844 instructions
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 915 instructions
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: Texture samplers: 11/16
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.17-11.26.15:656][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.17-11.26.49:729][324]Cmd: DUPLICATE
+[2020.05.17-11.26.49:729][324]Cmd: ACTOR DUPLICATE
+[2020.05.17-11.27.07:940][412]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_01/Huge_Icelandic_Lava_Cliff_01_inst.Huge_Icelandic_Lava_Cliff_01_inst
+[2020.05.17-11.27.08:173][412]LogRenderer: Reallocating scene render targets to support 1616x892 Format 26 NumSamples 1 (Frame:1).
+[2020.05.17-11.27.17:187][278]LogSlate: Window 'Message' being destroyed
+[2020.05.17-11.27.17:657][278]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.27.17:722][278]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 24
+[2020.05.17-11.27.17:722][278]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 23
+[2020.05.17-11.27.17:722][278]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 22
+[2020.05.17-11.27.17:722][278]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 21
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 19
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 18
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 17
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 16
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.05.17-11.27.17:723][278]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.05.17-11.27.17:745][278]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.27.17:783][278]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.27.17:817][278]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2020.05.17-11.27.17:923][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.17-11.27.17:939][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 168
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 167
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 166
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 159
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 152
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 146
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 140
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 134
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 128
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 122
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 116
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 110
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 104
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 98
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 92
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 86
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 80
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 74
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 68
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 62
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 59
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 56
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 53
+[2020.05.17-11.27.23:883][278]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 50
+[2020.05.17-11.27.23:907][278]TextureStreamingBuild: Display: Compiling optional shaders took 5.981 seconds.
+[2020.05.17-11.27.23:961][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.05.17-11.27.24:106][278]LogSlate: Window 'Huge_Icelandic_Lava_Cliff_01_inst' being destroyed
+[2020.05.17-11.27.24:111][278]LogSlate: Window 'Huge_Icelandic_Lava_Cliff_01_inst' being destroyed
+[2020.05.17-11.27.24:224][278]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 47
+[2020.05.17-11.27.24:224][278]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 45
+[2020.05.17-11.27.24:224][278]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 43
+[2020.05.17-11.27.24:224][278]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 41
+[2020.05.17-11.27.24:224][278]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.27.24:224][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.27.24:464][278]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 39
+[2020.05.17-11.27.24:474][278]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.05.17-11.27.24:519][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 39
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 38
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 37
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 35
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 33
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 31
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 29
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 27
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 26
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 25
+[2020.05.17-11.27.25:230][278]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 24
+[2020.05.17-11.27.25:235][278]TextureStreamingBuild: Display: Compiling optional shaders took 0.728 seconds.
+[2020.05.17-11.27.25:295][278]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 23
+[2020.05.17-11.27.25:295][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.05.17-11.27.25:465][278]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 22
+[2020.05.17-11.27.25:465][278]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 21
+[2020.05.17-11.27.25:465][278]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.27.25:465][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.27.25:539][279]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2020.05.17-11.27.25:580][280]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 19
+[2020.05.17-11.27.25:580][280]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 18
+[2020.05.17-11.27.25:580][280]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 17
+[2020.05.17-11.27.25:617][281]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 16
+[2020.05.17-11.27.25:701][284]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 15
+[2020.05.17-11.27.25:776][285]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 14
+[2020.05.17-11.27.25:867][286]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 13
+[2020.05.17-11.27.25:867][286]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 12
+[2020.05.17-11.27.25:867][286]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 11
+[2020.05.17-11.27.25:977][290]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 10
+[2020.05.17-11.27.25:977][290]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 9
+[2020.05.17-11.27.25:977][290]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 8
+[2020.05.17-11.27.25:977][290]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 7
+[2020.05.17-11.27.26:139][296]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.05.17-11.27.26:194][298]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 5
+[2020.05.17-11.27.26:591][310]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 4
+[2020.05.17-11.27.26:592][310]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.05.17-11.27.26:658][311]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 2
+[2020.05.17-11.27.26:773][312]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 1
+[2020.05.17-11.28.34:536][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siEoZ_LOD0)
+[2020.05.17-11.28.58:302][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siEoZ_LOD1)
+[2020.05.17-11.29.36:020][868]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.17-11.29.37:391][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siEoZ_LOD0)
+[2020.05.17-11.30.07:040][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.17-11.30.07:995][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.17-11.30.52:392][434]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Oligocene_PlayableC99991DC464F22CA5AF4888C4380CF8F.tmp' to 'D:/Git/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.17-11.30.52:430][434]LogFileHelpers: Saving map 'Oligocene_Playable' took 44.477
+[2020.05.17-11.30.52:505][434]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Huge_Icelandic_Lava_Cliff_01_ins6DCBE197491A49F56394BF9D8385872C.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_01/Huge_Icelandic_Lava_Cliff_01_inst.uasset'
+[2020.05.17-11.30.52:529][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megascans/Surfaces/Terrain" FILE="D:/Git/Oligocene_Project/Content/Megascans/Surfaces/Terrain.uasset" SILENT=true
+[2020.05.17-11.30.52:798][434]LogSavePackage: Moving 'D:/Git/Oligocene_Project/Saved/Terrain6B77E3FF403C9F8F47DA3A9D362C2A4F.tmp' to 'D:/Git/Oligocene_Project/Content/Megascans/Surfaces/Terrain.uasset'
+[2020.05.17-11.30.52:831][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.17-11.30.52:831][434]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.17-11.30.52:831][434]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Huge_Icelandic_Lava_Cliff_01/Huge_Icelandic_Lava_Cliff_01_inst.Huge_Icelandic_Lava_Cliff_01_inst
+[2020.05.17-11.30.52:831][434]LogContentValidation: Display: Validating Material /Game/Megascans/Surfaces/Terrain.Terrain
