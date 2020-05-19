@@ -11,8 +11,8 @@
 	"MarketplaceURL": "",
 	"SupportURL": "support@quixel.com",
 	"EngineVersion": "4.24.0",
-	"CanContainContent": true,	
-	"EnabledByDefault" : true,
+	"CanContainContent": true,
+	
 	"SupportedTargetPlatforms": [
 		"Win64",
 		"Mac",
