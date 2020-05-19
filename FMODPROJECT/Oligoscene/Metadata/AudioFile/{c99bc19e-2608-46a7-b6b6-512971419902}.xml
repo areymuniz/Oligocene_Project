@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{c99bc19e-2608-46a7-b6b6-512971419902}">
 		<property name="assetPath">
-			<value>Music/Tunnel_MX/Tunnel_Music_Chorus_01.wav</value>
+			<value>Music/Tunnel_MX/Tunnel_MX_Chorus_01.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
