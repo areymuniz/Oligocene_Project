@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{b27b603d-ac60-4f2e-9d61-b8637544bf58}">
 		<property name="name">
-			<value>Chunk1</value>
+			<value>WalkwayChunk1VO</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -66,7 +66,7 @@
 	<object class="MarkerTrack" id="{0397d6b2-1287-4fb9-b29b-652e053eb12b}" />
 	<object class="GroupTrack" id="{5aea6f60-ae5e-4880-a2e3-9d3e2f5e6bf4}">
 		<relationship name="modules">
-			<destination>{f7a53607-507a-4701-9ccc-588604804e8d}</destination>
+			<destination>{c07437a3-8ea3-47f4-a565-ad29e5fb94f6}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{bbb1e5e0-3515-4d53-8271-ea64c9ae58d2}</destination>
@@ -74,7 +74,7 @@
 	</object>
 	<object class="Timeline" id="{fe107b03-161d-4e66-94d4-f693e26060f0}">
 		<relationship name="modules">
-			<destination>{f7a53607-507a-4701-9ccc-588604804e8d}</destination>
+			<destination>{c07437a3-8ea3-47f4-a565-ad29e5fb94f6}</destination>
 		</relationship>
 	</object>
 	<object class="ParameterProxy" id="{c9fccff8-e70a-4d85-9eb8-a14916e94a9d}">
@@ -107,12 +107,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ad584011-9c1d-4cae-8074-be55f259dfe0}" />
-	<object class="SingleSound" id="{f7a53607-507a-4701-9ccc-588604804e8d}">
+	<object class="SingleSound" id="{c07437a3-8ea3-47f4-a565-ad29e5fb94f6}">
 		<property name="length">
-			<value>8.5416666666666661</value>
+			<value>8.9866875000000004</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{b4e48c4f-283a-4d65-9524-88a544fb5142}</destination>
+			<destination>{27bd8d72-bcf1-450c-8b9e-a3f9281923ca}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bbb1e5e0-3515-4d53-8271-ea64c9ae58d2}">

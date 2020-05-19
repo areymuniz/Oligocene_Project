@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{60e1e0c0-9d96-41fc-ad60-5095a7fdd5d0}">
 		<property name="name">
-			<value>StepOnto</value>
+			<value>LabExitVO</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -31,6 +31,9 @@
 		<relationship name="timeline">
 			<destination>{819f7dc2-976c-46e2-b94c-1964f6db3afe}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{1504ad05-4549-4e0b-9fcd-0baa85622817}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{0c2b4b8b-7d38-4ae4-89ae-475e02946239}">
 		<relationship name="masterBus">
@@ -56,11 +59,18 @@
 	<object class="EventAutomatableProperties" id="{8f45f812-0570-4060-b704-3c053bd52544}" />
 	<object class="MarkerTrack" id="{3a5b9509-480d-498a-a9ac-89c364104ce6}" />
 	<object class="GroupTrack" id="{6765edbb-2a56-4704-9fcf-c5428126f265}">
+		<relationship name="modules">
+			<destination>{3b060380-a652-42f3-9e8d-e6a68ef90a2b}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{baffbd99-a367-4d92-934d-3e3742515a5d}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{819f7dc2-976c-46e2-b94c-1964f6db3afe}" />
+	<object class="Timeline" id="{819f7dc2-976c-46e2-b94c-1964f6db3afe}">
+		<relationship name="modules">
+			<destination>{3b060380-a652-42f3-9e8d-e6a68ef90a2b}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerMaster" id="{2098b7d6-9c1d-49d3-9697-f36f479e41af}">
 		<relationship name="automators">
 			<destination>{3d62c64e-e34f-4f16-9103-1797c76b6ea3}</destination>
@@ -81,6 +91,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{98498e63-95de-4111-bf06-b482499bf274}" />
+	<object class="SingleSound" id="{3b060380-a652-42f3-9e8d-e6a68ef90a2b}">
+		<property name="length">
+			<value>7.25</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{ecf992db-907b-4e21-805b-174accf2b1c4}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{baffbd99-a367-4d92-934d-3e3742515a5d}">
 		<property name="name">
 			<value>Audio 1</value>
@@ -134,7 +152,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -145,7 +163,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -156,7 +174,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>
