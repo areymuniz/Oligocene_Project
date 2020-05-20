@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{9f972452-d8d8-45f4-8d93-a45e905fb46b}">
 		<property name="assetPath">
-			<value>Tunnel_SFX/Oligocene_School_Fish_Swim_Reverb.R.wav</value>
+			<value>Tunnel_SFX/Conveyer/Oligocene_School_Fish_Swim_Reverb.R.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
