@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{f05794df-f49c-470e-b9d9-671390deea03}">
+	<object class="AudioFile" id="{82e45fbe-1751-498d-a1cc-e4efaa6d253e}">
 		<property name="assetPath">
-			<value>Tunnel_SFX/Conveyer/Oligocene_School_Fish_Swim_Reverb.L.wav</value>
+			<value>Tunnel_SFX/Animations_Tunnel/Oligcene_Hero_Dolphin_Anim_Tunnel.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>15.093895833333333</value>
+			<value>20.421337868480727</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
