@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{4119b041-2b16-404d-9d3f-356413b037c7}">
 		<property name="name">
-			<value>ConveyerBelt</value>
+			<value>ConveyorBelt</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -35,6 +35,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{989ed6ee-6529-4322-b2b3-a24a3593718b}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{1504ad05-4549-4e0b-9fcd-0baa85622817}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{b626e985-2de5-4990-828a-637bd1b7cf27}">
