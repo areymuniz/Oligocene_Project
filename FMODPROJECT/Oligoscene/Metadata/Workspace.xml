@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Workspace" id="{5ac9cf77-8285-4d2d-b26e-af0467f24419}">
 		<property name="builtBanksOutputDirectory">
-			<value>/Volumes/SG Mac/Git Repos/Oligocene/Content/FMODAUDIO/Desktop</value>
+			<value>../../Content/FMODAUDIO/Desktop</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{0148bc0e-3b18-4d37-b5e8-bd797dd1b916}</destination>
