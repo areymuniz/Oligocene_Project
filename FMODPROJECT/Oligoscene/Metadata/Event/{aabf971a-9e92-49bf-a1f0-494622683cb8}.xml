@@ -186,6 +186,9 @@
 		<property name="color">
 			<value>Blue</value>
 		</property>
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Piano</value>
 		</property>
@@ -218,7 +221,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{f52a9c25-1195-4c35-a2f2-694bdd610263}">
 		<property name="volume">
-			<value>2.5</value>
+			<value>5.5</value>
 		</property>
 		<property name="name">
 			<value>Woodwinds</value>
@@ -251,6 +254,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{1f5f4bce-e54b-4a85-8ee8-7ee427785e99}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Strings</value>
 		</property>
@@ -279,6 +285,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{87cc5dbd-559e-44b5-a34c-f4ee4a681e02}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Chorus</value>
 		</property>
@@ -307,6 +316,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a5fd1449-b74d-462a-9804-21b2c03ce58c}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Brass_01</value>
 		</property>
@@ -335,6 +347,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{2799687b-380b-45fb-9db8-e2ff4650544a}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Marimba</value>
 		</property>
@@ -349,6 +364,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{99042298-365a-4d87-bbd0-8ec070cc928d}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Perc 1</value>
 		</property>
@@ -374,6 +392,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{124b7696-707d-4d9f-88d9-cf843a05aebe}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Aux Perc</value>
 		</property>
@@ -402,6 +423,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{5b545e00-e088-4b77-a47a-ab68eb24fa68}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<property name="name">
 			<value>Cloudrum</value>
 		</property>
