@@ -135,7 +135,6 @@
 			<destination>{378dd0e7-012b-47bc-8414-ee1b6b9a4e9a}</destination>
 			<destination>{9a9090d6-8945-4f0b-96e0-843a2238b67e}</destination>
 			<destination>{e14c7b60-60a9-471b-839e-b8ef6b3b01e9}</destination>
-			<destination>{ce043649-97c4-41ae-802e-539a89c3587b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9e46deb2-9ba3-4c36-ae0a-2d0c461cf591}" />
@@ -180,104 +179,5 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{e14c7b60-60a9-471b-839e-b8ef6b3b01e9}" />
-	<object class="PluginEffect" id="{ce043649-97c4-41ae-802e-539a89c3587b}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
-		<relationship name="plugin">
-			<destination>{8c06aa50-2364-48e5-a2c1-f6837604d005}</destination>
-		</relationship>
-	</object>
 	<object class="MixerBusFader" id="{f9a075d9-2b8a-4d9a-a108-44272825f717}" />
-	<object class="Plugin" id="{8c06aa50-2364-48e5-a2c1-f6837604d005}">
-		<property name="identifier">
-			<value>Oculus Spatializer</value>
-		</property>
-		<relationship name="pluginParameters">
-			<destination>{8f35ff1d-4396-4f78-a864-4a087d182552}</destination>
-			<destination>{e20b7117-a074-42c2-a486-d21f92978481}</destination>
-			<destination>{1f5a0aee-519e-45eb-9714-6b740888521d}</destination>
-			<destination>{a79d32ce-292a-46a1-937d-aa9b29d51ca3}</destination>
-			<destination>{64ccf049-c9d0-498b-bb7b-c3fd6107c3f1}</destination>
-			<destination>{abee21f7-ca06-496e-9e8a-a2985c6025eb}</destination>
-			<destination>{046b0d75-f445-462f-a7d1-83a9ca4cdccc}</destination>
-			<destination>{c423409b-7699-42c0-88e5-0f85b8d7a6ef}</destination>
-		</relationship>
-	</object>
-	<object class="DataPluginParameter" id="{8f35ff1d-4396-4f78-a864-4a087d182552}">
-		<property name="name">
-			<value>3D Attributes</value>
-		</property>
-		<property name="dataType">
-			<value>-2</value>
-		</property>
-	</object>
-	<object class="BoolPluginParameter" id="{e20b7117-a074-42c2-a486-d21f92978481}">
-		<property name="name">
-			<value>Reflections</value>
-		</property>
-		<property name="value">
-			<value>false</value>
-		</property>
-	</object>
-	<object class="BoolPluginParameter" id="{1f5a0aee-519e-45eb-9714-6b740888521d}">
-		<property name="name">
-			<value>Attenuation</value>
-		</property>
-		<property name="value">
-			<value>false</value>
-		</property>
-	</object>
-	<object class="FloatPluginParameter" id="{a79d32ce-292a-46a1-937d-aa9b29d51ca3}">
-		<property name="name">
-			<value>V. Radius</value>
-		</property>
-		<property name="value">
-			<value>2.79999995</value>
-		</property>
-		<property name="curve">
-			<value>{(0.000000,0.000000)(1.000000,1.000000)(2.000000,4.000000)(3.000000,11.000000)(4.000000,25.000000)(5.000000,100.000000)(6.000000,1000.000000)}</value>
-		</property>
-	</object>
-	<object class="FloatPluginParameter" id="{64ccf049-c9d0-498b-bb7b-c3fd6107c3f1}">
-		<property name="name">
-			<value>Range Min</value>
-		</property>
-		<property name="value">
-			<value>0</value>
-		</property>
-		<property name="curve">
-			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
-		</property>
-	</object>
-	<object class="FloatPluginParameter" id="{abee21f7-ca06-496e-9e8a-a2985c6025eb}">
-		<property name="name">
-			<value>Range Max</value>
-		</property>
-		<property name="value">
-			<value>0</value>
-		</property>
-		<property name="curve">
-			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
-		</property>
-	</object>
-	<object class="DataPluginParameter" id="{046b0d75-f445-462f-a7d1-83a9ca4cdccc}">
-		<property name="name">
-			<value>Overall Gain</value>
-		</property>
-		<property name="dataType">
-			<value>-1</value>
-		</property>
-	</object>
-	<object class="FloatPluginParameter" id="{c423409b-7699-42c0-88e5-0f85b8d7a6ef}">
-		<property name="name">
-			<value>Reverb Send</value>
-		</property>
-		<property name="value">
-			<value>0</value>
-		</property>
-		<property name="curve">
-			<value>{(0.000000,-60.000000)(1.000000,-40.000000)(2.000000,-20.000000)(3.000000,-12.000000)(4.000000,-6.000000)(5.000000,-2.000000)(6.000000,0.000000)(7.000000,2.000000)(8.000000,6.000000)(9.000000,12.000000)(10.000000,20.000000)}</value>
-		</property>
-	</object>
 </objects>

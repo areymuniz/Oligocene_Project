@@ -139,9 +139,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{44bcdd72-0d3f-4fba-b5b6-9dfb2f4012b6}" />
 	<object class="MixerSend" id="{7f1ad543-7f03-4469-91ab-eca5e0a623a1}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
@@ -153,9 +150,6 @@
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{781c39fe-7a8d-4305-a296-7ace98f16e3a}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
@@ -167,9 +161,6 @@
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{1b68b17e-7134-4210-930a-70b80b7d9d9a}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
