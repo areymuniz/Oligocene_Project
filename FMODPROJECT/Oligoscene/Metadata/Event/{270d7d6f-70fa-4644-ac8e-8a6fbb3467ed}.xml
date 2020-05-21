@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{be3af7ee-356b-43c6-8e3d-ec95ee633a45}">
+		<property name="volume">
+			<value>-10.5</value>
+		</property>
 		<relationship name="automators">
 			<destination>{eed4362f-40e4-4173-b535-d72919fcdb8f}</destination>
 		</relationship>
@@ -117,9 +120,6 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
 		</property>
-		<relationship name="automationCurves">
-			<destination>{53afa627-7520-4f6c-908f-71a54298b588}</destination>
-		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{f865faee-e07a-46c0-b7ad-3bd7fe1780e4}">
 		<relationship name="effects">
@@ -138,15 +138,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d329f839-0fc5-4465-ab2a-f581dbce4705}" />
-	<object class="AutomationCurve" id="{53afa627-7520-4f6c-908f-71a54298b588}">
-		<relationship name="parameter">
-			<destination>{8fd34f27-4f1c-4bcc-9975-71961a5d9d00}</destination>
-		</relationship>
-		<relationship name="automationPoints">
-			<destination>{fa2691bb-f65a-4a46-9288-88c8b6af6944}</destination>
-			<destination>{436e385c-8810-481f-aa6a-ec05f7aac60a}</destination>
-		</relationship>
-	</object>
 	<object class="MixerSend" id="{108c7ce8-3045-4123-969a-bed8acf3bbff}">
 		<property name="level">
 			<value>0</value>
@@ -190,25 +181,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{31f4831e-4278-4695-90c0-b4982229b97a}" />
-	<object class="AutomationPoint" id="{fa2691bb-f65a-4a46-9288-88c8b6af6944}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="value">
-			<value>0</value>
-		</property>
-		<property name="curveShape">
-			<value>0.813169122</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{436e385c-8810-481f-aa6a-ec05f7aac60a}">
-		<property name="position">
-			<value>40</value>
-		</property>
-		<property name="value">
-			<value>-80</value>
-		</property>
-	</object>
 	<object class="Plugin" id="{f33cfb55-0e8a-4a13-ac69-b5a14503ed80}">
 		<property name="identifier">
 			<value>Oculus Spatializer</value>

@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{ab4bdad1-b0fb-4737-95eb-81e20460100d}">
+		<property name="volume">
+			<value>-10.5</value>
+		</property>
 		<relationship name="automators">
 			<destination>{3d255b05-f756-4a06-8646-d6bafa8f5865}</destination>
 		</relationship>
@@ -100,9 +103,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{3a777d01-4e19-4001-8381-368fb2421b9c}">
-		<property name="volume">
-			<value>5</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -120,9 +120,6 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
 		</property>
-		<relationship name="automationCurves">
-			<destination>{fc05f342-b0d6-4205-be67-3e6bc5c9056b}</destination>
-		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{9f4efd79-36b2-4f63-941b-567217c25b03}">
 		<relationship name="effects">
@@ -141,16 +138,10 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{44bcdd72-0d3f-4fba-b5b6-9dfb2f4012b6}" />
-	<object class="AutomationCurve" id="{fc05f342-b0d6-4205-be67-3e6bc5c9056b}">
-		<relationship name="parameter">
-			<destination>{8fd34f27-4f1c-4bcc-9975-71961a5d9d00}</destination>
-		</relationship>
-		<relationship name="automationPoints">
-			<destination>{08fd1fc9-e19e-4d1b-96e9-939a3a9d697d}</destination>
-			<destination>{9d1a136e-0d21-4caa-a96e-49e9b1ef3220}</destination>
-		</relationship>
-	</object>
 	<object class="MixerSend" id="{7f1ad543-7f03-4469-91ab-eca5e0a623a1}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
@@ -162,6 +153,9 @@
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{781c39fe-7a8d-4305-a296-7ace98f16e3a}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
@@ -173,6 +167,9 @@
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{1b68b17e-7134-4210-930a-70b80b7d9d9a}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="level">
 			<value>0</value>
 		</property>
@@ -185,30 +182,14 @@
 	</object>
 	<object class="MixerBusFader" id="{b64adaa7-c171-4ad9-b1b2-dc271fccc163}" />
 	<object class="PluginEffect" id="{7db887a8-32d6-49ad-a265-e7306234b12e}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<relationship name="plugin">
 			<destination>{4993a391-d824-4467-9e2e-7ede06bc7d99}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{ff224df6-3643-4c69-aed6-f5d48bbc24f8}" />
-	<object class="AutomationPoint" id="{08fd1fc9-e19e-4d1b-96e9-939a3a9d697d}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="value">
-			<value>0</value>
-		</property>
-		<property name="curveShape">
-			<value>0.813169122</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{9d1a136e-0d21-4caa-a96e-49e9b1ef3220}">
-		<property name="position">
-			<value>40</value>
-		</property>
-		<property name="value">
-			<value>-80</value>
-		</property>
-	</object>
 	<object class="Plugin" id="{4993a391-d824-4467-9e2e-7ede06bc7d99}">
 		<property name="identifier">
 			<value>Oculus Spatializer</value>
