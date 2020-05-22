@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{3715579b-c195-43bb-a798-de9384d942d4}">
+		<property name="name">
+			<value>To_Tunnel_End</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b285087f-98f0-4e7a-b1e4-31219597dbde}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ddae0434-f6c1-4890-aef0-c4a52f75e881}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ddae0434-f6c1-4890-aef0-c4a52f75e881}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

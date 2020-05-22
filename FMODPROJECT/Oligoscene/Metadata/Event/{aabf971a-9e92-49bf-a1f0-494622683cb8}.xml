@@ -39,6 +39,9 @@
 		<relationship name="timeline">
 			<destination>{f5506339-e848-4984-80cd-8ba488a18599}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{8881ef58-facc-4a05-b0b3-31c601148e89}</destination>
+		</relationship>
 		<relationship name="banks">
 			<destination>{1504ad05-4549-4e0b-9fcd-0baa85622817}</destination>
 		</relationship>
@@ -151,13 +154,12 @@
 			<destination>{30463792-7884-450e-a870-da38afda8893}</destination>
 		</relationship>
 	</object>
-	<object class="EventMixerMaster" id="{e60e35f5-cd8b-4f1b-a23e-909ef395fec6}">
-		<property name="volume">
-			<value>-9.5</value>
-		</property>
-		<relationship name="modulators">
-			<destination>{8909f7a9-d6c1-4a31-9a6e-8aa59637a1dc}</destination>
+	<object class="ParameterProxy" id="{8881ef58-facc-4a05-b0b3-31c601148e89}">
+		<relationship name="preset">
+			<destination>{8f5a2167-aaa2-4ee0-acac-212a3c3c1bc5}</destination>
 		</relationship>
+	</object>
+	<object class="EventMixerMaster" id="{e60e35f5-cd8b-4f1b-a23e-909ef395fec6}">
 		<relationship name="effectChain">
 			<destination>{f29e3137-ca74-4ff1-802f-dd58963a6839}</destination>
 		</relationship>
@@ -183,6 +185,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>68</value>
+		</property>
+		<property name="volume">
+			<value>1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{2c6a8b02-8999-4331-b8ba-aa450da4e5c4}</destination>
@@ -218,6 +223,9 @@
 		<property name="timelockedOffset">
 			<value>110</value>
 		</property>
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{10189537-b235-4182-9b09-e4473057f185}</destination>
 		</relationship>
@@ -248,6 +256,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>64</value>
+		</property>
+		<property name="volume">
+			<value>1</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{8e75fc60-61e1-49d9-9ecc-f462317f6a5a}</destination>
@@ -283,6 +294,9 @@
 		<property name="timelockedOffset">
 			<value>64</value>
 		</property>
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="fadeInCurve">
 			<destination>{44d90ae2-d011-4bf7-a191-b49e55afb33c}</destination>
 		</relationship>
@@ -314,6 +328,9 @@
 		<property name="timelockedOffset">
 			<value>64</value>
 		</property>
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="fadeInCurve">
 			<destination>{6361fded-0aee-4b16-b9a9-54264b32bdce}</destination>
 		</relationship>
@@ -344,6 +361,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>64</value>
+		</property>
+		<property name="volume">
+			<value>1</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{0b09247c-ab0f-40ba-9977-c837825fa304}</destination>
@@ -393,6 +413,9 @@
 		<property name="timelockedOffset">
 			<value>64</value>
 		</property>
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{fcf54da1-5000-4ea0-8824-d61cce77c8c1}</destination>
 		</relationship>
@@ -423,6 +446,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>68</value>
+		</property>
+		<property name="volume">
+			<value>1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{e0b64c08-622a-421c-9a7b-64bf8d5ee25a}</destination>
@@ -472,23 +498,6 @@
 		<relationship name="markerTrack">
 			<destination>{9b472ffe-ae8e-431d-b9ac-72ae2a855658}</destination>
 		</relationship>
-	</object>
-	<object class="ADSRModulator" id="{8909f7a9-d6c1-4a31-9a6e-8aa59637a1dc}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>volume</value>
-		</property>
-		<property name="initialValue">
-			<value>-80</value>
-		</property>
-		<property name="attackTime">
-			<value>0</value>
-		</property>
-		<property name="releaseTime">
-			<value>560</value>
-		</property>
-		<property name="finalValue">
-			<value>-80</value>
-		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{f29e3137-ca74-4ff1-802f-dd58963a6839}">
 		<relationship name="effects">
