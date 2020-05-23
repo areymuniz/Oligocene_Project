@@ -2734,3 +2734,17 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.23-18.02.28:122][620]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.23-18.02.28:122][620]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
 [2020.05.23-18.02.28:122][620]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.23-18.07.50:818][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.23-18.07.53:546][974]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-18.07.53:712][974]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc3_Sequence7EDF7CBD4DF55A3A8FAC0B8FBBF20576.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc3_Sequence.uasset'
+[2020.05.23-18.07.53:745][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.23-18.07.53:770][974]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.07.53:770][974]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.07.53:770][974]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.07.55:099][974]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable60E67DEC47749FA06AEBBAAF68C0F689.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.23-18.07.55:142][974]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.428
+[2020.05.23-18.07.55:160][974]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.23-18.07.55:161][974]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.23-18.07.55:161][974]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.23-18.08.13:960][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.05.23-18.08.17:409][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
