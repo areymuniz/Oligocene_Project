@@ -1675,3 +1675,22 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.23-17.16.46:468][907]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.23-17.16.46:468][907]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
 [2020.05.23-17.16.46:469][907]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.23-17.18.54:126][563]LogSlate: Window 'Sequencer Curves' being destroyed
+[2020.05.23-17.18.58:546][825]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Hero_Dolphin_Final)
+[2020.05.23-17.18.59:110][858]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Hero_Dolphin_Final)
+[2020.05.23-17.18.59:192][862]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.05.23-17.19.35:921][ 56]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.23-17.19.36:008][ 59]LogEditorViewport: Clicking on Component (LMB): SceneComponent (SceneComp)
+[2020.05.23-17.19.46:250][647]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Dolphin_Balc1_Sequence)
+[2020.05.23-17.19.48:744][792]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.23-17.20.36:268][579]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2020.05.23-17.21.40:343][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.05.23-17.21.42:569][339]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-17.21.42:648][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.05.23-17.21.42:667][339]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.21.42:667][339]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.21.42:667][339]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.21.43:967][339]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableFC675A6C41BA26EE0794C0BAF355B93F.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.23-17.21.44:010][339]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.400
+[2020.05.23-17.21.44:029][339]AssetCheck: New page: Asset Save: Oligocene_Playable
+[2020.05.23-17.21.44:029][339]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
