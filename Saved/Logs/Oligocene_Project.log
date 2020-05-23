@@ -1663,3 +1663,15 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.23-17.09.13:270][314]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Hero_Dolphin/Dolph_3_Balc1_PhysicsAsset.Dolph_3_Balc1_PhysicsAsset
 [2020.05.23-17.09.13:270][314]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
 [2020.05.23-17.09.13:270][314]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.23-17.16.42:724][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.05.23-17.16.44:973][907]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-17.16.45:026][907]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc1_Sequence838A16274EDADF119785D4805D92B40D.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc1_Sequence.uasset'
+[2020.05.23-17.16.45:061][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.05.23-17.16.45:089][907]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.16.45:089][907]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.16.45:089][907]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.16.46:390][907]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableEA177D7D4823D6E7922C29901504FEF1.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.23-17.16.46:432][907]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.403
+[2020.05.23-17.16.46:468][907]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.23-17.16.46:468][907]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.23-17.16.46:469][907]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
