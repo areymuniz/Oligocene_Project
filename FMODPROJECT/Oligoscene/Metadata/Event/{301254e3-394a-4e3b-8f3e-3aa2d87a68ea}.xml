@@ -5,7 +5,7 @@
 			<value>Deck3VO</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c066de2e-4098-4f53-b50a-ebfe152b069d}</destination>
@@ -83,6 +83,9 @@
 		<property name="volume">
 			<value>-10.5</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{ac0bac67-0b0e-4aa9-9877-c7f80a6da96d}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{62048e58-06d3-4bd5-b188-9408d21e1dd0}</destination>
 		</relationship>
@@ -93,7 +96,11 @@
 			<destination>{b376f5fe-9e05-40f6-abaf-30dfba197490}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{4620dd26-c703-4e56-97b3-28f042109963}" />
+	<object class="MultiSound" id="{4620dd26-c703-4e56-97b3-28f042109963}">
+		<relationship name="sounds">
+			<destination>{789e2b86-1609-4a96-bc83-417059d92d6e}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{ff5ff92a-e0ce-4d4a-883d-591b4176e18b}">
 		<relationship name="effects">
 			<destination>{85b649cf-900a-4bd2-bc76-f193d28038fc}</destination>
@@ -114,6 +121,23 @@
 			<destination>{62d2b576-d2d3-4d22-b340-faa1a17f42a9}</destination>
 		</relationship>
 	</object>
+	<object class="ADSRModulator" id="{ac0bac67-0b0e-4aa9-9877-c7f80a6da96d}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>0</value>
+		</property>
+		<property name="releaseTime">
+			<value>360</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
+	</object>
 	<object class="MixerBusEffectChain" id="{62048e58-06d3-4bd5-b188-9408d21e1dd0}">
 		<relationship name="effects">
 			<destination>{ebddffda-6339-4dad-ab2b-e7eec0a36f5a}</destination>
@@ -123,6 +147,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{620f2891-d7e9-4ba4-9d00-4200f2f7796a}" />
+	<object class="SingleSound" id="{789e2b86-1609-4a96-bc83-417059d92d6e}">
+		<relationship name="audioFile">
+			<destination>{00aede5b-6700-4d2d-a249-f5c499b3441a}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{85b649cf-900a-4bd2-bc76-f193d28038fc}" />
 	<object class="MixerBusEffectChain" id="{b9c9d3dd-3f11-4273-8589-77026f764285}">
 		<relationship name="effects">
@@ -132,10 +161,10 @@
 	<object class="MixerBusPanner" id="{90dab3c8-064b-45c7-abb4-c44edabfbdd3}" />
 	<object class="MixerSend" id="{ebddffda-6339-4dad-ab2b-e7eec0a36f5a}">
 		<property name="level">
-			<value>0</value>
+			<value>-7.5</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -146,7 +175,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -157,7 +186,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>

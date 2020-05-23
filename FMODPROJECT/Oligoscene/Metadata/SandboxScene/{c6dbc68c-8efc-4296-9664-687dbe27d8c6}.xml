@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="SandboxScene" id="{c6dbc68c-8efc-4296-9664-687dbe27d8c6}">
+		<property name="name">
+			<value>Aquarium</value>
+		</property>
+		<relationship name="folder">
+			<destination>{92ab88a2-69b9-40c8-b289-db7443a2e91a}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{0c437554-e8e1-4bbc-ab18-1314cab2ccdf}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{36826dc9-3305-4e2b-9718-e3b7b0e6e27b}</destination>
+		</relationship>
+		<relationship name="listeners">
+			<destination>{a7fb31fa-2298-4375-97f2-57d9ffb1752a}</destination>
+		</relationship>
+		<relationship name="emitters">
+			<destination>{b23407b9-e09f-43eb-b45c-5a1c3d0c180a}</destination>
+			<destination>{ecdd2a25-274b-46c2-8569-35d15646847a}</destination>
+			<destination>{54f093ee-dfb6-433d-b2b5-90889969c6da}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{0c437554-e8e1-4bbc-ab18-1314cab2ccdf}" />
+	<object class="Timeline" id="{36826dc9-3305-4e2b-9718-e3b7b0e6e27b}" />
+	<object class="SandboxListener" id="{a7fb31fa-2298-4375-97f2-57d9ffb1752a}">
+		<property name="positionX">
+			<value>-5.55000067</value>
+		</property>
+		<property name="positionZ">
+			<value>1.20000029</value>
+		</property>
+		<property name="rotationY">
+			<value>-168.994934</value>
+		</property>
+	</object>
+	<object class="SandboxEmitter" id="{b23407b9-e09f-43eb-b45c-5a1c3d0c180a}">
+		<property name="positionX">
+			<value>-5.9000001</value>
+		</property>
+		<property name="positionZ">
+			<value>-3.32500005</value>
+		</property>
+		<relationship name="event">
+			<destination>{9a283441-bfbd-459d-a7e4-a245a09e992c}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxEmitter" id="{ecdd2a25-274b-46c2-8569-35d15646847a}">
+		<property name="positionX">
+			<value>-12.1000004</value>
+		</property>
+		<property name="positionZ">
+			<value>7.2750001</value>
+		</property>
+		<relationship name="event">
+			<destination>{5a64d325-2e63-43da-b098-5debee7655fc}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxEmitter" id="{54f093ee-dfb6-433d-b2b5-90889969c6da}">
+		<property name="positionX">
+			<value>-0.075000003</value>
+		</property>
+		<property name="positionZ">
+			<value>4.9000001</value>
+		</property>
+		<relationship name="sandboxParameters">
+			<destination>{4bedbb9f-bb96-44d5-a0c4-1ac4a5d86eec}</destination>
+			<destination>{3930c442-edd7-4f10-b859-08ae28cddfd1}</destination>
+			<destination>{92041458-c109-40f8-b743-1039a4666c3b}</destination>
+		</relationship>
+		<relationship name="event">
+			<destination>{71c57cae-43ee-4c05-ab08-5a0db3717bc7}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxParameter" id="{4bedbb9f-bb96-44d5-a0c4-1ac4a5d86eec}">
+		<property name="parameterValue">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{2c48e01a-4602-42aa-bd84-420b5ca045e5}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxParameter" id="{3930c442-edd7-4f10-b859-08ae28cddfd1}">
+		<property name="parameterValue">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{2c9b88e2-3dbf-41a4-975b-a0acf4bff64e}</destination>
+		</relationship>
+	</object>
+	<object class="SandboxParameter" id="{92041458-c109-40f8-b743-1039a4666c3b}">
+		<property name="parameterValue">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{441d816c-dd45-403a-bba9-a656691993e5}</destination>
+		</relationship>
+	</object>
+</objects>
