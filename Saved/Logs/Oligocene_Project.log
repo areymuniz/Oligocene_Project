@@ -2702,3 +2702,35 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.23-17.44.41:787][789]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Hero_Dolphin/Dolph_3_Balc3_Anim.Dolph_3_Balc3_Anim
 [2020.05.23-17.44.41:787][789]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Hero_Dolphin/Dolph_3_Balc3_PhysicsAsset.Dolph_3_Balc3_PhysicsAsset
 [2020.05.23-17.44.41:787][789]LogContentValidation: Display: Validating Material /Game/Animations/Hero_Dolphin/lambert6_ncl1_2.lambert6_ncl1_2
+[2020.05.23-17.51.19:993][116]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.23-17.51.24:057][344]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.23-17.56.47:731][351]Cmd: TRANSACTION UNDO
+[2020.05.23-17.56.47:731][351]LogEditorTransaction: Undo Select Actors/Components
+[2020.05.23-17.56.48:312][362]Cmd: TRANSACTION UNDO
+[2020.05.23-17.56.48:312][362]LogEditorTransaction: Undo Delete Keys
+[2020.05.23-17.58.14:075][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.23-17.58.15:476][408]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-17.58.15:699][408]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc3_Sequence01588EFC40EC8C5F96B13E9E4A6DB264.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc3_Sequence.uasset'
+[2020.05.23-17.58.15:798][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.23-17.58.16:251][408]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.58.16:252][408]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.58.16:252][408]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-17.58.17:720][408]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable9FFFB2734D93FC7B0A137DB0D223505A.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.23-17.58.17:762][408]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.995
+[2020.05.23-17.58.17:792][408]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.23-17.58.17:792][408]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.23-17.58.17:792][408]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.23-18.00.29:088][791]Cmd: TRANSACTION UNDO
+[2020.05.23-18.00.29:088][791]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.23-18.02.24:570][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.05.23-18.02.26:328][620]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-18.02.26:379][620]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc3_Sequence5E660B0743F3FBB619BA3DB244B2F711.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc3_Sequence.uasset'
+[2020.05.23-18.02.26:415][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.05.23-18.02.26:431][620]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.02.26:432][620]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.02.26:432][620]LogBlueprint: Warning: [Compiler PersistentLevel.Oligocene_Playable] Node  Unknown  is not referencing a valid level actor
+[2020.05.23-18.02.28:051][620]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableDB114C9245D1CE0738EC41BE538A236E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.23-18.02.28:093][620]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.712
+[2020.05.23-18.02.28:122][620]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.23-18.02.28:122][620]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.23-18.02.28:122][620]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
