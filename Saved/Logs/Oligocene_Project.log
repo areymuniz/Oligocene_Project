@@ -1794,3 +1794,313 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.24-19.33.20:544][628]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.24-19.33.20:544][628]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
 [2020.05.24-19.33.20:544][628]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-19.34.06:479][629]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Shark_Balc2_Sequence)
+[2020.05.24-19.34.08:508][835]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Shark_Balc2_Sequence.Shark_Balc2_Sequence
+[2020.05.24-19.37.36:888][877]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Antonio\Downloads\Shark_balconi_2.fbx)
+[2020.05.24-19.37.37:028][877]LogFbx: Loading FBX Scene from C:\Users\Antonio\Downloads\Shark_balconi_2.fbx
+[2020.05.24-19.37.37:034][877]FBXImport: Warning: FBX Scene Loading Failed : 'File is corrupted Shark_balconi_2.fbx' 
+[2020.05.24-19.37.37:034][877]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2020.05.24-19.37.41:081][877]LogSlate: Window 'Message' being destroyed
+[2020.05.24-19.37.41:085][877]LogAssetTools: Warning: Failed to import 'C:\Users\Antonio\Downloads\Shark_balconi_2.fbx'. Failed to create asset '/Game/Animations/Shark/Shark_balconi_2'.
+Please see Output Log for details.
+[2020.05.24-19.37.53:212][  4]LogSlate: Window 'Message Log' being destroyed
+[2020.05.24-19.37.53:219][  4]LogSlate: Window 'Message Log' being destroyed
+[2020.05.24-19.43.12:826][992]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Shark\Exports\Shark_Balcony_2.fbx)
+[2020.05.24-19.43.12:938][992]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Shark\Exports\Shark_Balcony_2.fbx
+[2020.05.24-19.43.13:799][992]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.24-19.43.28:310][992]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.24-19.43.28:812][992]File is corrupted Shark_balconi_2.fbx
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster1) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster2) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster3) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster4) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster5) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster6) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster7) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster8) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster9) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:833][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster10) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster11) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster12) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster13) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster14) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster15) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster16) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster17) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster18) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster19) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster20) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster21) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster22) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster23) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster24) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster25) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster26) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster27) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster28) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:834][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster29) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:835][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster30) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:835][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster31) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:835][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster32) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:835][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster33) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.28:835][992]LogFbx: Valid bind pose for Pose (shark_rig_FINAL:skinCluster34) - shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.29:222][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:BODY_SMOOTH
+[2020.05.24-19.43.29:727][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:R_EYE
+[2020.05.24-19.43.29:796][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:L_EYE
+[2020.05.24-19.43.29:821][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface38
+[2020.05.24-19.43.29:843][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface37
+[2020.05.24-19.43.29:866][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface36
+[2020.05.24-19.43.29:888][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface35
+[2020.05.24-19.43.29:929][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface34
+[2020.05.24-19.43.29:953][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface33
+[2020.05.24-19.43.29:977][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface24
+[2020.05.24-19.43.30:000][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface23
+[2020.05.24-19.43.30:039][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface32
+[2020.05.24-19.43.30:062][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface31
+[2020.05.24-19.43.30:108][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface19
+[2020.05.24-19.43.30:131][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface18
+[2020.05.24-19.43.30:154][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface17
+[2020.05.24-19.43.30:177][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface22
+[2020.05.24-19.43.30:200][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface21
+[2020.05.24-19.43.30:223][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface20
+[2020.05.24-19.43.30:247][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface25
+[2020.05.24-19.43.30:289][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface16
+[2020.05.24-19.43.30:312][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface15
+[2020.05.24-19.43.30:334][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface40
+[2020.05.24-19.43.30:358][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface39
+[2020.05.24-19.43.30:384][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface8
+[2020.05.24-19.43.30:407][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface14
+[2020.05.24-19.43.30:432][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface12
+[2020.05.24-19.43.30:455][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface11
+[2020.05.24-19.43.30:478][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface26
+[2020.05.24-19.43.30:502][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface28
+[2020.05.24-19.43.30:525][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface13
+[2020.05.24-19.43.30:549][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface9
+[2020.05.24-19.43.30:572][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface29
+[2020.05.24-19.43.30:596][992]LogFbx: Triangulating skeletal mesh shark_rig_FINAL:polySurface30
+[2020.05.24-19.43.30:848][992]LogFbx: Warning: Bones digested - 111  Depth of hierarchy - 8
+[2020.05.24-19.43.31:803][992]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.24-19.43.31:804][992]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.24-19.43.31:979][992]LogSkeletalMesh: Building Skeletal Mesh Shark_Balcony_2...
+[2020.05.24-19.43.32:763][992]LogSkeletalMesh: Section 0: 18972 vertices, 29 active bones
+[2020.05.24-19.43.32:780][992]LogSkeletalMesh: Section 0: Material=0, 34166 triangles
+[2020.05.24-19.43.32:904][992]LogSkeletalMesh: Built Skeletal Mesh [0.93s] /Game/Animations/Shark/Shark_Balcony_2.Shark_Balcony_2
+[2020.05.24-19.43.32:918][992]LogLinker: Failed to load '/Game/Animations/Shark/Shark_Balcony_2_PhysicsAsset': Can't find file.
+[2020.05.24-19.43.32:918][992]LogLinker: Failed to load '/Game/Animations/Shark/Shark_Balcony_2_PhysicsAsset': Can't find file.
+[2020.05.24-19.43.33:312][992]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-19.43.33:312][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(1) RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(2) Lf_bottom_back_fin_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(3) Lf_bottom_back_fin_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(4) Lf_pectoralFin_root_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(5) Lf_pectoralFin_root_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(6) Lf_pectoralFin_root_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(7) Lf_pectoralFin_root_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(8) Lf_pectoralFin_root_4_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(9) Rt_bottom_back_fin_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(10) Rt_bottom_back_fin_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(11) Rt_pectoralFin_root_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(12) Rt_pectoralFin_root_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(13) Rt_pectoralFin_root_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(14) Rt_pectoralFin_root_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(15) Rt_pectoralFin_root_4_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(16) bottom_tail_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(17) bottom_tail_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(18) bottom_tail_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(19) bottom_tail_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(20) head_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(21) head_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(22) head_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(23) jaw_upper_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(24) Lf_eye_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(25) Rt_eye_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(26) jaw_lower_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(27) spine_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(28) spine_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(29) spine_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(30) spine_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(31) spine_4_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(32) spine_5_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(33) top_fin_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(34) top_fin_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(35) top_fin_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(36) top_fin_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(37) top_tail_RIG_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(38) top_tail_1_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(39) top_tail_2_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(40) top_tail_3_jnt
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(41) CTRL_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(42) Lf_bottom_back_fin_CTRL_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(43) Lf_bottom_back_fin_1_ctrl_ref
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(44) Lf_bottom_back_fin_1_ctrl_auto
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(45) Lf_pectoralFin_root_CTRL_GRP
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(46) Lf_pectoralFin_root_1_ctrl_ref
+[2020.05.24-19.43.33:463][992]LogFbx: SortedLinks :(47) Lf_pectoralFin_root_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(48) Rt_bottom_back_fin_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(49) Rt_bottom_back_fin_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(50) Rt_bottom_back_fin_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(51) Rt_pectoralFin_root_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(52) Rt_pectoralFin_root_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(53) Rt_pectoralFin_root_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(54) bottom_tail_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(55) bottom_tail_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(56) bottom_tail_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(57) head_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(58) head_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(59) head_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(60) placer_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(61) global_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(62) spine_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(63) spine_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(64) spine_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(65) top_fin_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(66) top_fin_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(67) top_fin_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(68) top_tail_CTRL_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(69) top_tail_1_ctrl_ref
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(70) top_tail_1_ctrl_auto
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(71) GEO_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(72) BODY_SMOOTH
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(73) R_EYE_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(74) R_EYE
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(75) L_EYE_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(76) L_EYE
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(77) TEETH_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(78) LOWER_TEETH_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(79) polySurface38
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(80) polySurface37
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(81) polySurface36
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(82) polySurface35
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(83) polySurface34
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(84) polySurface33
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(85) polySurface24
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(86) polySurface23
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(87) polySurface32
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(88) polySurface31
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(89) polySurface19
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(90) polySurface18
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(91) polySurface17
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(92) polySurface22
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(93) polySurface21
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(94) polySurface20
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(95) polySurface25
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(96) polySurface16
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(97) polySurface15
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(98) UPPER_TEEH_GRP
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(99) polySurface40
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(100) polySurface39
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(101) polySurface8
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(102) polySurface14
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(103) polySurface12
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(104) polySurface11
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(105) polySurface26
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(106) polySurface28
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(107) polySurface13
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(108) polySurface9
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(109) polySurface29
+[2020.05.24-19.43.33:464][992]LogFbx: SortedLinks :(110) polySurface30
+[2020.05.24-19.43.33:510][992]LogFbx: Parsing AnimStack Shark_Balcony_2
+[2020.05.24-19.43.33:660][992]LogLinker: Failed to load '/Game/Animations/Shark/Shark_Balcony_2_Anim': Can't find file.
+[2020.05.24-19.43.33:660][992]LogLinker: Failed to load '/Game/Animations/Shark/Shark_Balcony_2_Anim': Can't find file.
+[2020.05.24-19.43.53:744][992]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Shark/Shark_Balcony_2_Anim.Shark_Balcony_2_Anim
+[2020.05.24-19.43.53:744][992]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Shark/Shark_Balcony_2_Anim.Shark_Balcony_2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:573][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-19.43.54:574][992]FBXImport: Warning: The following bones are missing from the bind pose:
+shark_rig_FINAL:CTRL_GRP  
+shark_rig_FINAL:Lf_bottom_back_fin_CTRL_GRP  
+shark_rig_FINAL:Lf_bottom_back_fin_1_ctrl_ref  
+shark_rig_FINAL:Lf_bottom_back_fin_1_ctrl_auto  
+shark_rig_FINAL:Lf_pectoralFin_root_CTRL_GRP  
+shark_rig_FINAL:Lf_pectoralFin_root_1_ctrl_ref  
+shark_rig_FINAL:Lf_pectoralFin_root_1_ctrl_auto  
+shark_rig_FINAL:Rt_bottom_back_fin_CTRL_GRP  
+shark_rig_FINAL:Rt_bottom_back_fin_1_ctrl_ref  
+shark_rig_FINAL:Rt_bottom_back_fin_1_ctrl_auto  
+shark_rig_FINAL:Rt_pectoralFin_root_CTRL_GRP  
+shark_rig_FINAL:Rt_pectoralFin_root_1_ctrl_ref  
+shark_rig_FINAL:Rt_pectoralFin_root_1_ctrl_auto  
+shark_rig_FINAL:bottom_tail_CTRL_GRP  
+shark_rig_FINAL:bottom_tail_1_ctrl_ref  
+shark_rig_FINAL:bottom_tail_1_ctrl_auto  
+shark_rig_FINAL:head_CTRL_GRP  
+shark_rig_FINAL:head_1_ctrl_ref  
+shark_rig_FINAL:head_1_ctrl_auto  
+shark_rig_FINAL:placer_CTRL_GRP  
+shark_rig_FINAL:global_ctrl_ref  
+shark_rig_FINAL:spine_CTRL_GRP  
+shark_rig_FINAL:spine_1_ctrl_ref  
+shark_rig_FINAL:spine_1_ctrl_auto  
+shark_rig_FINAL:top_fin_CTRL_GRP  
+shark_rig_FINAL:top_fin_1_ctrl_ref  
+shark_rig_FINAL:top_fin_1_ctrl_auto  
+shark_rig_FINAL:top_tail_CTRL_GRP  
+shark_rig_FINAL:top_tail_1_ctrl_ref  
+shark_rig_FINAL:top_tail_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.24-19.44.12:712][565]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Shark_Balc2_Sequence)
+[2020.05.24-19.46.54:207][784]LogUObjectHash: Compacting FUObjectHashTables data took  12.36ms
+[2020.05.24-19.46.56:253][784]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-19.46.56:601][784]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Balcony_21026AFCE4F4169900D57C7BF64688D7B.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_Balcony_2.uasset'
+[2020.05.24-19.46.57:016][784]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Balcony_2_AnimDE0BB00E440D907795239BB33D462190.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_Balcony_2_Anim.uasset'
+[2020.05.24-19.46.57:080][784]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Balcony_2_PhysicsAsset8C9F891546F45D6583668FAD49117454.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Shark/Shark_Balcony_2_PhysicsAsset.uasset'
+[2020.05.24-19.46.57:198][784]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Shark_Balc2_Sequence70279DA34D12EDCEAEDF41B3C42AD5D2.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Shark_Balc2_Sequence.uasset'
+[2020.05.24-19.46.57:352][784]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-19.46.57:352][784]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Shark/Shark_Balcony_2.Shark_Balcony_2
+[2020.05.24-19.46.57:352][784]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Shark/Shark_Balcony_2_Anim.Shark_Balcony_2_Anim
+[2020.05.24-19.46.57:352][784]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Shark/Shark_Balcony_2_PhysicsAsset.Shark_Balcony_2_PhysicsAsset
+[2020.05.24-19.46.57:352][784]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Shark_Balc2_Sequence.Shark_Balc2_Sequence
