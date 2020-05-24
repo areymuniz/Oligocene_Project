@@ -1089,3 +1089,202 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert3.lambert3
 [2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert4.lambert4
 [2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-17.30.04:431][167]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.24-17.30.09:707][477]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.05.24-17.30.20:239][ 85]LogRenderer: Reallocating scene render targets to support 920x388 Format 26 NumSamples 1 (Frame:47048).
+[2020.05.24-17.30.20:519][ 87]LogRenderer: Reallocating scene render targets to support 920x412 Format 26 NumSamples 1 (Frame:47051).
+[2020.05.24-17.30.20:577][ 89]LogRenderer: Reallocating scene render targets to support 920x420 Format 26 NumSamples 1 (Frame:47055).
+[2020.05.24-17.30.20:608][ 90]LogRenderer: Reallocating scene render targets to support 920x424 Format 26 NumSamples 1 (Frame:47057).
+[2020.05.24-17.30.20:639][ 91]LogRenderer: Reallocating scene render targets to support 920x436 Format 26 NumSamples 1 (Frame:47059).
+[2020.05.24-17.30.20:666][ 92]LogRenderer: Reallocating scene render targets to support 920x444 Format 26 NumSamples 1 (Frame:47061).
+[2020.05.24-17.30.20:692][ 93]LogRenderer: Reallocating scene render targets to support 920x448 Format 26 NumSamples 1 (Frame:47063).
+[2020.05.24-17.30.20:721][ 94]LogRenderer: Reallocating scene render targets to support 920x452 Format 26 NumSamples 1 (Frame:47065).
+[2020.05.24-17.30.20:751][ 95]LogRenderer: Reallocating scene render targets to support 920x456 Format 26 NumSamples 1 (Frame:47067).
+[2020.05.24-17.30.20:823][ 98]LogRenderer: Reallocating scene render targets to support 920x460 Format 26 NumSamples 1 (Frame:47073).
+[2020.05.24-17.30.20:890][101]LogRenderer: Reallocating scene render targets to support 920x464 Format 26 NumSamples 1 (Frame:47079).
+[2020.05.24-17.30.20:975][105]LogRenderer: Reallocating scene render targets to support 920x468 Format 26 NumSamples 1 (Frame:47085).
+[2020.05.24-17.30.21:026][108]LogRenderer: Reallocating scene render targets to support 920x472 Format 26 NumSamples 1 (Frame:47087).
+[2020.05.24-17.30.21:096][112]LogRenderer: Reallocating scene render targets to support 920x476 Format 26 NumSamples 1 (Frame:47093).
+[2020.05.24-17.30.21:121][113]LogRenderer: Reallocating scene render targets to support 920x480 Format 26 NumSamples 1 (Frame:47095).
+[2020.05.24-17.30.21:171][115]LogRenderer: Reallocating scene render targets to support 920x484 Format 26 NumSamples 1 (Frame:47099).
+[2020.05.24-17.30.21:215][117]LogRenderer: Reallocating scene render targets to support 920x488 Format 26 NumSamples 1 (Frame:47103).
+[2020.05.24-17.30.21:260][119]LogRenderer: Reallocating scene render targets to support 920x492 Format 26 NumSamples 1 (Frame:47107).
+[2020.05.24-17.30.21:596][138]LogRenderer: Reallocating scene render targets to support 920x496 Format 26 NumSamples 1 (Frame:47115).
+[2020.05.24-17.30.21:642][140]LogRenderer: Reallocating scene render targets to support 920x500 Format 26 NumSamples 1 (Frame:47119).
+[2020.05.24-17.30.21:689][142]LogRenderer: Reallocating scene render targets to support 920x504 Format 26 NumSamples 1 (Frame:47123).
+[2020.05.24-17.31.42:253][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.31.42:355][586]LogFMOD: Creating runtime Studio System
+[2020.05.24-17.31.42:380][586]LogFMOD: Default sample rate = 48000
+[2020.05.24-17.31.42:380][586]LogFMOD: System sample rate = 48000
+[2020.05.24-17.31.42:380][586]LogFMOD: Matching system sample rate 48000
+[2020.05.24-17.31.42:452][586]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.24-17.31.42:452][586]LogFMOD: Trying to load plugin file at location: ../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.24-17.31.42:453][586]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.24-17.31.42:453][586]LogFMOD: Loading Banks
+[2020.05.24-17.31.42:716][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.24-17.31.42:778][586]PIE: New page: SIE session: Oligocene_Playable (May 24, 2020, 9:31:42 AM)
+[2020.05.24-17.31.42:888][586]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.24-17.31.42:890][586]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.24-17.31.42:964][586]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.24-17.31.43:542][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.578992s)
+[2020.05.24-17.31.43:571][586]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.24-17.31.43:610][586]LogPlayLevel: PIE: World Init took: (0.067434s)
+[2020.05.24-17.31.43:651][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable to /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable (0.687931s)
+[2020.05.24-17.31.43:692][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.24-17.31.43:767][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.24-17.31.43:767][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.24-17.31.43:775][586]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.24-17.31.43:776][586]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Is Default: Yes
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: Channel Order:
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.24-17.31.43:797][586]LogAudioMixer: Display: 1: FrontRight
+[2020.05.24-17.31.43:804][586]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.05.24-17.31.43:807][586]LogInit: FAudioDevice initialized.
+[2020.05.24-17.31.43:913][586]LogLoad: Game class is 'GameMode'
+[2020.05.24-17.31.44:147][586]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable up for play (max tick rate 60) at 2020.05.24-13.31.44
+[2020.05.24-17.31.44:228][586]LogWorld: Bringing up level for play took: 0.181668
+[2020.05.24-17.31.44:246][586]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.05.24-17.31.44:271][586]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.24-17.31.44:425][586]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.24-17.31.44:444][586]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.24-17.31.44:749][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.24-17.31.44:750][586]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable 3.123
+[2020.05.24-17.31.44:880][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.33.48:793][ 66]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.33.48:793][ 66]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.33.48:890][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.33.49:029][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.33.49:029][ 66]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.24-17.33.49:030][ 66]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.33.49:054][ 66]LogWorld: UWorld::CleanupWorld for Oligocene_Playable, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-17.33.49:102][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.33.49:127][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.24-17.33.49:128][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.33.49:142][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.33.49:272][ 66]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.33.49:316][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.33.49:561][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.05.24-17.33.49:594][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.24-17.35.20:367][232]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tuna_Model)
+[2020.05.24-17.40.19:464][969]LogTemp: Repeating last play command: Simulate
+[2020.05.24-17.40.19:488][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.40.19:516][969]LogFMOD: Creating runtime Studio System
+[2020.05.24-17.40.19:520][969]LogFMOD: Default sample rate = 48000
+[2020.05.24-17.40.19:520][969]LogFMOD: System sample rate = 48000
+[2020.05.24-17.40.19:520][969]LogFMOD: Matching system sample rate 48000
+[2020.05.24-17.40.19:531][969]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.24-17.40.19:531][969]LogFMOD: Trying to load plugin file at location: ../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.24-17.40.19:531][969]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.24-17.40.19:531][969]LogFMOD: Loading Banks
+[2020.05.24-17.40.19:578][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.24-17.40.19:578][969]PIE: New page: SIE session: Oligocene_Playable (May 24, 2020, 9:40:19 AM)
+[2020.05.24-17.40.19:578][969]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.24-17.40.20:004][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.426222s)
+[2020.05.24-17.40.20:005][969]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.24-17.40.20:005][969]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2020.05.24-17.40.20:006][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable to /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable (0.428344s)
+[2020.05.24-17.40.20:050][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.24-17.40.20:060][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.24-17.40.20:060][969]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.24-17.40.20:060][969]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.24-17.40.20:080][969]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.24-17.40.20:080][969]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: Is Default: Yes
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: Channel Order:
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.24-17.40.20:081][969]LogAudioMixer: Display: 1: FrontRight
+[2020.05.24-17.40.20:088][969]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.05.24-17.40.20:090][969]LogInit: FAudioDevice initialized.
+[2020.05.24-17.40.20:101][969]LogLoad: Game class is 'GameMode'
+[2020.05.24-17.40.20:155][969]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable.Oligocene_Playable up for play (max tick rate 60) at 2020.05.24-13.40.20
+[2020.05.24-17.40.20:157][969]LogWorld: Bringing up level for play took: 0.055600
+[2020.05.24-17.40.20:158][969]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.05.24-17.40.20:159][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.24-17.40.20:159][969]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.24-17.40.20:168][969]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.24-17.40.20:168][969]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable 0.541
+[2020.05.24-17.40.20:200][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.41.29:686][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.41.29:686][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.41.29:686][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.41.29:787][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.41.29:787][619]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_Oligocene_Playable
+[2020.05.24-17.41.29:788][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.41.29:792][619]LogWorld: UWorld::CleanupWorld for Oligocene_Playable, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-17.41.29:800][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.41.29:813][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.24-17.41.29:813][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable' with GeneratedClass '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable:PersistentLevel.Oligocene_Playable'
+[2020.05.24-17.41.29:821][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.41.29:885][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.41.29:888][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.41.29:920][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.24-17.41.29:938][620]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.24-17.45.05:716][210]Cmd: DELETE
+[2020.05.24-17.45.05:716][210]Cmd: ACTOR DELETE
+[2020.05.24-17.45.06:722][210]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.24-17.45.06:764][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.05.24-17.45.06:769][210]LogEditorActor: Deleted 1 Actors (0.836 secs)
+[2020.05.24-17.45.11:190][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Dolphin_Skeleton)
+[2020.05.24-17.47.01:795][200]Cmd: MODE ROTGRID=0
+[2020.05.24-17.48.58:243][ 67]Cmd: DELETE
+[2020.05.24-17.48.58:243][ 67]Cmd: ACTOR DELETE
+[2020.05.24-17.48.58:279][ 67]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.24-17.48.58:321][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.05.24-17.48.58:328][ 67]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2020.05.24-17.59.10:661][388]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Hero_Dolphin_Skeleton\Hero_Skeleton_Skin.fbx)
+[2020.05.24-17.59.10:674][388]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Hero_Dolphin_Skeleton\Hero_Skeleton_Skin.fbx
+[2020.05.24-17.59.11:895][388]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.24-17.59.28:146][388]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.24-17.59.28:215][388]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.24-17.59.28:262][388]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.24-17.59.28:262][388]LogFbx: Display: Triangulating static mesh heroDolphin_rig_FINAL:BODY
+[2020.05.24-17.59.28:911][388]LogStaticMesh: Building static mesh Hero_Skeleton_Skin...
+[2020.05.24-17.59.29:150][388]LogStaticMesh: Built static mesh [0.24s] /Game/Characters/Hero_Dolphin_Skeleton/Hero_Skeleton_Skin.Hero_Skeleton_Skin
+[2020.05.24-17.59.34:740][623]LogActorFactory: Actor Factory created Hero_Skeleton_Skin
+[2020.05.24-17.59.41:374][990]LogActorFactory: Actor Factory created Hero_Skeleton_Skin
+[2020.05.24-18.00.46:481][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Dolphin_Skeleton)
+[2020.05.24-18.01.01:656][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Skeleton_Skin)
+[2020.05.24-18.01.09:308][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Dolphin_Skeleton)
+[2020.05.24-18.01.14:917][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Skeleton_Skin)
+[2020.05.24-18.03.27:200][340]Cmd: TRANSACTION UNDO
+[2020.05.24-18.03.27:200][340]LogEditorTransaction: Undo Move Actors
+[2020.05.24-18.04.29:355][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.05.24-18.04.31:213][964]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-18.04.31:305][964]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Hero_Skeleton_Skin1983715A4198EE379D38DDA6593CDDD9.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/Hero_Skeleton_Skin.uasset'
+[2020.05.24-18.04.31:339][964]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert66DF154A4496FBB7BFE6DE5B7BC0478C1.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/lambert6.uasset'
+[2020.05.24-18.04.31:386][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.05.24-18.04.32:855][964]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableCFA13B6C4174467D8A48768DD76B642E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.24-18.04.32:902][964]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.561
+[2020.05.24-18.04.32:949][964]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Hero_Dolphin_Skeleton/Hero_Skeleton_Skin.Hero_Skeleton_Skin
+[2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert6.lambert6
+[2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
