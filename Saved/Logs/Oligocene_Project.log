@@ -1288,3 +1288,429 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Hero_Dolphin_Skeleton/Hero_Skeleton_Skin.Hero_Skeleton_Skin
 [2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert6.lambert6
 [2020.05.24-18.04.32:949][964]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-18.50.40:862][638]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Antonio\Downloads\Usen_heroDolphin_slow swim_update.fbx)
+[2020.05.24-18.50.40:874][638]LogFbx: Loading FBX Scene from C:\Users\Antonio\Downloads\Usen_heroDolphin_slow swim_update.fbx
+[2020.05.24-18.50.40:924][638]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.24-18.50.55:247][638]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.24-18.50.56:139][638]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster1) - heroDolphin_rig_FINAL:BODY
+[2020.05.24-18.50.56:173][638]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:BODY
+[2020.05.24-18.50.56:669][638]LogFbx: Warning: Bones digested - 36  Depth of hierarchy - 8
+[2020.05.24-18.50.57:115][638]LogSkeletalMesh: Section 0: 6280 vertices, 22 active bones
+[2020.05.24-18.50.57:116][638]LogSkeletalMesh: Section 0: Material=0, 11467 triangles
+[2020.05.24-18.50.57:121][638]LogSkeletalMesh: Building Skeletal Mesh Usen_heroDolphin_slow_swim_update...
+[2020.05.24-18.50.57:345][638]LogSkeletalMesh: Section 0: 6280 vertices, 22 active bones
+[2020.05.24-18.50.57:346][638]LogSkeletalMesh: Section 0: Material=0, 11467 triangles
+[2020.05.24-18.50.57:385][638]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update.Usen_heroDolphin_slow_swim_update
+[2020.05.24-18.50.57:398][638]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_PhysicsAsset': Can't find file.
+[2020.05.24-18.50.57:398][638]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_PhysicsAsset': Can't find file.
+[2020.05.24-18.50.57:426][638]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.50.57:426][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.50.57:503][638]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(1) RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(2) Lf_pectoralFin_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(3) Lf_pectoralFin_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(4) Lf_pectoralFin_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(5) Lf_pectoralFin_3_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(6) Lf_pectoralFin_4_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(7) Lf_tail_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(8) Lf_tail_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(9) Lf_tail_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(10) Lf_tail_3_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(11) Rt_pectoralFin_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(12) Rt_pectoralFin_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(13) Rt_pectoralFin_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(14) Rt_pectoralFin_3_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(15) Rt_pectoralFin_4_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(16) Rt_tail_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(17) Rt_tail_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(18) Rt_tail_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(19) Rt_tail_3_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(20) head_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(21) head_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(22) head_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(23) jaw_upper_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(24) jaw_lower_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(25) l_eye_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(26) r_eye_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(27) placer_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(28) spine_RIG_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(29) spine_1_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(30) spine_2_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(31) spine_3_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(32) spine_4_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(33) spine_5_jnt
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(34) GEO_GRP
+[2020.05.24-18.50.57:504][638]LogFbx: SortedLinks :(35) BODY
+[2020.05.24-18.50.57:505][638]LogFbx: Parsing AnimStack Usen_heroDolphin_slow swim_update
+[2020.05.24-18.50.57:506][638]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim': Can't find file.
+[2020.05.24-18.50.57:506][638]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim': Can't find file.
+[2020.05.24-18.50.57:739][638]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim.Usen_heroDolphin_slow_swim_update_Anim
+[2020.05.24-18.50.57:767][638]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim.Usen_heroDolphin_slow_swim_update_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.24-18.50.57:837][638]FBXImport: Warning: The following bones are missing from the bind pose:
+heroDolphin_rig_FINAL:l_eye_jnt  
+heroDolphin_rig_FINAL:r_eye_jnt  
+heroDolphin_rig_FINAL:placer_RIG_GRP  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.24-18.51.03:471][914]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim.Usen_heroDolphin_slow_swim_update_Anim
+[2020.05.24-18.51.03:742][914]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.05.24-18.51.04:254][914]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-18.51.04:286][914]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.05.24-18.51.04:536][914]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.24-18.51.06:753][914]LogRenderer: Reallocating scene render targets to support 1060x504 Format 26 NumSamples 1 (Frame:1).
+[2020.05.24-18.51.06:837][914]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.24-18.51.21:701][697]LogSlate: Window 'Usen_heroDolphin_slow_swim_update_Anim' being destroyed
+[2020.05.24-18.51.21:707][697]LogSlate: Window 'Usen_heroDolphin_slow_swim_update_Anim' being destroyed
+[2020.05.24-18.51.21:726][697]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.51.21:727][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.51.22:028][697]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.51.22:028][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.51.22:071][697]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.51.22:072][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.51.22:150][697]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.51.22:150][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.51.27:656][817]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Antonio\Downloads\PatrickArmario_HeroDolphin_SwimFast.fbx)
+[2020.05.24-18.51.27:676][817]LogFbx: Loading FBX Scene from C:\Users\Antonio\Downloads\PatrickArmario_HeroDolphin_SwimFast.fbx
+[2020.05.24-18.51.27:934][817]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.24-18.51.36:909][817]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.24-18.51.36:977][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster1) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster2) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster3) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster4) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster5) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster6) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster7) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster8) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster9) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster10) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster11) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster12) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster13) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster14) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster15) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster16) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster17) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster18) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster19) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster20) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:978][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster21) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster22) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster23) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster24) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster25) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster26) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster27) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster28) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster29) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster30) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster31) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster32) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster33) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster34) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster35) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster36) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster37) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster38) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:979][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster39) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster40) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster41) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster42) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster43) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster44) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster45) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster46) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster47) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster48) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster49) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster50) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster51) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.36:980][817]LogFbx: Valid bind pose for Pose (heroDolphin_rig_FINAL:skinCluster52) - heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.37:008][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.37:017][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_11_Tooth_GEO
+[2020.05.24-18.51.37:025][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_12_Tooth_GEO
+[2020.05.24-18.51.37:033][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_10_Tooth_GEO
+[2020.05.24-18.51.37:042][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_7_Tooth_GEO
+[2020.05.24-18.51.37:050][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_9_Tooth_GEO
+[2020.05.24-18.51.37:059][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_3_Tooth_GEO
+[2020.05.24-18.51.37:067][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_8_Tooth_GEO
+[2020.05.24-18.51.37:075][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_7_Tooth_GEO
+[2020.05.24-18.51.37:084][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_5_Tooth_GEO
+[2020.05.24-18.51.37:092][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_6_Tooth_GEO
+[2020.05.24-18.51.37:100][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_9_Tooth_GEO
+[2020.05.24-18.51.37:108][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_2_Tooth_GEO
+[2020.05.24-18.51.37:116][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_10_Tooth_GEO
+[2020.05.24-18.51.37:125][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_11_Tooth_GEO
+[2020.05.24-18.51.37:132][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_2_Tooth_GEO
+[2020.05.24-18.51.37:140][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_8_Tooth_GEO
+[2020.05.24-18.51.37:149][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_12_Tooth_GEO
+[2020.05.24-18.51.37:157][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_3_Tooth_GEO
+[2020.05.24-18.51.37:165][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_6_Tooth_GEO
+[2020.05.24-18.51.37:172][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_4_Tooth_GEO
+[2020.05.24-18.51.37:180][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_5_Tooth_GEO
+[2020.05.24-18.51.37:188][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_C_Tooth_GEO
+[2020.05.24-18.51.37:195][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_L_1_Tooth_GEO
+[2020.05.24-18.51.37:203][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_12_Tooth_GEO
+[2020.05.24-18.51.37:211][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_11_Tooth_GEO
+[2020.05.24-18.51.37:219][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_10_Tooth_GEO
+[2020.05.24-18.51.37:227][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_9_Tooth_GEO
+[2020.05.24-18.51.37:235][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_8_Tooth_GEO
+[2020.05.24-18.51.37:243][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_7_Tooth_GEO
+[2020.05.24-18.51.37:251][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_6_Tooth_GEO
+[2020.05.24-18.51.37:259][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_5_Tooth_GEO
+[2020.05.24-18.51.37:267][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_4_Tooth_GEO
+[2020.05.24-18.51.37:274][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_3_Tooth_GEO
+[2020.05.24-18.51.37:282][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_2_Tooth_GEO
+[2020.05.24-18.51.37:290][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_L_1_Tooth_GEO
+[2020.05.24-18.51.37:298][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_1_Tooth_GEO
+[2020.05.24-18.51.37:306][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_12_Tooth_GEO
+[2020.05.24-18.51.37:314][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_11_Tooth_GEO
+[2020.05.24-18.51.37:321][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_10_Tooth_GEO
+[2020.05.24-18.51.37:329][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_9_Tooth_GEO
+[2020.05.24-18.51.37:337][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_8_Tooth_GEO
+[2020.05.24-18.51.37:344][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_7_Tooth_GEO
+[2020.05.24-18.51.37:352][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_6_Tooth_GEO
+[2020.05.24-18.51.37:360][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_5_Tooth_GEO
+[2020.05.24-18.51.37:368][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_4_Tooth_GEO
+[2020.05.24-18.51.37:376][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_3_Tooth_GEO
+[2020.05.24-18.51.37:383][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Top_R_2_Tooth_GEO
+[2020.05.24-18.51.37:391][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:Bottom_R_1_Tooth_GEO
+[2020.05.24-18.51.37:399][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:L_EYE
+[2020.05.24-18.51.37:433][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:BODY
+[2020.05.24-18.51.37:863][817]LogFbx: Triangulating skeletal mesh heroDolphin_rig_FINAL:R_EYE
+[2020.05.24-18.51.37:906][817]LogFbx: Warning: Bones digested - 109  Depth of hierarchy - 8
+[2020.05.24-18.51.38:425][817]LogSkeletalMesh: Section 0: 7887 vertices, 4 active bones
+[2020.05.24-18.51.38:425][817]LogSkeletalMesh: Section 1: 6280 vertices, 22 active bones
+[2020.05.24-18.51.38:427][817]LogSkeletalMesh: Section 0: Material=0, 11712 triangles
+[2020.05.24-18.51.38:427][817]LogSkeletalMesh: Section 1: Material=1, 11467 triangles
+[2020.05.24-18.51.38:434][817]LogSkeletalMesh: Building Skeletal Mesh PatrickArmario_HeroDolphin_SwimFast...
+[2020.05.24-18.51.38:880][817]LogSkeletalMesh: Section 0: 7887 vertices, 4 active bones
+[2020.05.24-18.51.38:880][817]LogSkeletalMesh: Section 1: 6280 vertices, 22 active bones
+[2020.05.24-18.51.38:881][817]LogSkeletalMesh: Section 0: Material=0, 11712 triangles
+[2020.05.24-18.51.38:881][817]LogSkeletalMesh: Section 1: Material=1, 11467 triangles
+[2020.05.24-18.51.38:920][817]LogSkeletalMesh: Built Skeletal Mesh [0.49s] /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast.PatrickArmario_HeroDolphin_SwimFast
+[2020.05.24-18.51.38:924][817]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_PhysicsAsset': Can't find file.
+[2020.05.24-18.51.38:924][817]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_PhysicsAsset': Can't find file.
+[2020.05.24-18.51.38:936][817]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-18.51.38:936][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(0) CHAR_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(1) RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(2) Lf_pectoralFin_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(3) Lf_pectoralFin_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(4) Lf_pectoralFin_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(5) Lf_pectoralFin_3_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(6) Lf_pectoralFin_4_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(7) Lf_tail_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(8) Lf_tail_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(9) Lf_tail_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(10) Lf_tail_3_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(11) Rt_pectoralFin_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(12) Rt_pectoralFin_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(13) Rt_pectoralFin_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(14) Rt_pectoralFin_3_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(15) Rt_pectoralFin_4_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(16) Rt_tail_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(17) Rt_tail_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(18) Rt_tail_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(19) Rt_tail_3_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(20) head_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(21) head_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(22) head_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(23) jaw_upper_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(24) jaw_lower_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(25) l_eye_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(26) r_eye_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(27) placer_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(28) spine_RIG_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(29) spine_1_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(30) spine_2_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(31) spine_3_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(32) spine_4_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(33) spine_5_jnt
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(34) CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(35) Lf_pectoralFin_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(36) Lf_pectoralFin_1_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(37) Lf_pectoralFin_1_ctrl_auto
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(38) Lf_tail_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(39) Lf_tail_1_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(40) Lf_tail_1_ctrl_auto
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(41) Rt_pectoralFin_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(42) Rt_pectoralFin_1_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(43) Rt_pectoralFin_1_ctrl_auto
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(44) Rt_tail_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(45) Rt_tail_1_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(46) Rt_tail_1_ctrl_auto
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(47) head_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(48) head_1_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(49) head_1_ctrl_auto
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(50) placer_CTRL_GRP
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(51) global_ctrl_ref
+[2020.05.24-18.51.38:954][817]LogFbx: SortedLinks :(52) spine_CTRL_GRP
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(53) spine_1_ctrl_ref
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(54) spine_1_ctrl_auto
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(55) GEO_GRP
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(56) TEETH
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(57) Bottom_R_4_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(58) Bottom_L_11_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(59) Bottom_L_12_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(60) Bottom_L_10_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(61) Bottom_L_7_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(62) Bottom_L_9_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(63) Bottom_L_3_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(64) Bottom_R_8_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(65) Bottom_R_7_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(66) Bottom_R_5_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(67) Bottom_R_6_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(68) Bottom_R_9_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(69) Bottom_R_2_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(70) Bottom_R_10_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(71) Bottom_R_11_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(72) Bottom_L_2_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(73) Bottom_L_8_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(74) Bottom_R_12_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(75) Bottom_R_3_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(76) Bottom_L_6_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(77) Bottom_L_4_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(78) Bottom_L_5_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(79) Top_C_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(80) Bottom_L_1_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(81) Top_L_12_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(82) Top_L_11_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(83) Top_L_10_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(84) Top_L_9_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(85) Top_L_8_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(86) Top_L_7_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(87) Top_L_6_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(88) Top_L_5_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(89) Top_L_4_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(90) Top_L_3_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(91) Top_L_2_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(92) Top_L_1_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(93) Top_R_1_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(94) Top_R_12_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(95) Top_R_11_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(96) Top_R_10_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(97) Top_R_9_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(98) Top_R_8_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(99) Top_R_7_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(100) Top_R_6_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(101) Top_R_5_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(102) Top_R_4_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(103) Top_R_3_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(104) Top_R_2_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(105) Bottom_R_1_Tooth_GEO
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(106) L_EYE
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(107) BODY
+[2020.05.24-18.51.38:955][817]LogFbx: SortedLinks :(108) R_EYE
+[2020.05.24-18.51.38:956][817]LogFbx: Parsing AnimStack PatrickArmario_HeroDolphin_SwimFast
+[2020.05.24-18.51.38:956][817]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim': Can't find file.
+[2020.05.24-18.51.38:957][817]LogLinker: Failed to load '/Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim': Can't find file.
+[2020.05.24-18.51.39:256][817]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim.PatrickArmario_HeroDolphin_SwimFast_Anim
+[2020.05.24-18.51.39:256][817]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim.PatrickArmario_HeroDolphin_SwimFast_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:297][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.05.24-18.51.39:298][817]FBXImport: Warning: The following bones are missing from the bind pose:
+heroDolphin_rig_FINAL:placer_RIG_GRP  
+heroDolphin_rig_FINAL:CTRL_GRP  
+heroDolphin_rig_FINAL:Lf_pectoralFin_CTRL_GRP  
+heroDolphin_rig_FINAL:Lf_pectoralFin_1_ctrl_ref  
+heroDolphin_rig_FINAL:Lf_pectoralFin_1_ctrl_auto  
+heroDolphin_rig_FINAL:Lf_tail_CTRL_GRP  
+heroDolphin_rig_FINAL:Lf_tail_1_ctrl_ref  
+heroDolphin_rig_FINAL:Lf_tail_1_ctrl_auto  
+heroDolphin_rig_FINAL:Rt_pectoralFin_CTRL_GRP  
+heroDolphin_rig_FINAL:Rt_pectoralFin_1_ctrl_ref  
+heroDolphin_rig_FINAL:Rt_pectoralFin_1_ctrl_auto  
+heroDolphin_rig_FINAL:Rt_tail_CTRL_GRP  
+heroDolphin_rig_FINAL:Rt_tail_1_ctrl_ref  
+heroDolphin_rig_FINAL:Rt_tail_1_ctrl_auto  
+heroDolphin_rig_FINAL:head_CTRL_GRP  
+heroDolphin_rig_FINAL:head_1_ctrl_ref  
+heroDolphin_rig_FINAL:head_1_ctrl_auto  
+heroDolphin_rig_FINAL:placer_CTRL_GRP  
+heroDolphin_rig_FINAL:global_ctrl_ref  
+heroDolphin_rig_FINAL:spine_CTRL_GRP  
+heroDolphin_rig_FINAL:spine_1_ctrl_ref  
+heroDolphin_rig_FINAL:spine_1_ctrl_auto  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.05.24-18.51.58:985][829]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim.PatrickArmario_HeroDolphin_SwimFast_Anim
+[2020.05.24-18.51.58:992][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-18.51.59:068][829]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.24-18.51.59:376][829]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.24-18.52.48:871][623]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2020.05.24-18.52.50:815][623]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-18.52.50:950][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/PatrickArmario_HeroDolphin_SwimFF17146BF4CEA9E4E0C3200B3F21182B7.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast.uasset'
+[2020.05.24-18.52.50:986][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/PatrickArmario_HeroDolphin_SwimF4E777F684D283BEBA71DA98EDB138973.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim.uasset'
+[2020.05.24-18.52.51:023][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/PatrickArmario_HeroDolphin_SwimFCEB0B2EA4D0CFCD70E331D88715B2F51.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_PhysicsAsset.uasset'
+[2020.05.24-18.52.51:092][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Usen_heroDolphin_slow_swim_updat4B366D4F443732E2D73727A35B117EAC.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update.uasset'
+[2020.05.24-18.52.51:125][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Usen_heroDolphin_slow_swim_updat9C0950CA4688608134606A85892930BA.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim.uasset'
+[2020.05.24-18.52.51:160][623]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Usen_heroDolphin_slow_swim_updat26831B90415E1FA5666CC1979ADB021B.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_PhysicsAsset.uasset'
+[2020.05.24-18.52.51:250][623]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast.PatrickArmario_HeroDolphin_SwimFast
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_Anim.PatrickArmario_HeroDolphin_SwimFast_Anim
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Hero_Dolphin/PatrickArmario_HeroDolphin_SwimFast_PhysicsAsset.PatrickArmario_HeroDolphin_SwimFast_PhysicsAsset
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating SkeletalMesh /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update.Usen_heroDolphin_slow_swim_update
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating AnimSequence /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_Anim.Usen_heroDolphin_slow_swim_update_Anim
+[2020.05.24-18.52.51:250][623]LogContentValidation: Display: Validating PhysicsAsset /Game/Animations/Hero_Dolphin/Usen_heroDolphin_slow_swim_update_PhysicsAsset.Usen_heroDolphin_slow_swim_update_PhysicsAsset
+[2020.05.24-18.53.47:040][461]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Tunnel_Dolphin_Sequence)
+[2020.05.24-18.53.51:694][939]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Tunnel_Dolphin_Sequence.Tunnel_Dolphin_Sequence
+[2020.05.24-18.54.12:174][  8]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Hero_Dolphin_Test_2)
+[2020.05.24-18.54.15:193][353]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Tunnel_Dolphin_Sequence)
+[2020.05.24-18.58.43:513][868]Cmd: TRANSACTION UNDO
+[2020.05.24-18.58.43:514][868]LogEditorTransaction: Undo Move Actors
+[2020.05.24-18.58.43:618][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-18.58.48:964][420]Cmd: TRANSACTION UNDO
+[2020.05.24-18.58.48:964][420]LogEditorTransaction: Undo Move Actors
+[2020.05.24-18.58.48:968][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-18.59.46:567][257]Cmd: MODE ROTGRID=1
+[2020.05.24-19.03.10:787][379]Cmd: MODE ROTGRID=0
+[2020.05.24-19.04.28:463][642]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.05.24-19.04.29:801][642]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-19.04.29:888][642]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Tunnel_Dolphin_Sequence796818D1443A1F508E8BF9AF42FD68C7.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Tunnel_Dolphin_Sequence.uasset'
+[2020.05.24-19.04.30:000][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.24-19.04.31:675][642]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable14ECF5654C8FB5B7A6FF03ABFC147E4E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.24-19.04.31:725][642]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.822
+[2020.05.24-19.04.31:758][642]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-19.04.31:758][642]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Tunnel_Dolphin_Sequence.Tunnel_Dolphin_Sequence
+[2020.05.24-19.04.31:758][642]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
