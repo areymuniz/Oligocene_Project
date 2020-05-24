@@ -1714,3 +1714,83 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.24-19.04.31:758][642]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.24-19.04.31:758][642]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Tunnel_Dolphin_Sequence.Tunnel_Dolphin_Sequence
 [2020.05.24-19.04.31:758][642]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-19.06.55:601][796]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.24-19.10.39:105][837]Cmd: TRANSACTION UNDO
+[2020.05.24-19.10.39:106][837]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.24-19.10.39:108][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.34:775][566]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.34:775][566]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.34:791][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.35:530][602]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.35:530][602]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.35:554][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.36:007][639]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.36:007][639]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.36:022][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.36:474][677]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.36:474][677]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.36:488][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.36:961][717]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.36:961][717]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.36:976][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.37:472][759]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.37:472][759]LogEditorTransaction: Undo Rotate Actors
+[2020.05.24-19.14.37:486][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.37:876][790]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.37:876][790]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.37:890][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.38:240][818]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.38:240][818]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.38:254][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.38:610][848]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.38:610][848]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.38:625][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.14.39:075][884]Cmd: TRANSACTION UNDO
+[2020.05.24-19.14.39:075][884]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.14.39:091][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.16.58:582][666]Cmd: TRANSACTION UNDO
+[2020.05.24-19.16.58:582][666]LogEditorTransaction: Undo Move Keys or Sections
+[2020.05.24-19.16.58:588][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.19.49:551][298]Cmd: TRANSACTION UNDO
+[2020.05.24-19.19.49:551][298]LogEditorTransaction: Undo Move Keys or Sections
+[2020.05.24-19.19.49:554][298]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.20.21:615][698]Cmd: TRANSACTION UNDO
+[2020.05.24-19.20.21:615][698]LogEditorTransaction: Undo Move Keys or Sections
+[2020.05.24-19.20.21:618][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.24.00:583][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AQ_SM_heroPlatformBase)
+[2020.05.24-19.24.01:374][717]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Hero_Dolphin_Final)
+[2020.05.24-19.24.09:286][457]Cmd: TRANSACTION UNDO
+[2020.05.24-19.24.09:286][457]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.24.09:294][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.24.47:278][614]Cmd: TRANSACTION UNDO
+[2020.05.24-19.24.47:278][614]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.24-19.24.47:282][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.26.37:971][485]Cmd: TRANSACTION UNDO
+[2020.05.24-19.26.37:971][485]LogEditorTransaction: Undo Select Actors/Components
+[2020.05.24-19.26.38:068][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.26.38:362][491]Cmd: TRANSACTION UNDO
+[2020.05.24-19.26.38:362][491]LogEditorTransaction: Undo Set Key Value
+[2020.05.24-19.26.38:364][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.26.38:819][520]Cmd: TRANSACTION UNDO
+[2020.05.24-19.26.38:819][520]LogEditorTransaction: Undo Select None
+[2020.05.24-19.26.38:843][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.26.39:321][549]Cmd: TRANSACTION UNDO
+[2020.05.24-19.26.39:321][549]LogEditorTransaction: Undo Set Key Value
+[2020.05.24-19.26.39:324][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.26.40:085][592]Cmd: TRANSACTION UNDO
+[2020.05.24-19.26.40:085][592]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.24-19.26.40:087][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.27.55:903][618]Cmd: TRANSACTION UNDO
+[2020.05.24-19.27.55:903][618]LogEditorTransaction: Undo Move Actors
+[2020.05.24-19.27.55:917][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-19.32.33:972][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (siExJ_LOD1)
+[2020.05.24-19.32.35:286][720]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.24-19.33.16:660][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.05.24-19.33.18:774][628]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-19.33.18:830][628]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc1_SequenceD7421E95420A194920F0A981CBD546AA.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc1_Sequence.uasset'
+[2020.05.24-19.33.18:874][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.05.24-19.33.20:445][628]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable831F100C4B7DDC306F31B182484B05F6.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.24-19.33.20:496][628]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.665
+[2020.05.24-19.33.20:544][628]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-19.33.20:544][628]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.24-19.33.20:544][628]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
