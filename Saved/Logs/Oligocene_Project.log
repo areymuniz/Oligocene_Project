@@ -2205,3 +2205,22 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.24-20.09.58:264][655]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.24-20.09.58:264][655]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
 [2020.05.24-20.09.58:264][655]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-20.10.36:314][257]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Dolphin_Balc3_Sequence)
+[2020.05.24-20.10.37:535][327]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.24-20.14.04:502][253]Cmd: TRANSACTION UNDO
+[2020.05.24-20.14.04:502][253]LogEditorTransaction: Undo Move Actors
+[2020.05.24-20.14.04:506][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-20.14.14:919][837]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Hero_Dolphin_Final5)
+[2020.05.24-20.14.22:684][251]Cmd: TRANSACTION UNDO
+[2020.05.24-20.14.22:684][251]LogEditorTransaction: Undo Move Actors
+[2020.05.24-20.14.22:690][251]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.24-20.15.12:864][199]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.24-20.15.22:453][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.05.24-20.15.24:213][725]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-20.15.24:396][725]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc3_Sequence12C4E6664B0B07939F1062BAC1824E58.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc3_Sequence.uasset'
+[2020.05.24-20.15.24:467][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.05.24-20.15.26:102][725]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableFBCFEE5F44AF23DDF8EAAB9D8ADA25CE.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.24-20.15.26:145][725]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.738
+[2020.05.24-20.15.26:203][725]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-20.15.26:203][725]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc3_Sequence.Dolphin_Balc3_Sequence
+[2020.05.24-20.15.26:203][725]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
