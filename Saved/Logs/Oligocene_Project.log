@@ -1025,3 +1025,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.24-17.17.52:041][257]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.566
 [2020.05.24-17.17.52:064][257]AssetCheck: New page: Asset Save: Oligocene_Playable
 [2020.05.24-17.17.52:064][257]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.24-17.20.50:340][148]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\SDGM_560-VR\Hero_Dolphin_Skeleton\Hero_Dolphin_Skeleton.fbx)
+[2020.05.24-17.20.50:392][148]LogFbx: Loading FBX Scene from D:\SDGM_560-VR\Hero_Dolphin_Skeleton\Hero_Dolphin_Skeleton.fbx
+[2020.05.24-17.20.50:786][148]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.24-17.20.56:322][148]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.24-17.20.58:659][148]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.24-17.20.58:695][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.24-17.20.58:894][148]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.24-17.20.59:116][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.05.24-17.20.59:183][148]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.05.24-17.20.59:505][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.05.24-17.20.59:532][148]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.05.24-17.23.00:921][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.24-17.23.00:921][148]LogFbx: Display: Triangulating static mesh Genus_Y_Layout_10:GenusY_Rib_17_Remesh:Mesh
+[2020.05.24-17.23.36:291][148]LogStaticMesh: Building static mesh Hero_Dolphin_Skeleton...
+[2020.05.24-17.23.43:329][148]LogStaticMesh: Built static mesh [7.01s] /Game/Characters/Hero_Dolphin_Skeleton/Hero_Dolphin_Skeleton.Hero_Dolphin_Skeleton
+[2020.05.24-17.23.46:992][148]LogStaticMesh: Warning: Hero_Dolphin_Skeleton has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.24-17.23.46:998][148]LogStaticMesh: Warning: Hero_Dolphin_Skeleton has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.24-17.23.47:163][148]FBXImport: Warning: Hero_Dolphin_Skeleton has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.24-17.23.47:163][148]FBXImport: Warning: Hero_Dolphin_Skeleton has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.24-17.24.48:868][403]LogActorFactory: Actor Factory created Hero_Dolphin_Skeleton
+[2020.05.24-17.24.54:147][693]LogActorFactory: Actor Factory created Hero_Dolphin_Skeleton
+[2020.05.24-17.26.04:690][766]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.05.24-17.26.09:737][ 31]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.24-17.26.11:240][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hero_Dolphin_Skeleton)
+[2020.05.24-17.26.56:088][735]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.24-17.27.15:179][863]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.05.24-17.27.17:270][863]LogSlate: Window 'Save Content' being destroyed
+[2020.05.24-17.27.18:691][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Hero_Dolphin_Skeleton5C85D95940AE8C92676EAE91C32A475A.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/Hero_Dolphin_Skeleton.uasset'
+[2020.05.24-17.27.18:778][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert196B024A04A09CC3CBAF483AAEA18E53E.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/lambert1.uasset'
+[2020.05.24-17.27.18:814][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert23C78A782435A006B0839E0BD5EA89911.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/lambert2.uasset'
+[2020.05.24-17.27.18:849][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert3E38F733043D7E9FE993BF2A741F76295.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/lambert3.uasset'
+[2020.05.24-17.27.19:162][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/lambert4CC79646841B95F9FA57B5EBC088D9BB1.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Characters/Hero_Dolphin_Skeleton/lambert4.uasset'
+[2020.05.24-17.27.19:244][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.05.24-17.27.20:796][863]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_PlayableD0EFF9D3487A2DBA6BD159BB8C6E1393.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.24-17.27.20:843][863]LogFileHelpers: Saving map 'Oligocene_Playable' took 1.680
+[2020.05.24-17.27.20:901][863]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.24-17.27.20:901][863]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Hero_Dolphin_Skeleton/Hero_Dolphin_Skeleton.Hero_Dolphin_Skeleton
+[2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert1.lambert1
+[2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert2.lambert2
+[2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert3.lambert3
+[2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating Material /Game/Characters/Hero_Dolphin_Skeleton/lambert4.lambert4
+[2020.05.24-17.27.20:902][863]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
