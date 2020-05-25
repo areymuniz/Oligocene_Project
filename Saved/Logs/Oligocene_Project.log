@@ -1154,3 +1154,15 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.25-13.06.29:736][329]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.25-13.06.29:736][329]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
 [2020.05.25-13.06.29:736][329]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.25-13.07.34:959][455]LogSlate: Took 0.022317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.25-13.08.40:479][216]Cmd: TRANSACTION UNDO
+[2020.05.25-13.08.40:479][216]LogEditorTransaction: Undo Move Keys or Sections
+[2020.05.25-13.11.30:981][ 29]Cmd: TRANSACTION UNDO
+[2020.05.25-13.11.30:981][ 29]LogEditorTransaction: Undo Rotate Actors
+[2020.05.25-13.11.31:537][ 42]Cmd: TRANSACTION UNDO
+[2020.05.25-13.11.31:537][ 42]LogEditorTransaction: Undo Rotate Actors
+[2020.05.25-13.15.47:093][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.05.25-13.15.48:348][ 44]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-13.15.48:418][ 44]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc1_Sequence17B4B81045F78A1F5A8F459720AFAD11.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc1_Sequence.uasset'
+[2020.05.25-13.15.48:438][ 44]AssetCheck: New page: Asset Save: Dolphin_Balc1_Sequence
+[2020.05.25-13.15.48:438][ 44]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
