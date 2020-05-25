@@ -2,3 +2,7 @@ FMODPROJECT/Oligoscene/.cache
 FMODPROJECT/Oligoscene/.unsaved
 FMODPROJECT/Oligoscene/.user
 Saved/Backup
+
+Build/*
+!Build/**/*.ico
+Intermediate/CachedAssetRegistry.bin
