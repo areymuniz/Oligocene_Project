@@ -1,0 +1,1846 @@
+﻿Log file open, 05/25/20 03:45:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oligocene_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.078097
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MegascansPlugin
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.25-07.45.27:181][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.25-07.45.27:182][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.25-07.45.27:182][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.25-07.45.27:182][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.25-07.45.27:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:182][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:189][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:189][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-07.45.27:189][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-07.45.27:189][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:189][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.25-07.45.27:189][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:189][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-07.45.27:189][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-07.45.27:190][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-07.45.27:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-07.45.27:191][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-07.45.27:191][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.25-07.45.27:193][  0]LogHAL: Display: Platform has ~ 32 GB [34255134720 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.25-07.45.27:193][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.25-07.45.27:193][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-07.45.27:193][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.25-07.45.27:194][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.25-07.45.27:195][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.25-07.45.27:195][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.25-07.45.27:195][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.25-07.45.27:195][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.25-07.45.27:195][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Config/Windows/Engine.ini]
+[2020.05.25-07.45.27:195][  0]LogInit: Computer: DESKTOP-3IONU9G
+[2020.05.25-07.45.27:195][  0]LogInit: User: Kane
+[2020.05.25-07.45.27:195][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.25-07.45.27:195][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.25-07.45.27:195][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.05.25-07.45.27:195][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.25-07.45.27:195][  0]LogMemory: Process Physical Memory: 113.12 MB used, 113.12 MB peak
+[2020.05.25-07.45.27:195][  0]LogMemory: Process Virtual Memory: 108.80 MB used, 108.80 MB peak
+[2020.05.25-07.45.27:195][  0]LogMemory: Physical Memory: 14339.36 MB used,  18328.89 MB free, 32668.24 MB total
+[2020.05.25-07.45.27:195][  0]LogMemory: Virtual Memory: 5176.09 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.05.25-07.45.27:200][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.25-07.45.27:217][  0]LogInit: Using OS detected language (en-US).
+[2020.05.25-07.45.27:217][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.25-07.45.27:219][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.25-07.45.27:369][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.25-07.45.27:418][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.25-07.45.27:418][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.25-07.45.27:602][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.25-07.45.27:602][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.25-07.45.27:602][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.25-07.45.27:659][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.25-07.45.27:659][  0]LogD3D11RHI:       8088/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.25-07.45.27:662][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.25-07.45.27:662][  0]LogD3D11RHI:       0/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.25-07.45.27:662][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.25-07.45.27:673][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.25-07.45.27:673][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.25-07.45.27:673][  0]LogWindows: EnumDisplayDevices:
+[2020.05.25-07.45.27:673][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.05.25-07.45.27:673][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.05.25-07.45.27:674][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.25-07.45.27:674][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.25-07.45.27:675][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.25-07.45.27:675][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.25-07.45.27:675][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.05.25-07.45.27:675][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.05.25-07.45.27:675][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.05.25-07.45.27:722][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.25-07.45.27:722][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.25-07.45.27:787][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.25-07.45.28:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.25-07.45.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.25-07.45.28:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.25-07.45.28:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.25-07.45.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.25-07.45.28:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.25-07.45.28:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.25-07.45.28:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.25-07.45.28:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.25-07.45.28:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.25-07.45.28:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.25-07.45.28:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.25-07.45.28:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.25-07.45.28:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.25-07.45.28:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.25-07.45.28:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.25-07.45.28:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.25-07.45.28:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.25-07.45.28:290][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.25-07.45.28:293][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.25-07.45.28:313][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Intermediate/Shaders/WorkingDirectory/20192/).
+[2020.05.25-07.45.28:313][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kane/AppData/Local/Temp/UnrealShaderWorkingDir/F6DB2A9B4241CC63C4EF5BBD25BEB8FD/'.
+[2020.05.25-07.45.28:314][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.25-07.45.28:314][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.25-07.45.28:314][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.25-07.45.29:038][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.25-07.45.29:130][  0]LogDerivedDataCache: Loaded boot cache 0.09s 126MB C:/Users/Kane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.25-07.45.29:131][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.25-07.45.29:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.25-07.45.29:131][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.25-07.45.29:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-07.45.29:131][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.25-07.45.29:140][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.25-07.45.29:140][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-07.45.29:140][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.25-07.45.29:141][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.25-07.45.29:141][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.25-07.45.29:141][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.25-07.45.29:166][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.25-07.45.29:169][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.25-07.45.29:169][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.25-07.45.29:230][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.05.25-07.45.29:514][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-07.45.29:674][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.25-07.45.29:674][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.25-07.45.29:674][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.25-07.45.29:674][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.25-07.45.29:674][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.25-07.45.29:690][  0]LogNetVersion: Oligocene_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964558787)
+[2020.05.25-07.45.31:981][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 1.247181 seconds
+[2020.05.25-07.45.31:990][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.25-07.45.31:990][  0]LogUObjectAllocator: 8137064 out of 0 bytes used by permanent object pool.
+[2020.05.25-07.45.31:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.25-07.45.32:351][  0]LogPython: Using Python 2.7.14
+[2020.05.25-07.45.33:027][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.25-07.45.33:030][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.25-07.45.33:070][  0]LogFMOD: FFMODStudioModule startup
+[2020.05.25-07.45.33:070][  0]LogFMOD:  Lib path = 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries'
+[2020.05.25-07.45.33:070][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2020.05.25-07.45.33:071][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:104][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.33:105][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:105][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:105][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:105][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.33:105][  0]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.33:107][  0]LogFMOD: Loading strings bank: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbiLab
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGAmbiTunnel
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/TriggeredAnimations/Hero_Dolphin_Tunnel
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/WalkwayChunk2VO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/TriggeredAnimations/Ray_Hug_Release
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Deck3VO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Tunnel/ConveyorBelt
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/WalkwayChunk3VO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/ResearchLab/Lab/CreditComputer
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/UI
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneAquarium
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/LabStartVO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/LabExitVO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/SFX
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Aquarium
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/Music
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/EnterAquariumVO
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Balcony/BalconyDoor
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/CreditsRadio
+[2020.05.25-07.45.33:109][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Player/Teleport/TeleportLand
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/OutdoorDelay
+[2020.05.25-07.45.33:110][  0]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.25-07.45.33:110][  0]LogFMOD: Skipping asset: bus:/
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneTunnel
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Deck1VO
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/Deck2VO
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/HeroDolphinVO
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/MUSIC/Music_Tunnel
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Tunnel/AQDoor_Open
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/OutsideAmbience
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/WalkwayChunk1VO
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomAquarium
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/ResearchLab/Lab/Loop_ComputerHumming
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneLab
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/PedestalStill
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomMed
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Ambi
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Player/Teleport/TeleportArm
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/SFX
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/VerbRoomHall
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/TriggeredAnimations/SchoolFishFlyby
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/ResearchLab/Entrance/LabDoor_Close
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/DIALOGUE/ConveyerStartVO
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Dialogue
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/ResearchLab/Entrance/LabDoor_Open
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/ReverbZoneBubble
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/TriggeredAnimations/Fish_School_Tunnel
+[2020.05.25-07.45.33:110][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Tunnel/AQDoor_Close
+[2020.05.25-07.45.33:111][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/TriggeredAnimations/Genus_Y
+[2020.05.25-07.45.33:111][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/Voice
+[2020.05.25-07.45.33:111][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/AMBI/BGSpline
+[2020.05.25-07.45.33:111][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Verbs/OutdoorVerb
+[2020.05.25-07.45.33:111][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Music
+[2020.05.25-07.45.33:122][  0]LogFMOD: Default sample rate = 48000
+[2020.05.25-07.45.33:122][  0]LogFMOD: System sample rate = 48000
+[2020.05.25-07.45.33:122][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.25-07.45.33:152][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.25-07.45.33:152][  0]LogFMOD: Trying to load plugin file at location: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.25-07.45.33:154][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.25-07.45.33:161][  0]LogFMOD: Default sample rate = 48000
+[2020.05.25-07.45.33:161][  0]LogFMOD: System sample rate = 48000
+[2020.05.25-07.45.33:161][  0]LogFMOD: Matching system sample rate 48000
+[2020.05.25-07.45.33:178][  0]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.25-07.45.33:178][  0]LogFMOD: Trying to load plugin file at location: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.25-07.45.33:178][  0]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.25-07.45.33:232][  0]SourceControl: Source control is disabled
+[2020.05.25-07.45.33:233][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.25-07.45.33:233][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.25-07.45.33:234][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.25-07.45.33:234][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.25-07.45.33:235][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.25-07.45.33:235][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.25-07.45.33:236][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.25-07.45.33:236][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.25-07.45.33:472][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.25-07.45.33:492][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-07.45.33:492][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.25-07.45.33:567][  0]LogOcInput: OculusInput pre-init called
+[2020.05.25-07.45.34:318][  0]LogFMOD: FFMODStudioEditorModule startup
+[2020.05.25-07.45.34:943][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.34:943][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.34:943][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.34:943][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.35:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.35:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.35:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.35:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.35:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2020.05.25-07.45.35:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2020.05.25-07.45.35:585][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2020.05.25-07.45.35:585][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2020.05.25-07.45.35:680][  0]LogEngine: Initializing Engine...
+[2020.05.25-07.45.35:681][  0]LogHMD: Oculus plugin initialized. Version: 4.24.3-11590370+++UE4+Release-4.24, OVRPlugin: 1.40.0
+[2020.05.25-07.45.35:682][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.25-07.45.36:020][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.25-07.45.36:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.25-07.45.36:050][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.25-07.45.36:050][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.25-07.45.36:051][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.25-07.45.36:051][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.25-07.45.36:199][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.25-07.45.36:200][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.25-07.45.36:222][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.25-07.45.36:228][  0]LogInit: FAudioDevice initialized.
+[2020.05.25-07.45.36:228][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.25-07.45.36:443][  0]LogDerivedDataCache: Saved boot cache 0.22s 126MB C:/Users/Kane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.25-07.45.36:448][  0]LogInit: Texture streaming: Enabled
+[2020.05.25-07.45.36:463][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.25-07.45.36:463][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.25-07.45.36:479][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.25-07.45.37:088][  0]LogInit: Transaction tracking system initialized
+[2020.05.25-07.45.37:098][  0]BlueprintLog: New page: Editor Load
+[2020.05.25-07.45.37:128][  0]LocalizationService: Localization service is disabled
+[2020.05.25-07.45.37:168][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-07.45.37:169][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-07.45.37:169][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.25-07.45.37:443][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.25-07.45.37:443][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.25-07.45.37:571][  0]LogFileCache: Scanning file cache for directory 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/' took 0.10s
+[2020.05.25-07.45.38:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.38:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.38:237][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2020.05.25-07.45.38:237][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2020.05.25-07.45.38:237][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2020.05.25-07.45.38:237][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2020.05.25-07.45.38:237][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2020.05.25-07.45.38:237][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2020.05.25-07.45.38:356][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.25-07.45.38:356][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.25-07.45.38:356][  0]Cmd: MAP LOAD FILE="I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-07.45.38:357][  0]LightingResults: New page: Lighting Build
+[2020.05.25-07.45.38:358][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-07.45.38:358][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-07.45.38:358][  0]MapCheck: New page: Map Check
+[2020.05.25-07.45.38:358][  0]LightingResults: New page: Lighting Build
+[2020.05.25-07.45.38:393][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.05.25-07.45.38:815][  0]LogLinker: Warning: Asset 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/MSPresets/Foliage_Material/Foliage_Material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.25-07.45.39:361][  0]LogLinker: Warning: Asset 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.25-07.45.39:362][  0]LogLinker: Warning: Asset 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.25-07.45.39:362][  0]LogLinker: Warning: Asset 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.25-07.45.40:566][  0]LogTexture: Display: Building textures: animationAtlas (RGBA16F, 256X256)
+[2020.05.25-07.45.43:403][  0]LogTexture: Display: Building textures: animationAtlas (RGBA16F, 256X256)
+[2020.05.25-07.45.43:476][  0]LogAIModule: Creating AISystem for world Oligocene_Playable
+[2020.05.25-07.45.43:574][  0]LogMaterial: Display: Material /Game/Assets/Materials/M_Security_Camera_Viewcone.M_Security_Camera_Viewcone needed to have new flag set bUsedWithStaticLighting !
+[2020.05.25-07.45.43:581][  0]LogMaterial: Display: Missing cached shader map for material M_Security_Camera_Viewcone, compiling. 
+[2020.05.25-07.45.43:606][  0]MapCheck: Warning: M_Security_Camera_Viewcone Material /Game/Assets/Materials/M_Security_Camera_Viewcone.M_Security_Camera_Viewcone was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.25-07.45.43:610][  0]LogMaterial: Display: Material /Game/Underwater_FX/SEAWEED/aiStandardSurface1.aiStandardSurface1 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.25-07.45.43:614][  0]LogMaterial: Display: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2020.05.25-07.45.43:695][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.05.25-07.45.43:695][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.05.25-07.45.43:695][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.05.25-07.45.43:695][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.05.25-07.45.43:696][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.05.25-07.45.43:696][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.05.25-07.45.43:696][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2020.05.25-07.45.43:696][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.25-07.45.43:696][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 33
+[2020.05.25-07.45.43:696][  0]MapCheck: Warning: aiStandardSurface1 Material /Game/Underwater_FX/SEAWEED/aiStandardSurface1.aiStandardSurface1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.25-07.45.43:698][  0]LogMaterial: Display: Material /Game/crowdAnim/Blueprints/Mats/vert6exAnimMat_4.vert6exAnimMat_4 needed to have new flag set bUsedWithStaticLighting !
+[2020.05.25-07.45.43:710][  0]LogMaterial: Display: Missing cached shader map for material vert6exAnimMat_4, compiling. 
+[2020.05.25-07.45.43:750][  0]MapCheck: Warning: vert6exAnimMat_4 Material /Game/crowdAnim/Blueprints/Mats/vert6exAnimMat_4.vert6exAnimMat_4 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.05.25-07.45.43:950][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-07.45.44:436][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2020.05.25-07.45.44:436][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 63
+[2020.05.25-07.45.44:571][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2020.05.25-07.45.44:571][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2020.05.25-07.45.44:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.05.25-07.45.44:591][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-07.45.44:592][  0]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0.626ms to complete.
+[2020.05.25-07.45.44:606][  0]LogFileHelpers: Loading map 'Oligocene_Playable' took 6.249
+[2020.05.25-07.45.44:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-07.45.44:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-07.45.44:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-07.45.44:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-07.45.44:907][  0]LogCollectionManager: Loaded 0 collections in 0.003631 seconds
+[2020.05.25-07.45.44:927][  0]LogFileCache: Scanning file cache for directory 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Collections/' took 0.00s
+[2020.05.25-07.45.44:927][  0]LogFileCache: Scanning file cache for directory 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Developers/Kane/Collections/' took 0.00s
+[2020.05.25-07.45.44:927][  0]LogFileCache: Scanning file cache for directory 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Collections/' took 0.00s
+[2020.05.25-07.45.44:927][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 3295 classes and 793 folders.
+[2020.05.25-07.45.44:934][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.25-07.45.45:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.05.25-07.45.45:078][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.05.25-07.45.45:738][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.25-07.45.45:742][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.25-07.45.45:750][  0]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.25-07.45.46:189][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2020.05.25-07.45.46:190][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2020.05.25-07.45.46:190][  0]LogRenderer: Reallocating scene render targets to support 1080x524 Format 26 NumSamples 1 (Frame:1).
+[2020.05.25-07.45.46:421][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2020.05.25-07.45.46:421][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-07.45.46:638][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.05.25-07.45.46:638][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 24
+[2020.05.25-07.45.46:648][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.25-07.45.46:648][  0]LogLoad: (Engine Initialization) Total time: 22.25 seconds
+[2020.05.25-07.45.46:648][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.25-07.45.46:663][  0]LogOcInput: OculusInput is initialized
+[2020.05.25-07.45.46:664][  0]LoadErrors: Error: /Game/Characters/Hero_Dolphin/Hero_Dolphin_Final : Failed import for Material /Game/Characters/Hero_Dolphin/lambert1.lambert1 Referenced by export SkeletalMesh /Game/Characters/Hero_Dolphin/Hero_Dolphin_Final.Hero_Dolphin_Final
+[2020.05.25-07.45.46:664][  0]LoadErrors: Error: /Game/Characters/Hero_Dolphin/Hero_Dolphin_Final : Failed import for Material /Game/Characters/Hero_Dolphin/lambert6.lambert6 Referenced by export SkeletalMesh /Game/Characters/Hero_Dolphin/Hero_Dolphin_Final.Hero_Dolphin_Final
+[2020.05.25-07.45.46:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.25-07.45.47:368][  1]LogFMOD: File has changed: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:481][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.47:482][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Ambisonics'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:483][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:484][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_effect.cpp(205) - Missing DSP plugin 'Oculus Spatializer'
+
+[2020.05.25-07.45.47:484][  1]LogFMOD: Warning: f:\jk\workspace\2.1_UE4.24_Win64\studio_api\src\fmod_runtime_manager.cpp(1232) - Creating stub DSP plugin model and continuing.
+
+[2020.05.25-07.45.47:489][  1]LogFMOD: Loading strings bank: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/FMODAUDIO/Desktop/Desktop/Master.strings.bank
+[2020.05.25-07.45.47:491][  1]LogFMOD: Skipping asset: bank:/Master.strings
+[2020.05.25-07.45.47:491][  1]LogFMOD: Skipping asset: bus:/
+[2020.05.25-07.45.47:504][  1]LogFMOD: Default sample rate = 48000
+[2020.05.25-07.45.47:504][  1]LogFMOD: System sample rate = 48000
+[2020.05.25-07.45.47:504][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.25-07.45.47:560][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.25-07.45.47:560][  1]LogFMOD: Trying to load plugin file at location: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.25-07.45.47:560][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.25-07.45.47:693][  1]LogFMOD: Default sample rate = 48000
+[2020.05.25-07.45.47:693][  1]LogFMOD: System sample rate = 48000
+[2020.05.25-07.45.47:693][  1]LogFMOD: Matching system sample rate 48000
+[2020.05.25-07.45.47:736][  1]LogFMOD: Loading plugin 'OculusSpatializerFMOD'
+[2020.05.25-07.45.47:736][  1]LogFMOD: Trying to load plugin file at location: I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Plugins/FMODStudio/Binaries/Win64/OculusSpatializerFMOD.dll
+[2020.05.25-07.45.47:736][  1]LogFMOD: Loaded plugin OculusSpatializerFMOD
+[2020.05.25-07.45.48:252][  4]LogAssetRegistry: Asset discovery search completed in 19.0225 seconds
+[2020.05.25-07.45.48:263][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2020.05.25-07.45.48:812][  6]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.05.25-07.45.48:812][  6]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.05.25-07.45.48:812][  6]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.05.25-07.45.48:812][  6]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.05.25-07.45.49:682][ 32]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.05.25-07.46.00:558][253]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.25-07.46.01:064][266]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.05.25-07.46.03:063][313]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.05.25-07.46.05:672][380]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.05.25-07.46.08:026][439]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.05.25-07.46.08:026][439]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.05.25-07.46.09:666][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.05.25-07.46.10:088][483]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.05.25-07.47.45:374][977]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_AquariumDoorOpeen)
+[2020.05.25-07.47.46:908][132]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.25-07.47.46:923][132]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_AquariumDoorOpeen.SQ_AquariumDoorOpeen
+[2020.05.25-07.47.59:995][404]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-07.48.02:938][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame)
+[2020.05.25-07.49.11:070][865]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.25-07.49.54:778][301]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Aquarium/Mesh/BP_BalconyScifiDoor.BP_BalconyScifiDoor
+[2020.05.25-07.49.54:978][301]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.25-07.49.56:053][301]LogRenderer: Reallocating scene render targets to support 1140x712 Format 26 NumSamples 1 (Frame:1).
+[2020.05.25-07.52.03:048][631]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.25-07.52.05:474][773]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.25-07.52.07:104][894]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.25-07.53.49:647][959]BlueprintLog: New page: Compile BP_BalconyScifiDoor
+[2020.05.25-07.53.50:004][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.05.25-07.53.51:594][997]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/BP_BalconyScifiDoor66FB81E24F7B16AB2CBFD1812025B221.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/BP_BalconyScifiDoor.uasset'
+[2020.05.25-07.53.51:716][997]AssetCheck: New page: Asset Save: BP_BalconyScifiDoor
+[2020.05.25-07.53.51:716][997]LogContentValidation: Display: Validating Blueprint /Game/Aquarium/Mesh/BP_BalconyScifiDoor.BP_BalconyScifiDoor
+[2020.05.25-07.54.11:994][869]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-07.54.17:678][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-07.54.34:755][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame)
+[2020.05.25-07.54.39:446][587]LogEditorViewport: Clicking on Actor (LMB): BP_BalconyScifiDoor_C (BP_BalconyScifiDoor)
+[2020.05.25-07.54.40:241][666]LogEditorViewport: Clicking on Actor (LMB): BP_BalconyScifiDoor_C (BP_BalconyScifiDoor)
+[2020.05.25-07.54.47:770][195]BlueprintLog: New page: Compile BP_BalconyScifiDoor
+[2020.05.25-07.54.48:083][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.05.25-07.55.45:229][ 73]Cmd: DELETE
+[2020.05.25-07.55.45:229][ 73]Cmd: ACTOR DELETE
+[2020.05.25-07.55.45:452][ 73]LogEditorActor: Deleted Actor: BP_BalconyScifiDoor_C
+[2020.05.25-07.55.45:492][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.05.25-07.55.45:496][ 73]LogEditorActor: Deleted 1 Actors (0.266 secs)
+[2020.05.25-07.55.49:369][380]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Up_Door
+[2020.05.25-07.55.49:371][380]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Mid_Door
+[2020.05.25-07.55.49:372][380]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Lower_Door
+[2020.05.25-07.55.51:616][600]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Up_Door
+[2020.05.25-07.55.51:632][600]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Mid_Door
+[2020.05.25-07.55.51:647][600]LogActorFactory: Actor Factory created SM_BalconyDoor_ID_Moved_V2_Lower_Door
+[2020.05.25-07.55.52:093][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-07.55.58:592][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-07.56.09:203][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-07.56.15:691][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-07.56.19:717][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-07.56.29:758][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-07.56.33:603][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-07.57.34:309][178]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume5)
+[2020.05.25-07.57.36:203][384]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2020.05.25-07.57.47:805][693]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume5)
+[2020.05.25-07.57.54:647][429]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume5)
+[2020.05.25-07.57.55:965][571]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2020.05.25-07.57.57:200][705]Cmd: DELETE
+[2020.05.25-07.57.57:200][705]Cmd: ACTOR DELETE
+[2020.05.25-07.57.57:237][705]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.05.25-07.57.57:278][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.25-07.57.57:281][705]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.05.25-07.58.27:388][991]LogEditorViewport: Clicking on Actor (LMB): Actor (BalconyDoor1)
+[2020.05.25-07.58.36:398][ 58]Cmd: DELETE
+[2020.05.25-07.58.36:398][ 58]Cmd: ACTOR DELETE
+[2020.05.25-07.58.42:345][ 58]LogSlate: Window 'Message' being destroyed
+[2020.05.25-07.58.42:932][ 58]LogSlate: Window 'Message' being destroyed
+[2020.05.25-07.58.43:377][ 58]LogSlate: Window 'Message' being destroyed
+[2020.05.25-07.58.43:430][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.05.25-07.58.43:433][ 58]LogEditorActor: Deleted 0 Actors (0.076 secs)
+[2020.05.25-07.58.49:398][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-07.58.58:668][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-07.59.14:746][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-07.59.23:159][ 70]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-07.59.24:510][203]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-07.59.37:381][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame)
+[2020.05.25-07.59.38:311][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor)
+[2020.05.25-07.59.49:620][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AQwall13)
+[2020.05.25-08.00.02:555][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.00.44:657][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor)
+[2020.05.25-08.00.45:523][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.00.48:954][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.00.57:384][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.01.13:861][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.01.14:475][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.01.24:307][208]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.24:307][208]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.01.54:768][496]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.54:768][496]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.55:032][507]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.55:032][507]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.55:259][516]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.55:259][516]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.55:522][541]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.55:522][541]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.01.55:790][566]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.55:790][566]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.01.56:028][590]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.56:028][590]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.01.56:252][610]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.56:252][610]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.01.56:503][635]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.56:503][635]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.01.56:728][654]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.56:728][654]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.01.56:982][680]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.56:982][680]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.01.57:221][702]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.57:221][702]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.01.57:742][757]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.57:742][757]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.58:007][783]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.58:007][783]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.58:316][816]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.58:316][816]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.58:691][856]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.58:691][856]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.59:521][949]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.59:521][949]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.01.59:821][980]Cmd: TRANSACTION UNDO
+[2020.05.25-08.01.59:821][980]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.02.07:783][802]Cmd: MODE ROTGRID=0
+[2020.05.25-08.02.15:119][416]Cmd: TRANSACTION UNDO
+[2020.05.25-08.02.15:119][416]LogEditorTransaction: Undo Rotate Actors
+[2020.05.25-08.02.29:927][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ub3rcjzda_LOD1)
+[2020.05.25-08.02.35:227][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.02.36:185][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor)
+[2020.05.25-08.02.36:307][396]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.02.38:502][623]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox4)
+[2020.05.25-08.02.39:522][725]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.02.40:614][835]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.03.05:644][ 61]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.03.06:630][141]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.03.18:883][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.03.22:318][620]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.03.23:306][701]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.03.30:620][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.03.49:940][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.04.00:858][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.04.02:897][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.04.18:761][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.04.22:154][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door)
+[2020.05.25-08.04.41:635][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.05.37:332][784]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_01C766A064492CC29028023684879C4FAA.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.uasset'
+[2020.05.25-08.05.37:454][784]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_01
+[2020.05.25-08.05.37:454][784]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.05.38:935][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.25-08.05.42:192][896]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_Playable1B6A4E20457974182779D6B2B1EFA0DA.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.25-08.05.47:012][896]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_Playable_BuiltData289865724C1893D4EE2951AEE2AC9ADC.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.uasset'
+[2020.05.25-08.05.47:062][896]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-08.05.47:063][896]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.25-08.05.47:063][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.Oligocene_Playable_BuiltData
+[2020.05.25-08.10.12:835][650]Cmd: TRANSACTION UNDO
+[2020.05.25-08.10.12:835][650]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.11.27:003][922]Cmd: TRANSACTION UNDO
+[2020.05.25-08.11.27:003][922]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.05.25-08.11.59:745][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor)
+[2020.05.25-08.12.12:853][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor)
+[2020.05.25-08.13.30:012][200]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_017FCF824E4FFCC6DB3FB8289FABC25154.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.uasset'
+[2020.05.25-08.13.30:132][200]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_01
+[2020.05.25-08.13.30:132][200]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.13.56:888][939]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_01767B6E604F6676824E6B0E81A56BC8C9.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.uasset'
+[2020.05.25-08.13.57:011][939]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_01
+[2020.05.25-08.13.57:011][939]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.14.06:863][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.14.21:070][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.14.25:968][495]Cmd: TRANSACTION UNDO
+[2020.05.25-08.14.25:968][495]LogEditorTransaction: Undo Rotate Actors
+[2020.05.25-08.14.27:754][632]Cmd: MODE ROTGRID=1
+[2020.05.25-08.14.31:056][952]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.14.38:713][593]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.14.47:569][350]Cmd: MODE ROTGRID=0
+[2020.05.25-08.16.09:567][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.16.13:864][ 76]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.16.19:051][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.16.22:812][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.16.35:409][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.16.42:751][381]Cmd: TRANSACTION UNDO
+[2020.05.25-08.16.42:751][381]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.16.46:484][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AQ_SM_FullDeck2)
+[2020.05.25-08.16.47:360][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame3)
+[2020.05.25-08.16.47:933][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame3)
+[2020.05.25-08.17.14:496][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.17.17:103][678]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.17.18:905][858]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.17.20:229][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.05.25-08.17.22:863][930]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_PlayableB18FA100469C2231B81E1C9B2FD48776.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.25-08.17.26:787][930]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_Playable_BuiltData7B6DC65A488CD03F63EB5FA1D8A379CF.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.uasset'
+[2020.05.25-08.17.26:839][930]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-08.17.26:839][930]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.25-08.17.26:839][930]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.Oligocene_Playable_BuiltData
+[2020.05.25-08.17.28:148][ 44]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_0159096720437E9B4A07FE3291F23345FF.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.uasset'
+[2020.05.25-08.17.29:845][ 44]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_01
+[2020.05.25-08.17.29:845][ 44]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.20.28:023][438]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.05.25-08.20.28:126][438]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.05.25-08.20.50:842][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\ETO\ENVIRONMENT\Animations\balcdoortest.fbx)
+[2020.05.25-08.20.50:853][451]LogFbx: Loading FBX Scene from I:\ETO\ENVIRONMENT\Animations\balcdoortest.fbx
+[2020.05.25-08.20.50:860][451]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.25-08.21.01:980][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.25-08.21.03:665][451]LogMaterial: Display: Material /Game/Aquarium/Mesh/anims/MI_DeckScifiDoor.MI_DeckScifiDoor needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.25-08.21.03:669][451]LogMaterial: Display: Missing cached shader map for material MI_DeckScifiDoor, compiling. 
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.25-08.21.04:275][451]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.25-08.21.04:298][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/M_StainedGlass_Material_ID_Diffuse': Can't find file.
+[2020.05.25-08.21.04:298][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/M_StainedGlass_Material_ID_Diffuse': Can't find file.
+[2020.05.25-08.21.04:507][451]LogTexture: Display: Building textures: M_StainedGlass_Material_ID_Diffuse (AutoDXT, 2048X2048)
+[2020.05.25-08.21.04:867][451]LogMaterial: Display: Missing cached shader map for material MI_DeckScifiDoor, compiling. 
+[2020.05.25-08.21.05:057][451]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.05.25-08.21.05:371][451]LogSkeletalMesh: Section 0: 1548 vertices, 1 active bones
+[2020.05.25-08.21.05:372][451]LogSkeletalMesh: Section 0: Material=0, 2000 triangles
+[2020.05.25-08.21.05:373][451]LogSkeletalMesh: Building Skeletal Mesh balcdoortest...
+[2020.05.25-08.21.05:531][451]LogSkeletalMesh: Section 0: 1548 vertices, 1 active bones
+[2020.05.25-08.21.05:532][451]LogSkeletalMesh: Section 0: Material=0, 2000 triangles
+[2020.05.25-08.21.05:541][451]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/Aquarium/Mesh/anims/balcdoortest.balcdoortest
+[2020.05.25-08.21.05:542][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_Skeleton': Can't find file.
+[2020.05.25-08.21.05:543][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_Skeleton': Can't find file.
+[2020.05.25-08.21.05:572][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_PhysicsAsset': Can't find file.
+[2020.05.25-08.21.05:572][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_PhysicsAsset': Can't find file.
+[2020.05.25-08.21.05:622][451]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.21.05:622][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.21.05:638][451]LogFbx: SortedLinks :(0) SM_BalconyDoor_ID_Moved_V2_Up_Door
+[2020.05.25-08.21.05:638][451]LogFbx: Parsing AnimStack Unreal Take
+[2020.05.25-08.21.05:639][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_Anim': Can't find file.
+[2020.05.25-08.21.05:639][451]LogLinker: Failed to load '/Game/Aquarium/Mesh/anims/balcdoortest_Anim': Can't find file.
+[2020.05.25-08.21.05:701][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+[2020.05.25-08.21.05:701][451]LogAnimationCompression: Recompressing (AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.25-08.21.05:817][451]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.25-08.21.05:817][451]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.05.25-08.21.08:999][507]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+[2020.05.25-08.21.09:060][507]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.05.25-08.21.09:225][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.25-08.21.09:227][507]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2020.05.25-08.21.09:391][507]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.25-08.21.10:963][507]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.25-08.21.17:626][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.25-08.21.19:958][728]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.05.25-08.21.26:238][928]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2020.05.25-08.21.26:270][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2020.05.25-08.21.26:388][933]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.05.25-08.21.26:484][936]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.05.25-08.21.30:458][ 30]LogSlate: Window 'balcdoortest_Anim' being destroyed
+[2020.05.25-08.21.30:484][ 30]LogSlate: Window 'balcdoortest_Anim' being destroyed
+[2020.05.25-08.21.30:512][ 30]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.21.30:512][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.21.31:475][ 30]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.21.31:475][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.21.31:716][ 30]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.21.31:716][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.21.31:902][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.05.25-08.21.32:585][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.21.34:282][122]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.05.25-08.21.34:428][129]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.05.25-08.21.39:585][288]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.25-08.21.41:251][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.05.25-08.21.41:598][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.05.25-08.21.42:154][367]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.05.25-08.21.42:313][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.05.25-08.21.42:881][390]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.05.25-08.21.47:384][520]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.05.25-08.21.48:197][537]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.05.25-08.22.00:267][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.22.06:403][173]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (balcdoortest)
+[2020.05.25-08.22.07:446][244]Cmd: DELETE
+[2020.05.25-08.22.07:446][244]Cmd: ACTOR DELETE
+[2020.05.25-08.22.07:487][244]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.25-08.22.07:703][244]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.05.25-08.22.07:712][244]LogEditorActor: Deleted 1 Actors (0.265 secs)
+[2020.05.25-08.22.36:771][419]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_02)
+[2020.05.25-08.23.30:056][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Aquarium/Mesh/BP_BalconyScifiDoor.BP_BalconyScifiDoor
+[2020.05.25-08.23.30:975][609]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.25-08.23.39:893][171]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.24.23:997][826]LogSlate: Window 'BP_BalconyScifiDoor' being destroyed
+[2020.05.25-08.24.24:024][826]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.24.24:024][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.24.25:749][975]LogSlate: Window 'Message Log' being destroyed
+[2020.05.25-08.24.25:762][975]LogSlate: Window 'Message Log' being destroyed
+[2020.05.25-08.24.45:583][227]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_02)
+[2020.05.25-08.24.46:920][375]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.SQ_BalconyDoorOpen_02
+[2020.05.25-08.25.05:126][324]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.25.06:297][456]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.26.26:166][303]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.05.25-08.26.26:261][303]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.05.25-08.26.35:725][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.26.40:457][627]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.05.25-08.26.43:565][627]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.25-08.26.46:650][627]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Aquarium/Mesh/anims/M_StainedGlass_Material_ID_Diffuse.M_StainedGlass_Material_ID_Diffuse
+	Asset Name: /Game/Aquarium/Mesh/anims/balcdoortest.balcdoortest
+	Asset Name: /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+	Asset Name: /Game/Aquarium/Mesh/anims/balcdoortest_PhysicsAsset.balcdoortest_PhysicsAsset
+	Asset Name: /Game/Aquarium/Mesh/anims/balcdoortest_Skeleton.balcdoortest_Skeleton
+	Asset Name: /Game/Aquarium/Mesh/anims/MI_DeckScifiDoor.MI_DeckScifiDoor
+[2020.05.25-08.27.15:008][627]LogMaterial: Display: Missing cached shader map for material MI_DeckScifiDoor, compiling. 
+[2020.05.25-08.27.15:009][627]LogMaterial: Warning: /Game/Aquarium/Mesh/anims/MI_DeckScifiDoor.MI_DeckScifiDoor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.25-08.27.15:009][627]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.05.25-08.27.17:034][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.25-08.28.29:958][119]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\ETO\ENVIRONMENT\Animations\balcdoortest.fbx)
+[2020.05.25-08.28.29:967][119]LogFbx: Loading FBX Scene from I:\ETO\ENVIRONMENT\Animations\balcdoortest.fbx
+[2020.05.25-08.28.29:975][119]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.25-08.28.31:591][119]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.25-08.28.31:626][119]LogMaterial: Display: Material /Game/Aquarium/Mesh/anims/MI_DeckScifiDoor.MI_DeckScifiDoor needed to have new flag set bUsedWithSkeletalMesh !
+[2020.05.25-08.28.31:630][119]LogMaterial: Display: Missing cached shader map for material MI_DeckScifiDoor, compiling. 
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.25-08.28.31:652][119]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.25-08.28.31:801][119]LogTexture: Display: Building textures: M_StainedGlass_Material_ID_Diffuse (AutoDXT, 2048X2048)
+[2020.05.25-08.28.32:115][119]LogMaterial: Display: Missing cached shader map for material MI_DeckScifiDoor, compiling. 
+[2020.05.25-08.28.32:207][119]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.05.25-08.28.32:489][119]LogSkeletalMesh: Section 0: 1548 vertices, 1 active bones
+[2020.05.25-08.28.32:489][119]LogSkeletalMesh: Section 0: Material=0, 2000 triangles
+[2020.05.25-08.28.32:491][119]LogSkeletalMesh: Building Skeletal Mesh balcdoortest...
+[2020.05.25-08.28.32:637][119]LogSkeletalMesh: Section 0: 1548 vertices, 1 active bones
+[2020.05.25-08.28.32:638][119]LogSkeletalMesh: Section 0: Material=0, 2000 triangles
+[2020.05.25-08.28.32:646][119]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/Aquarium/Mesh/anims/balcdoortest.balcdoortest
+[2020.05.25-08.28.32:671][119]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.28.32:671][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.28.32:682][119]LogFbx: SortedLinks :(0) SM_BalconyDoor_ID_Moved_V2_Up_Door
+[2020.05.25-08.28.32:682][119]LogFbx: Parsing AnimStack Unreal Take
+[2020.05.25-08.28.32:759][119]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+[2020.05.25-08.28.32:759][119]LogAnimationCompression: Recompressing (AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.25-08.28.32:790][119]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.25-08.28.32:790][119]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.05.25-08.28.36:171][202]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+[2020.05.25-08.28.36:192][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.25-08.28.36:750][202]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.25-08.28.37:566][202]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.25-08.28.46:215][391]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.25-08.28.48:750][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.05.25-08.28.49:875][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.28.51:662][503]Cmd: DELETE
+[2020.05.25-08.28.51:662][503]Cmd: ACTOR DELETE
+[2020.05.25-08.28.51:761][503]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.25-08.28.51:837][503]LogUObjectHash: Compacting FUObjectHashTables data took  11.29ms
+[2020.05.25-08.28.51:882][503]LogEditorActor: Deleted 1 Actors (0.220 secs)
+[2020.05.25-08.28.53:202][537]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2020.05.25-08.28.54:704][573]LogSlate: Window 'balcdoortest_Anim' being destroyed
+[2020.05.25-08.28.54:733][573]LogSlate: Window 'balcdoortest_Anim' being destroyed
+[2020.05.25-08.28.54:734][573]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.28.54:734][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.28.55:347][573]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.28.55:347][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.25-08.28.55:706][586]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.05.25-08.28.56:399][613]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.05.25-08.28.57:052][628]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.05.25-08.29.01:441][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.05.25-08.29.03:884][834]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.05.25-08.29.06:955][913]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.05.25-08.29.10:207][994]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.05.25-08.29.11:382][ 23]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.05.25-08.29.13:236][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.05.25-08.29.13:651][ 94]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.25-08.29.14:336][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.05.25-08.29.15:086][141]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.05.25-08.29.18:329][247]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.05.25-08.29.18:669][255]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.05.25-08.32.10:593][ 48]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.32.35:206][486]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_02)
+[2020.05.25-08.32.36:098][581]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.SQ_BalconyDoorOpen_02
+[2020.05.25-08.35.05:669][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.35.12:934][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.35.49:293][951]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.49:293][951]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.35.49:683][966]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.49:683][966]LogEditorTransaction: Undo Move Actors
+[2020.05.25-08.35.50:027][994]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.50:027][994]LogEditorTransaction: Undo Select Actors/Components
+[2020.05.25-08.35.50:309][ 22]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.50:309][ 22]LogEditorTransaction: Undo Select None
+[2020.05.25-08.35.50:601][ 44]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.50:601][ 44]LogEditorTransaction: Undo Replace Binding with Actors
+[2020.05.25-08.35.50:873][ 67]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.50:873][ 67]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.35.51:121][ 87]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.51:121][ 87]LogEditorTransaction: Undo Select Actors/Components
+[2020.05.25-08.35.51:355][106]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.51:355][106]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.25-08.35.51:825][158]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.51:825][158]LogEditorTransaction: Undo Delete Node
+[2020.05.25-08.35.55:742][619]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.55:742][619]LogEditorTransaction: Undo Select None
+[2020.05.25-08.35.56:238][639]Cmd: TRANSACTION UNDO
+[2020.05.25-08.35.56:239][639]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.25-08.36.07:049][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door)
+[2020.05.25-08.36.20:062][ 65]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.36.25:868][652]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.36.56:472][583]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_02)
+[2020.05.25-08.36.57:727][714]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.SQ_BalconyDoorOpen_02
+[2020.05.25-08.37.08:942][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor2)
+[2020.05.25-08.38.27:652][219]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.25-08.38.29:940][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.38.31:627][598]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.38.37:449][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door2)
+[2020.05.25-08.38.38:823][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.38.49:328][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door2)
+[2020.05.25-08.38.53:883][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.39.03:750][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door2)
+[2020.05.25-08.39.09:087][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.39.23:849][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door2)
+[2020.05.25-08.39.30:686][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Frame2)
+[2020.05.25-08.39.31:767][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door2)
+[2020.05.25-08.39.38:777][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door2)
+[2020.05.25-08.40.36:377][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor2)
+[2020.05.25-08.40.36:459][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.40.56:539][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor2)
+[2020.05.25-08.41.05:895][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor2)
+[2020.05.25-08.41.25:470][229]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_0279651DD8499B1B4AA88315886BA0FB71.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.uasset'
+[2020.05.25-08.41.25:596][229]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_02
+[2020.05.25-08.41.25:596][229]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.SQ_BalconyDoorOpen_02
+[2020.05.25-08.46.35:328][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door)
+[2020.05.25-08.46.46:572][245]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_02DA1C41924E88EABA78CD3A8F4A38169E.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.uasset'
+[2020.05.25-08.46.46:701][245]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_02
+[2020.05.25-08.46.46:701][245]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_02.SQ_BalconyDoorOpen_02
+[2020.05.25-08.46.48:507][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor)
+[2020.05.25-08.46.49:286][482]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_01)
+[2020.05.25-08.46.50:111][558]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.47.21:545][604]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Dolphin_Balc3_Sequence)
+[2020.05.25-08.47.31:493][630]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_02)
+[2020.05.25-08.47.47:473][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.47.49:980][672]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_4)
+[2020.05.25-08.47.50:789][764]Cmd: DELETE
+[2020.05.25-08.47.50:789][764]Cmd: ACTOR DELETE
+[2020.05.25-08.47.50:827][764]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2020.05.25-08.47.50:981][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.05.25-08.47.51:009][764]LogEditorActor: Deleted 1 Actors (0.220 secs)
+[2020.05.25-08.47.52:127][897]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (SQ_BalconyDoorOpen_03)
+[2020.05.25-08.47.56:340][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.25-08.48.05:528][352]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.SQ_BalconyDoorOpen_03
+[2020.05.25-08.48.15:622][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor3)
+[2020.05.25-08.49.12:794][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door3)
+[2020.05.25-08.49.15:913][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door3)
+[2020.05.25-08.49.18:648][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door3)
+[2020.05.25-08.49.27:242][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Lower_Door3)
+[2020.05.25-08.49.32:447][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Up_Door3)
+[2020.05.25-08.49.35:550][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_Mid_Door3)
+[2020.05.25-08.49.44:057][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AQwall5)
+[2020.05.25-08.49.58:164][326]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_03EBA8E02445E9A8E52F61F095E6D65B8F.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.uasset'
+[2020.05.25-08.49.58:274][326]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_03
+[2020.05.25-08.49.58:274][326]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.SQ_BalconyDoorOpen_03
+[2020.05.25-08.51.28:690][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor3)
+[2020.05.25-08.51.34:534][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor3)
+[2020.05.25-08.51.43:511][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor3)
+[2020.05.25-08.52.06:135][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_R_GoldenDoor3)
+[2020.05.25-08.52.14:203][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BalconyDoor_ID_Moved_V2_L_GoldenDoor3)
+[2020.05.25-08.52.25:358][679]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_03B9D9B22941B99550647FEFAB3AD19326.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.uasset'
+[2020.05.25-08.52.25:467][679]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_03
+[2020.05.25-08.52.25:467][679]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.SQ_BalconyDoorOpen_03
+[2020.05.25-08.52.42:919][621]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_0345D48DF544500FF8CA7E7198D43B460C.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.uasset'
+[2020.05.25-08.52.43:042][621]AssetCheck: New page: Asset Save: SQ_BalconyDoorOpen_03
+[2020.05.25-08.52.43:042][621]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_03.SQ_BalconyDoorOpen_03
+[2020.05.25-08.52.49:612][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.05.25-08.52.51:992][310]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_Playable5198F6244F94570076988C80084288C4.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.25-08.52.56:340][310]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/Oligocene_Playable_BuiltData67063D4744F529E875FA299E540B4666.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.uasset'
+[2020.05.25-08.52.56:748][310]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-08.52.56:748][310]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.25-08.52.56:748][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/Oligocene_Playable_BuiltData.Oligocene_Playable_BuiltData
+[2020.05.25-08.53.02:050][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.05.25-08.53.03:238][894]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-08.53.03:307][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aquarium/Mesh/anims/balcdoortest" FILE="I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/balcdoortest.uasset" SILENT=true
+[2020.05.25-08.53.03:378][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/balcdoortest1F7E41A048E40CF9E6C404B3A438B10C.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/balcdoortest.uasset'
+[2020.05.25-08.53.03:895][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/balcdoortest_Anim3756B1EB458870DAD26821B54B1ACA0C.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/balcdoortest_Anim.uasset'
+[2020.05.25-08.53.04:025][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/balcdoortest_PhysicsAsset68FCABA249DEA125E25081A37AB6DB81.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/balcdoortest_PhysicsAsset.uasset'
+[2020.05.25-08.53.04:150][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/balcdoortest_Skeleton07D7590B4C5174647DDF85A592542E0C.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/balcdoortest_Skeleton.uasset'
+[2020.05.25-08.53.04:445][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/M_StainedGlass_Material_ID_DiffuC25973EB4969651463A1BCB08097CF23.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/M_StainedGlass_Material_ID_Diffuse.uasset'
+[2020.05.25-08.53.04:580][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/MI_DeckScifiDoor79884DA74754E7CE8469078E5788174C.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/anims/MI_DeckScifiDoor.uasset'
+[2020.05.25-08.53.04:726][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/BP_BalconyScifiDoorB5798641492FF4B12C5507A7005AB441.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Aquarium/Mesh/BP_BalconyScifiDoor.uasset'
+[2020.05.25-08.53.04:888][894]LogSavePackage: Moving 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Saved/SQ_BalconyDoorOpen_01E1E6B5904E4235973A83F089DECEB783.tmp' to 'I:/Sushi Ben VR/UNREAL PROJECT/SBVR_Master_clone/Oligocene_Project/Content/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.uasset'
+[2020.05.25-08.53.05:035][894]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-08.53.05:035][894]LogContentValidation: Display: Validating SkeletalMesh /Game/Aquarium/Mesh/anims/balcdoortest.balcdoortest
+[2020.05.25-08.53.05:035][894]LogContentValidation: Display: Validating AnimSequence /Game/Aquarium/Mesh/anims/balcdoortest_Anim.balcdoortest_Anim
+[2020.05.25-08.53.05:035][894]LogContentValidation: Display: Validating PhysicsAsset /Game/Aquarium/Mesh/anims/balcdoortest_PhysicsAsset.balcdoortest_PhysicsAsset
+[2020.05.25-08.53.05:035][894]LogContentValidation: Display: Validating Skeleton /Game/Aquarium/Mesh/anims/balcdoortest_Skeleton.balcdoortest_Skeleton
+[2020.05.25-08.53.05:035][894]LogContentValidation: Display: Validating Texture2D /Game/Aquarium/Mesh/anims/M_StainedGlass_Material_ID_Diffuse.M_StainedGlass_Material_ID_Diffuse
+[2020.05.25-08.53.05:036][894]LogContentValidation: Display: Validating Material /Game/Aquarium/Mesh/anims/MI_DeckScifiDoor.MI_DeckScifiDoor
+[2020.05.25-08.53.05:036][894]LogContentValidation: Display: Validating Blueprint /Game/Aquarium/Mesh/BP_BalconyScifiDoor.BP_BalconyScifiDoor
+[2020.05.25-08.53.05:036][894]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/interior_Gameplay/SQ_BalconyDoorOpen_01.SQ_BalconyDoorOpen_01
+[2020.05.25-08.53.08:460][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.25-08.53.08:523][286]LogSlate: Window 'Message Log' being destroyed
+[2020.05.25-08.53.08:527][286]LogSlate: Window 'Oligocene_Project - Unreal Editor' being destroyed
+[2020.05.25-08.53.08:527][286]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.25-08.53.09:256][287]Cmd: QUIT_EDITOR
+[2020.05.25-08.53.09:256][287]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.25-08.53.09:273][287]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.25-08.53.09:274][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.25-08.53.09:309][287]LogExit: Preparing to exit.
+[2020.05.25-08.53.10:081][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.05.25-08.53.10:160][287]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:162][287]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:164][287]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:166][287]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:168][287]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:170][287]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:232][287]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.25-08.53.10:883][287]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-08.53.10:888][287]LogExit: Editor shut down
+[2020.05.25-08.53.10:889][287]LogExit: Transaction tracking system shut down
+[2020.05.25-08.53.11:561][287]LogExit: Object subsystem successfully closed.
+[2020.05.25-08.53.11:591][287]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module PinnedCommandList (772)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module SkeletonEditor (770)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module AnimationEditor (768)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module MeshBuilder (766)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module BlueprintGraph (764)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module SequencerWidgets (762)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (760)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module SceneOutliner (758)
+[2020.05.25-08.53.11:611][287]LogModuleManager: Shutting down and abandoning module AddContentDialog (756)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module WidgetCarousel (755)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module EditorWidgets (752)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module CollectionManager (750)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module StatsViewer (748)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (746)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module FoliageEdit (744)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module LandscapeEditor (742)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module MeshPaintMode (740)
+[2020.05.25-08.53.11:612][287]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (738)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ActorPickerMode (736)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module GeometryMode (734)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module TextureAlignMode (732)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module BspMode (730)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (728)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (726)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AutomationWorker (724)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SteamVREditor (722)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module OculusMR (720)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (718)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (716)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (714)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module PlacementMode (713)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MaterialEditor (712)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (708)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (706)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (704)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (702)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (700)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module WebMMedia (698)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (696)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (694)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SequenceRecorder (693)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (690)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (688)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (686)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (684)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (682)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (680)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (678)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (676)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (674)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (672)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module CharacterAI (670)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SmartSnapping (668)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SessionServices (666)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module MeshPaint (664)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ViewportSnapping (662)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ViewportInteraction (660)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module ClothPainter (658)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (657)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module LogVisualizer (654)
+[2020.05.25-08.53.11:613][287]LogModuleManager: Shutting down and abandoning module IntroTutorials (652)
+[2020.05.25-08.53.11:614][287]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (651)
+[2020.05.25-08.53.11:614][287]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (648)
+[2020.05.25-08.53.11:614][287]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (646)
+[2020.05.25-08.53.11:614][287]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (644)
+[2020.05.25-08.53.11:614][287]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (643)
+[2020.05.25-08.53.12:184][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (640)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (638)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (636)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (634)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (632)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (630)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module InputBindingEditor (628)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module MergeActors (626)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (624)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module LocalizationService (623)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module HardwareTargeting (620)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (618)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module UndoHistory (616)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module XmlParser (614)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module Blutility (612)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (610)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (609)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (606)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module SettingsEditor (604)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module ProjectLauncher (602)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module SessionFrontend (600)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module ProfilerClient (598)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module DeviceManager (596)
+[2020.05.25-08.53.12:185][287]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (595)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module AutomationController (592)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module AutomationWindow (590)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module Layers (588)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (586)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module DetailCustomizations (584)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module PackagesDialog (582)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (580)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module Persona (578)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module AnimGraph (577)
+[2020.05.25-08.53.12:218][287]LogModuleManager: Shutting down and abandoning module Kismet (574)
+[2020.05.25-08.53.12:225][287]LogModuleManager: Shutting down and abandoning module KismetWidgets (573)
+[2020.05.25-08.53.12:225][287]LogModuleManager: Shutting down and abandoning module GraphEditor (570)
+[2020.05.25-08.53.12:225][287]LogModuleManager: Shutting down and abandoning module StructViewer (568)
+[2020.05.25-08.53.12:225][287]LogModuleManager: Shutting down and abandoning module ClassViewer (566)
+[2020.05.25-08.53.12:227][287]LogModuleManager: Shutting down and abandoning module Toolbox (564)
+[2020.05.25-08.53.12:227][287]LogModuleManager: Shutting down and abandoning module ModuleUI (562)
+[2020.05.25-08.53.12:227][287]LogModuleManager: Shutting down and abandoning module OutputLog (560)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module GammaUI (558)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module Documentation (556)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module LiveCoding (554)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module LevelSequence (552)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (550)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module MovieScene (548)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (546)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module LauncherPlatform (544)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module AnalyticsET (542)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module PortalServices (540)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module PortalRpc (538)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module MessagingRpc (536)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (534)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module AIModule (532)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module GameplayDebugger (531)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module AITestSuite (529)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module NavigationSystem (527)
+[2020.05.25-08.53.12:228][287]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (524)
+[2020.05.25-08.53.12:232][287]LogModuleManager: Shutting down and abandoning module ProfilerService (522)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module TaskGraph (520)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MegascansPlugin (518)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (516)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ToolMenus (515)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ScreenshotTools (512)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (510)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (508)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module OculusEditor (506)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module OculusInput (504)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (502)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module EditableMesh (500)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (498)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module CableComponent (496)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AudioCapture (494)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (493)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AssetTags (490)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (488)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (486)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AppleImageUtils (484)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module AndroidPermission (482)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (480)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (478)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MediaCompositing (476)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ImgMedia (474)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (466)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (464)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MeshModelingTools (462)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (460)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ModelingOperators (458)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module ModelingComponents (456)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (454)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module MeshConversion (452)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module DynamicMesh (450)
+[2020.05.25-08.53.12:462][287]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (448)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometricObjects (446)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (444)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (443)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (440)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (438)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (436)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (434)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module DataprepLibraries (432)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module DataprepCore (430)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module DataprepEditor (428)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (426)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module BlastCore (424)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module BlastAuthoring (422)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module BackChannel (420)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (418)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module AutomationUtils (416)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module AlembicImporter (414)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module AlembicLibrary (413)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCache (412)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (411)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (406)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (404)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (403)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (402)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (399)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (396)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (394)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module PluginBrowser (392)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (390)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module PolygonModeling (388)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module MeshEditor (386)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (384)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (382)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module CurveEditorTools (380)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (378)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module CryptoKeys (376)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (374)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (372)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module UObjectPlugin (370)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (368)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (366)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (364)
+[2020.05.25-08.53.12:463][287]LogModuleManager: Shutting down and abandoning module GitSourceControl (362)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module SourceControl (361)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (358)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (356)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (354)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (352)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (350)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (348)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (346)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module Paper2DEditor (344)
+[2020.05.25-08.53.12:464][287]LogModuleManager: Shutting down and abandoning module FMODStudio (342)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.05.25-08.53.12:671][287]LogModuleManager: Shutting down and abandoning module UdpMessaging (328)
+[2020.05.25-08.53.12:772][287]LogModuleManager: Shutting down and abandoning module TcpMessaging (326)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (324)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (322)
+[2020.05.25-08.53.12:873][287]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (318)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (314)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2020.05.25-08.53.12:873][287]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module DataValidation (292)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2020.05.25-08.53.12:873][287]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
+[2020.05.25-08.53.12:874][287]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
+[2020.05.25-08.53.12:874][287]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
+[2020.05.25-08.53.12:874][287]LogModuleManager: Shutting down and abandoning module MainFrame (284)
+[2020.05.25-08.53.12:874][287]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2020.05.25-08.53.12:875][287]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
+[2020.05.25-08.53.12:876][287]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2020.05.25-08.53.12:876][287]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
+[2020.05.25-08.53.12:876][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (272)
+[2020.05.25-08.53.12:876][287]LogModuleManager: Shutting down and abandoning module Paper2D (270)
+[2020.05.25-08.53.12:876][287]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (268)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (266)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (264)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module PacketHandler (262)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module MessageLog (233)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module MRMesh (218)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (216)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (214)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module XAudio2 (212)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module Networking (210)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module Core (208)
+[2020.05.25-08.53.12:879][287]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2020.05.25-08.53.12:880][287]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
+[2020.05.25-08.53.12:880][287]LogModuleManager: Shutting down and abandoning module Sequencer (203)
+[2020.05.25-08.53.12:880][287]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2020.05.25-08.53.12:881][287]LogDerivedDataCache: Shutdown
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2020.05.25-08.53.12:881][287]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2020.05.25-08.53.12:882][287]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2020.05.25-08.53.12:882][287]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2020.05.25-08.53.12:882][287]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2020.05.25-08.53.12:883][287]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.05.25-08.53.12:884][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2020.05.25-08.53.12:884][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2020.05.25-08.53.12:884][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2020.05.25-08.53.12:885][287]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.05.25-08.53.12:885][287]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.05.25-08.53.12:885][287]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.25-08.53.12:885][287]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.05.25-08.53.12:885][287]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.05.25-08.53.12:886][287]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.05.25-08.53.12:902][287]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2020.05.25-08.53.12:902][287]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2020.05.25-08.53.12:902][287]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2020.05.25-08.53.12:902][287]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module Chaos (96)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2020.05.25-08.53.12:903][287]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
+[2020.05.25-08.53.12:903][287]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2020.05.25-08.53.12:904][287]LogModuleManager: Shutting down and abandoning module XMPP (69)
+[2020.05.25-08.53.12:904][287]LogModuleManager: Shutting down and abandoning module WebSockets (68)
+[2020.05.25-08.53.12:919][287]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2020.05.25-08.53.12:919][287]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.25-08.53.12:919][287]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B125E1BC1-4094-7A60-3E7A-3E806F9914D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=46c3c9dc4c4399f85476308e333fa978%7C55bcd7004aee4249b9cdd3dd205e65e1%7C2060ff5a-1195-4479-b90d-6785d7523b0c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.25-08.53.12:951][287]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2020.05.25-08.53.12:952][287]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
+[2020.05.25-08.53.12:953][287]LogModuleManager: Shutting down and abandoning module Media (59)
+[2020.05.25-08.53.12:954][287]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2020.05.25-08.53.12:954][287]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.05.25-08.53.12:954][287]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.25-08.53.13:008][287]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.25-08.53.13:012][287]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.25-08.53.13:012][287]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.25-08.53.13:012][287]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.25-08.53.13:012][287]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.25-08.53.13:012][287]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.25-08.53.13:013][287]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.25-08.53.13:022][287]LogD3D11RHI: Shutdown
+[2020.05.25-08.53.13:022][287]LogD3D11RHI: CleanupD3DDevice
+[2020.05.25-08.53.13:044][287]LogExit: Exiting.
+[2020.05.25-08.53.13:056][287]Log file closed, 05/25/20 04:53:13
