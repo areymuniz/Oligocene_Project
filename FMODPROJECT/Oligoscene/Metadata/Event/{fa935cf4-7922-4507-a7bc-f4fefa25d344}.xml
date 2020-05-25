@@ -34,6 +34,9 @@
 		<relationship name="parameters">
 			<destination>{5e2d1f19-d96a-4977-8c90-7a9f37db296d}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{1504ad05-4549-4e0b-9fcd-0baa85622817}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{633d1d10-19f6-40cf-bec4-4ebe89bb7f7f}">
 		<relationship name="masterBus">
@@ -229,7 +232,7 @@
 			<value>Attenuation</value>
 		</property>
 		<property name="value">
-			<value>false</value>
+			<value>true</value>
 		</property>
 	</object>
 	<object class="FloatPluginParameter" id="{69f1ae2e-7509-4920-a9e9-8b359e8d71ca}">
