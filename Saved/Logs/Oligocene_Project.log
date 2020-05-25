@@ -1140,3 +1140,17 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.25-12.32.23:653][ 88]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.25-12.32.23:653][ 88]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Shark_Balc2_Sequence.Shark_Balc2_Sequence
 [2020.05.25-12.32.23:653][ 88]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
+[2020.05.25-12.36.38:872][154]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Shark_Balc2_Sequence)
+[2020.05.25-12.39.54:318][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.25-12.55.18:568][916]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.25-13.00.48:687][ 73]Cmd: TRANSACTION UNDO
+[2020.05.25-13.00.48:687][ 73]LogEditorTransaction: Undo Rotate Actors
+[2020.05.25-13.06.26:268][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.05.25-13.06.27:562][329]LogSlate: Window 'Save Content' being destroyed
+[2020.05.25-13.06.27:636][329]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Dolphin_Balc1_SequenceF7FA16C0454575256D9E818B37AAABC3.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/Sequencers/Dolphin_Balc1_Sequence.uasset'
+[2020.05.25-13.06.27:683][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.05.25-13.06.29:631][329]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Saved/Oligocene_Playable5882F464447793D3917F37A8C222D504.tmp' to '../../../../../../Documents/Unreal Projects/Oligocene_Project/Oligocene_Project/Content/VirtualRealityBP/Maps/Oligocene_Playable.umap'
+[2020.05.25-13.06.29:695][329]LogFileHelpers: Saving map 'Oligocene_Playable' took 2.057
+[2020.05.25-13.06.29:736][329]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.25-13.06.29:736][329]LogContentValidation: Display: Validating LevelSequence /Game/Sequencers/Dolphin_Balc1_Sequence.Dolphin_Balc1_Sequence
+[2020.05.25-13.06.29:736][329]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Oligocene_Playable.Oligocene_Playable
