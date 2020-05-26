@@ -225,7 +225,7 @@
 			<value>Reflections</value>
 		</property>
 		<property name="value">
-			<value>true</value>
+			<value>false</value>
 		</property>
 	</object>
 	<object class="BoolPluginParameter" id="{091c6741-9cc6-49d7-abcb-b214554eb48d}">
