@@ -75,9 +75,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{ecdea8bd-6ecf-428d-a267-092ae7188877}">
-		<property name="pitch">
-			<value>0.100000001</value>
-		</property>
 		<relationship name="effectChain">
 			<destination>{3da2c233-1cfc-43df-b796-61d8af80cfa3}</destination>
 		</relationship>
@@ -173,7 +170,6 @@
 		<property name="name">
 			<value>3D Attributes</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-2</value>
 		</property>
@@ -199,7 +195,7 @@
 			<value>V. Radius</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>0.600000024</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,1.000000)(2.000000,4.000000)(3.000000,11.000000)(4.000000,25.000000)(5.000000,100.000000)(6.000000,1000.000000)}</value>
@@ -210,7 +206,7 @@
 			<value>Range Min</value>
 		</property>
 		<property name="value">
-			<value>0.25</value>
+			<value>0</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
@@ -221,7 +217,7 @@
 			<value>Range Max</value>
 		</property>
 		<property name="value">
-			<value>8.60000038</value>
+			<value>4.4000001</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
@@ -231,7 +227,6 @@
 		<property name="name">
 			<value>Overall Gain</value>
 		</property>
-		<property name="value" />
 		<property name="dataType">
 			<value>-1</value>
 		</property>
@@ -241,7 +236,7 @@
 			<value>Reverb Send</value>
 		</property>
 		<property name="value">
-			<value>-11.5</value>
+			<value>-14</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,-60.000000)(1.000000,-40.000000)(2.000000,-20.000000)(3.000000,-12.000000)(4.000000,-6.000000)(5.000000,-2.000000)(6.000000,0.000000)(7.000000,2.000000)(8.000000,6.000000)(9.000000,12.000000)(10.000000,20.000000)}</value>

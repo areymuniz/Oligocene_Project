@@ -361,7 +361,7 @@
 			<value>Reflections</value>
 		</property>
 		<property name="value">
-			<value>false</value>
+			<value>true</value>
 		</property>
 	</object>
 	<object class="BoolPluginParameter" id="{2a3330ed-c776-4914-ab03-4bed1457cb87}">
@@ -377,7 +377,7 @@
 			<value>V. Radius</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>0.650000036</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,1.000000)(2.000000,4.000000)(3.000000,11.000000)(4.000000,25.000000)(5.000000,100.000000)(6.000000,1000.000000)}</value>
@@ -399,7 +399,7 @@
 			<value>Range Max</value>
 		</property>
 		<property name="value">
-			<value>6.4000001</value>
+			<value>6.80000019</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
