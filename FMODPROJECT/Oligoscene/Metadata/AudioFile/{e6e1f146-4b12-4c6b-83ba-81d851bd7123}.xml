@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e6e1f146-4b12-4c6b-83ba-81d851bd7123}">
+		<property name="assetPath">
+			<value>Tunnel_SFX/Animations_Tunnel/Dolphin_Echo_3_Extended.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.2400000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfa8b5d7-6fb4-44c6-991d-f61ba4dd4a44}</destination>
+		</relationship>
+	</object>
+</objects>
