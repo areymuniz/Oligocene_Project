@@ -5,3 +5,4 @@ Saved/Backup
 
 Build/*
 !Build/**/*.ico
+Intermediate/CachedAssetRegistry.bin
