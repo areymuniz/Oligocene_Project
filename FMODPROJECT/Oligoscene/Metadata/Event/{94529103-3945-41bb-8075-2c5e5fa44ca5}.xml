@@ -80,9 +80,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{fe884bf2-f326-4098-a676-10dd76fe9abc}">
-		<property name="volume">
-			<value>-10.5</value>
-		</property>
 		<relationship name="modulators">
 			<destination>{e4d04d03-1dcc-4193-b462-505e60a7d41a}</destination>
 		</relationship>
