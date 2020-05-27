@@ -66,6 +66,9 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{a2655664-2b41-4a31-af46-ca6ef5f4f485}">
 		<property name="maxVoices">
+			<value>5</value>
+		</property>
+		<property name="priority">
 			<value>1</value>
 		</property>
 		<property name="dopplerEnabled">
