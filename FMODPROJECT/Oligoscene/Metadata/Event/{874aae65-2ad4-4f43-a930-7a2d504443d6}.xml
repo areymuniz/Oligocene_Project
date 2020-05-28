@@ -59,7 +59,11 @@
 			<destination>{d5fa3783-eb89-4f2f-accb-7d7f766b3123}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{0b5df589-5bb1-4ba8-b2b6-f7e04f80aaef}" />
+	<object class="EventAutomatableProperties" id="{0b5df589-5bb1-4ba8-b2b6-f7e04f80aaef}">
+		<property name="triggerCooldown">
+			<value>760</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{a53e0be4-57ee-43be-9ea6-fefbafe58bed}" />
 	<object class="GroupTrack" id="{87094102-9bfe-429c-9f2b-efb0eb568f54}">
 		<relationship name="modules">
