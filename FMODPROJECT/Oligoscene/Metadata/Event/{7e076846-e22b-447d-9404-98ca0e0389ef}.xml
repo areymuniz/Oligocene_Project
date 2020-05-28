@@ -135,11 +135,14 @@
 	</object>
 	<object class="SingleSound" id="{7470048f-aba5-4e7b-8594-bfcd8c061e08}">
 		<property name="start">
-			<value>0.5</value>
+			<value>0.55000000000000004</value>
 		</property>
 		<property name="length">
-			<value>3.0513151927437643</value>
+			<value>1.5500000000000003</value>
 		</property>
+		<relationship name="fadeOutCurve">
+			<destination>{67e09c73-15c7-4a31-a3b5-e6adac9bc83b}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{6c152c24-d0a2-4d0d-94dd-40da7b3821ca}</destination>
 		</relationship>
@@ -211,6 +214,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{701af50f-d4c5-4a4a-9c5a-a4ecc1da93b1}" />
+	<object class="FadeCurve" id="{67e09c73-15c7-4a31-a3b5-e6adac9bc83b}">
+		<relationship name="startPoint">
+			<destination>{0920518a-7733-4a6a-850e-e10747e8e108}</destination>
+		</relationship>
+		<relationship name="endPoint">
+			<destination>{6a2b201b-b0fc-488a-b560-9a919785f5f3}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{40b57241-3122-4073-925f-4e6b343a1111}">
 		<relationship name="effects">
 			<destination>{5f9cba3a-41fa-4c2f-967f-ff3afb91f963}</destination>
@@ -257,6 +268,25 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{7624cc81-48b8-4940-a021-0d0dd5a34c9b}" />
+	<object class="AutomationPoint" id="{0920518a-7733-4a6a-850e-e10747e8e108}">
+		<property name="position">
+			<value>1.4000000000000001</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+		<property name="curveShape">
+			<value>0.25471893</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{6a2b201b-b0fc-488a-b560-9a919785f5f3}">
+		<property name="position">
+			<value>2.1000000000000005</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{5f9cba3a-41fa-4c2f-967f-ff3afb91f963}" />
 	<object class="Plugin" id="{dbd7e44d-c6d3-49b2-998a-0dbe0a0902fb}">
 		<property name="identifier">
