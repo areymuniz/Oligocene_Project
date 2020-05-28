@@ -198,7 +198,7 @@
 			<value>Reflections</value>
 		</property>
 		<property name="value">
-			<value>true</value>
+			<value>false</value>
 		</property>
 	</object>
 	<object class="BoolPluginParameter" id="{81cf8243-8a2c-4047-9838-9fc597d070bb}">
@@ -206,7 +206,7 @@
 			<value>Attenuation</value>
 		</property>
 		<property name="value">
-			<value>false</value>
+			<value>true</value>
 		</property>
 	</object>
 	<object class="FloatPluginParameter" id="{79bcbf88-1218-4ea9-a81b-f5460c09ad09}">
@@ -236,7 +236,7 @@
 			<value>Range Max</value>
 		</property>
 		<property name="value">
-			<value>55</value>
+			<value>10000</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
@@ -255,7 +255,7 @@
 			<value>Reverb Send</value>
 		</property>
 		<property name="value">
-			<value>-12.5</value>
+			<value>-60</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,-60.000000)(1.000000,-40.000000)(2.000000,-20.000000)(3.000000,-12.000000)(4.000000,-6.000000)(5.000000,-2.000000)(6.000000,0.000000)(7.000000,2.000000)(8.000000,6.000000)(9.000000,12.000000)(10.000000,20.000000)}</value>
