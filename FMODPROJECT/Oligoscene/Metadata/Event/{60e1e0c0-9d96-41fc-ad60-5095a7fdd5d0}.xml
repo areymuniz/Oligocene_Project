@@ -5,7 +5,7 @@
 			<value>LabExitVO</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c066de2e-4098-4f53-b50a-ebfe152b069d}</destination>
@@ -96,7 +96,11 @@
 			<destination>{0c2b4b8b-7d38-4ae4-89ae-475e02946239}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{12e97b45-5d1c-4154-a6aa-a2fcc126c539}" />
+	<object class="MultiSound" id="{12e97b45-5d1c-4154-a6aa-a2fcc126c539}">
+		<relationship name="sounds">
+			<destination>{a89f4e86-33e2-4b0a-afd0-3e82eb459fdc}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{0b766459-dc6f-4e53-800c-f01b46bd11a8}">
 		<relationship name="effects">
 			<destination>{27cc7de4-b9f8-48d4-8cdc-a9f409603487}</destination>
@@ -148,6 +152,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{efa4ac08-e55e-48ae-ae3d-6f00fcf6abd0}" />
+	<object class="SingleSound" id="{a89f4e86-33e2-4b0a-afd0-3e82eb459fdc}">
+		<relationship name="audioFile">
+			<destination>{863ee1c1-5e7c-4292-8895-efd53d2103ff}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{27cc7de4-b9f8-48d4-8cdc-a9f409603487}" />
 	<object class="MixerBusEffectChain" id="{5ee29e4f-a3ac-44e8-83f7-6a188c900ae3}">
 		<relationship name="effects">
@@ -160,7 +169,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -171,7 +180,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -182,7 +191,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>

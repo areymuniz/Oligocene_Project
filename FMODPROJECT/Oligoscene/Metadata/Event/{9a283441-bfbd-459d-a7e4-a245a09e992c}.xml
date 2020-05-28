@@ -5,7 +5,7 @@
 			<value>HeroDolphinVO</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c066de2e-4098-4f53-b50a-ebfe152b069d}</destination>
@@ -93,7 +93,11 @@
 			<destination>{95d0f23a-4c08-4462-b06a-864e7dfc4d12}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{f3189f81-3ff0-48b2-a5ec-39053f477bfe}" />
+	<object class="MultiSound" id="{f3189f81-3ff0-48b2-a5ec-39053f477bfe}">
+		<relationship name="sounds">
+			<destination>{c19373b6-babe-47e5-9c16-5ff384f8bc5a}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{fbede983-363e-4830-91e7-53bbe2ce16f4}">
 		<relationship name="effects">
 			<destination>{e71abb9d-f759-4405-afb2-404d7941aa03}</destination>
@@ -140,6 +144,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{82703f87-8a94-4262-87d1-6d4dc88e108c}" />
+	<object class="SingleSound" id="{c19373b6-babe-47e5-9c16-5ff384f8bc5a}">
+		<relationship name="audioFile">
+			<destination>{ed9de569-52ba-422a-99a2-5f6f31fa6b2c}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{e71abb9d-f759-4405-afb2-404d7941aa03}" />
 	<object class="MixerBusEffectChain" id="{fb8f0945-4440-4d2b-8872-4fbb0cb48a8d}">
 		<relationship name="effects">
@@ -152,7 +161,7 @@
 			<value>-3.5</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -163,7 +172,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -174,7 +183,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>

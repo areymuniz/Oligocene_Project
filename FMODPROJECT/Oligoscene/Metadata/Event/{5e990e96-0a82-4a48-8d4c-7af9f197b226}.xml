@@ -5,7 +5,7 @@
 			<value>LabStartVO</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c066de2e-4098-4f53-b50a-ebfe152b069d}</destination>
@@ -93,7 +93,11 @@
 			<destination>{bec63589-7318-48a6-8a30-fe22068c3d6c}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{da9a7db5-5a5a-4f86-a224-895b0928a621}" />
+	<object class="MultiSound" id="{da9a7db5-5a5a-4f86-a224-895b0928a621}">
+		<relationship name="sounds">
+			<destination>{252e3bb0-fc45-4374-99f8-5f2300bacf37}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{ee5dea4a-81f2-41b5-888e-11928c6c319b}">
 		<relationship name="effects">
 			<destination>{51a9aa2d-ee6b-416b-b0f6-5f95a2d7e955}</destination>
@@ -140,6 +144,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3bcbee0a-a347-4972-8639-161c543a9b34}" />
+	<object class="SingleSound" id="{252e3bb0-fc45-4374-99f8-5f2300bacf37}">
+		<relationship name="audioFile">
+			<destination>{497b36d6-91c7-4938-9953-d3e380ceb48d}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{51a9aa2d-ee6b-416b-b0f6-5f95a2d7e955}" />
 	<object class="MixerBusEffectChain" id="{f8a46503-8728-472e-b88c-1e7085ed4ba4}">
 		<relationship name="effects">
@@ -152,7 +161,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -163,7 +172,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -174,7 +183,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>

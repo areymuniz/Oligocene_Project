@@ -5,7 +5,7 @@
 			<value>WalkwayChunk1VO</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c066de2e-4098-4f53-b50a-ebfe152b069d}</destination>
@@ -104,7 +104,11 @@
 			<destination>{9e24b8ff-ceab-43ca-8241-be540b52189b}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{34d7b529-52f0-4600-8696-ed35b50a2f03}" />
+	<object class="MultiSound" id="{34d7b529-52f0-4600-8696-ed35b50a2f03}">
+		<relationship name="sounds">
+			<destination>{a88af4ca-6410-45df-b124-412d375da002}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{6e1b8f23-f7a4-4277-8cbe-0dcf83f2cbc3}">
 		<relationship name="effects">
 			<destination>{ba5908be-405d-4543-8a59-626d3b3e1629}</destination>
@@ -156,6 +160,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9e46deb2-9ba3-4c36-ae0a-2d0c461cf591}" />
+	<object class="SingleSound" id="{a88af4ca-6410-45df-b124-412d375da002}">
+		<relationship name="audioFile">
+			<destination>{3dd2d7e7-69bc-45f8-a931-1b2a408ac2b5}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{ba5908be-405d-4543-8a59-626d3b3e1629}" />
 	<object class="MixerBusEffectChain" id="{5e924df7-cf95-4770-8453-e3863c3553f1}">
 		<relationship name="effects">
@@ -168,7 +177,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{b5c0635f-7832-453c-a020-fb9311acca45}</destination>
@@ -179,7 +188,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{d60cc51a-16c8-487d-9bcb-fb8a96394c0f}</destination>
@@ -190,7 +199,7 @@
 			<value>0</value>
 		</property>
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{c8b94074-a2b3-4d1f-8ce4-2470a87adec7}</destination>
