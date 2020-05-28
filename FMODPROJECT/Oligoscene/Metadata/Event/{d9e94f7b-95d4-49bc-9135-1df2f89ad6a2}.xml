@@ -57,6 +57,12 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{dfbe7148-3688-46a3-b898-64e8056801c6}">
+		<property name="maxVoices">
+			<value>16</value>
+		</property>
+		<property name="voiceStealing">
+			<value>4</value>
+		</property>
 		<property name="dopplerEnabled">
 			<value>true</value>
 		</property>
@@ -133,10 +139,10 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{60a909a8-041c-4764-81cd-fc00b2924dd6}">
 		<relationship name="effects">
-			<destination>{e6e76cff-95a8-42e5-97f2-daa3885e01c5}</destination>
-			<destination>{f49baf5e-a520-453a-9bf6-31fd45c7438e}</destination>
 			<destination>{6ee5d416-5d23-4c89-84ad-ac597e537321}</destination>
 			<destination>{712925e9-08b5-48ea-9904-b5d7f06b60bc}</destination>
+			<destination>{f49baf5e-a520-453a-9bf6-31fd45c7438e}</destination>
+			<destination>{e6e76cff-95a8-42e5-97f2-daa3885e01c5}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{43f0c8c2-8944-45df-80e5-9d6feef732c7}" />
@@ -147,15 +153,10 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{dd61e9e1-bd16-4ce8-9e14-d61cfe5ffb0d}" />
-	<object class="MixerSend" id="{e6e76cff-95a8-42e5-97f2-daa3885e01c5}">
-		<property name="level">
-			<value>0</value>
-		</property>
-		<property name="inputFormat">
-			<value>1</value>
-		</property>
-		<relationship name="mixerReturn">
-			<destination>{f88b266f-05c4-4790-9b66-6aa75966990a}</destination>
+	<object class="MixerBusFader" id="{6ee5d416-5d23-4c89-84ad-ac597e537321}" />
+	<object class="PluginEffect" id="{712925e9-08b5-48ea-9904-b5d7f06b60bc}">
+		<relationship name="plugin">
+			<destination>{73792476-c8d4-40b6-adc4-55ba139178bf}</destination>
 		</relationship>
 	</object>
 	<object class="MixerSend" id="{f49baf5e-a520-453a-9bf6-31fd45c7438e}">
@@ -169,10 +170,15 @@
 			<destination>{87e63241-8835-431b-9ebe-943e74d5499c}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusFader" id="{6ee5d416-5d23-4c89-84ad-ac597e537321}" />
-	<object class="PluginEffect" id="{712925e9-08b5-48ea-9904-b5d7f06b60bc}">
-		<relationship name="plugin">
-			<destination>{73792476-c8d4-40b6-adc4-55ba139178bf}</destination>
+	<object class="MixerSend" id="{e6e76cff-95a8-42e5-97f2-daa3885e01c5}">
+		<property name="level">
+			<value>0</value>
+		</property>
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{f88b266f-05c4-4790-9b66-6aa75966990a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{9538fe8e-2307-4de5-9ff0-cbfd4011a07f}" />
@@ -204,7 +210,7 @@
 			<value>Reflections</value>
 		</property>
 		<property name="value">
-			<value>true</value>
+			<value>false</value>
 		</property>
 	</object>
 	<object class="BoolPluginParameter" id="{292398dc-093d-4b5d-9177-17263bbc270d}">
@@ -212,7 +218,7 @@
 			<value>Attenuation</value>
 		</property>
 		<property name="value">
-			<value>false</value>
+			<value>true</value>
 		</property>
 	</object>
 	<object class="FloatPluginParameter" id="{63ac4f62-d739-4815-bbc8-a418cab8b894}">
@@ -242,7 +248,7 @@
 			<value>Range Max</value>
 		</property>
 		<property name="value">
-			<value>40</value>
+			<value>550</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,0.000000)(1.000000,5.000000)(2.000000,10.000000)(3.000000,100.000000)(4.000000,1000.000000)(5.000000,10000.000000)}</value>
@@ -261,7 +267,7 @@
 			<value>Reverb Send</value>
 		</property>
 		<property name="value">
-			<value>-12</value>
+			<value>-60</value>
 		</property>
 		<property name="curve">
 			<value>{(0.000000,-60.000000)(1.000000,-40.000000)(2.000000,-20.000000)(3.000000,-12.000000)(4.000000,-6.000000)(5.000000,-2.000000)(6.000000,0.000000)(7.000000,2.000000)(8.000000,6.000000)(9.000000,12.000000)(10.000000,20.000000)}</value>
